@@ -4,7 +4,7 @@ title: "Blabbing Wisefully"
 description: "Blog for basic level blabbing"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: 
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
