@@ -99,7 +99,7 @@ How to Process your inbox?If a card does not have a label that means it needs to
     
 *   **Home , Office** : Cards that require being at a specific location, otherwise no need to select a context. 
 
-![image](/posts/2/1.jpg)
+![image](/assets/posts/2/1.jpg)
 
 Where is my Trello GTD dashboard?
 ---------------------------------

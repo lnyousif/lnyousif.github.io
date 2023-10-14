@@ -2,9 +2,12 @@
 layout: post
 title:  "Laith yousif Comedy"
 author: laith
-categories: [ Jekyll, tutorial ]
+categories: [ comedy ]
 featured: true
 ---
 
-
-<p><iframe style="width:100%;height:100%;" src="https://www.youtube.com/embed/Dggo_fIWfAc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+ <iframe width="560" height="315"
+src="https://www.youtube.com/embed/Dggo_fIWfAc" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
