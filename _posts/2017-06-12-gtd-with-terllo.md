@@ -33,7 +33,7 @@ The other parameter that is included is the context of doing the task this is us
 
 Processing your inbox list is explained clearly using the below diagram
 
-![image](https://64.media.tumblr.com/646c3e3e69c2e5b3b1f7c5949bd0dc31/tumblr_inline_pabt5eKh9I1sa3coh_540.png)
+![image](/assets/posts/2/1.jpg)
 
 What is Trello?
 ---------------
@@ -45,7 +45,7 @@ As described on their website its “A Trello board is a list of lists, filled w
 *   Travel board,
 *   Etc.  
 
-![image](https://64.media.tumblr.com/bebdf4b8084b4642f93587af7a2ff756/tumblr_inline_pabt64Mtpu1sa3coh_540.png)
+![image](/assets/posts/2/2.jpg)
 
 Each board get as many lists, add as many cards to any list. The card listed with a high priority on the top.  
 
@@ -71,7 +71,7 @@ Getting GTD done using Trello
 
 Instead of creating boards or lists that represent pillars of GTD  I decided to go with Labels. You have all the flexibility of Trello untacked. Each board should have the following Labels.
 
-![image](https://64.media.tumblr.com/a2d047129b80683db7c04378fdf0b961/tumblr_inline_pabt7bk5P51sa3coh_400.png)
+![image](/assets/posts/2/3.jpg)
 
 You can see I added few more labels that are not related to GTD approach, I will explain here how that should be used but let me define each pillar.
 
