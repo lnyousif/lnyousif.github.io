@@ -2,9 +2,8 @@
 layout: post
 title:  "GTD the Trelo way revisted"
 author: laith
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
+categories: [ trello, gtd ]
+image: assets/images/gtd2.jpg
 description: "How to apply GTD rules revisted"
 featured: true
 hidden: true

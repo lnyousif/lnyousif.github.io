@@ -4,6 +4,7 @@ title:  "Laith yousif Comedy"
 author: laith
 categories: [ comedy ]
 featured: true
+image: assets/images/laith-comedy.jpg
 ---
 
  <iframe width="560" height="315"

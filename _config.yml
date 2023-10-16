@@ -1,13 +1,12 @@
 # Site
 name: "Laith Yousif"
-title: "Blabbing Wisefully"
+title: "Laith Yousif"
 description: "Blog for basic level blabbing"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo_tr.png'
+favicon: 'assets/images/logo_tr.png'
 baseurl: 
-google_analytics: ''
-disqus: ''
-mailchimp-list: ''
+google_analytics: 
+mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
 
@@ -16,7 +15,7 @@ authors:
   sal:
     name: Laith Yousif
     display_name: Laith
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 4dd659f80f52923c8df63837d5b19ff0
     email: Laith@blabby.me
     web: https://www.laithyousif.com
     twitter: https://twitter.com/lnyousif
