@@ -3,7 +3,9 @@ layout: post
 title:  "GTD the Trello way"
 author: laith
 categories: [ trello, gtd ]
-image: assets/images/gtd1.png
+image:
+  path: assets/laith/img/gtd1.png
+  alt: Getting Things Done.
 ---
 If you have not heard of GTD, I guess you are not missing a lot unless you are having problems accomplishing the many tasks you need to do. So what is GTD (Getting Things Done) is simply an approach to yes you guessed it!! getting things done.
 
@@ -33,7 +35,7 @@ The other parameter that is included is the context of doing the task this is us
 
 Processing your inbox list is explained clearly using the below diagram
 
-![image](/assets/posts/2/1.jpg)
+![image](/assets/laith/posts/2/1.jpg)
 
 What is Trello?
 ---------------
@@ -45,7 +47,7 @@ As described on their website its “A Trello board is a list of lists, filled w
 *   Travel board,
 *   Etc.  
 
-![image](/assets/posts/2/2.jpg)
+![image](/assets/laith/posts/2/2.jpg)
 
 Each board get as many lists, add as many cards to any list. The card listed with a high priority on the top.  
 
@@ -71,7 +73,7 @@ Getting GTD done using Trello
 
 Instead of creating boards or lists that represent pillars of GTD  I decided to go with Labels. You have all the flexibility of Trello untacked. Each board should have the following Labels.
 
-![image](/assets/posts/2/3.jpg)
+![image](/assets/laith/posts/2/3.jpg)
 
 You can see I added few more labels that are not related to GTD approach, I will explain here how that should be used but let me define each pillar.
 

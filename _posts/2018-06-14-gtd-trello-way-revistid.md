@@ -3,10 +3,9 @@ layout: post
 title:  "GTD the Trelo way revisted"
 author: laith
 categories: [ trello, gtd ]
-image: assets/images/gtd2.jpg
+image: assets/laith/img/gtd2.jpg
 description: "How to apply GTD rules revisted"
 featured: true
-hidden: true
 rating: 4.5
 ---
 
@@ -98,7 +97,7 @@ How to Process your inbox?If a card does not have a label that means it needs to
     
 *   **Home , Office** : Cards that require being at a specific location, otherwise no need to select a context. 
 
-![image](/assets/posts/2/1.jpg)
+![image](/assets/laith/posts/2/1.jpg)
 
 Where is my Trello GTD dashboard?
 ---------------------------------
