@@ -4,7 +4,7 @@ title:  "GTD the Trello way"
 author: laith
 categories: [ trello, gtd ]
 image:
-  path: assets/laith/imames/gtd1.png
+  path: assets/laith/images/gtd1.png
   alt: Getting Things Done.
 ---
 If you have not heard of GTD, I guess you are not missing a lot unless you are having problems accomplishing the many tasks you need to do. So what is GTD (Getting Things Done) is simply an approach to yes you guessed it!! getting things done.
