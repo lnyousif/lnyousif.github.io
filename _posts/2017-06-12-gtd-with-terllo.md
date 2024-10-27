@@ -2,7 +2,8 @@
 layout: post
 title:  "GTD the Trello way"
 author: laith
-categories: [ trello, gtd ]
+categories: [productivity]
+tags: [ trello, gtd ]
 image:
   path: assets/laith/images/gtd1.png
   alt: Getting Things Done.
