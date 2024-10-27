@@ -173,8 +173,6 @@ collections:
   pages:
     output: true
     sort_by: order
-    permalink: /:pages/
-
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
@@ -193,9 +191,9 @@ defaults:
   - scope:
       path: ""
       type: tabs # see `site.collections`
-    values:
-      layout: page
-      permalink: pages/:title/
+  - scope:
+      path: pages
+      type: pages # see `site.collections`
 
 sass:
   style: compressed
