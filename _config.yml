@@ -171,6 +171,7 @@ collections:
     output: true
     sort_by: order
   pages:
+    path: pages
     output: true
     sort_by: order
 defaults:
