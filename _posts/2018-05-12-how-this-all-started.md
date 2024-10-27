@@ -3,7 +3,7 @@ layout: post
 title:  "How this all started."
 author: laith
 categories: [ computers ]
-image: assets/laith/iamges/old-computer.jpg
+image: assets/laith/images/old-computer.jpg
 beforetoc: "My old coputers"
 toc: true
 ---

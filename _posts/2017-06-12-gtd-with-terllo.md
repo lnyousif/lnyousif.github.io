@@ -4,19 +4,19 @@ title:  "GTD the Trello way"
 author: laith
 categories: [ trello, gtd ]
 image:
-  path: assets/laith/img/gtd1.png
+  path: assets/laith/imames/gtd1.png
   alt: Getting Things Done.
 ---
 If you have not heard of GTD, I guess you are not missing a lot unless you are having problems accomplishing the many tasks you need to do. So what is GTD (Getting Things Done) is simply an approach to yes you guessed it!! getting things done.
 
-I have been trying to find the perfect combination of flexibility and adaptability in setting up a system to implement that approach. and finally figured out that[http://www.trello.com](https://www.trello.com/) is the best tools to do so. But if you do a google search you will find few implementations of that. so why I am spending time here. In fact all the Trello implementation focus on single board implementation which is limited. If you have used that awesome tool, you know that single board is limiting. and most of us have many boards.
+I have been trying to find the perfect combination of flexibility and adaptability in setting up a system to implement that approach. and finally figured out that[https://www.trello.com](https://www.trello.com/) is the best tools to do so. But if you do a google search you will find few implementations of that. so why I am spending time here. In fact all the Trello implementation focus on single board implementation which is limited. If you have used that awesome tool, you know that single board is limiting. and most of us have many boards.
 
 Implementing GTD on a single Trello board is easy,  But Trello is more powerful when you use more boards.  
 
 What is GTD?
 ------------
 
-GTD is a method of handling the overflow of tasks. It was introduced by David Alan in his book  [Getting Things Done: The Art of Stress-Free Productivity](https://href.li/?http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=sr_1_1?ie=UTF8&qid=1442529151&sr=8-1&keywords=Getting+things+done).  If you rather read a quick description then head to  [Erlend Hamberg Blog](https://href.li/?https://hamberg.no/gtd/) and cut that to  15 minutes.
+GTD is a method of handling the overflow of tasks. It was introduced by David Alan in his book  [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=sr_1_1?ie=UTF8&qid=1442529151&sr=8-1&keywords=Getting+things+done).  If you rather read a quick description then head to  [Erlend Hamberg Blog](https://hamberg.no/gtd/) and cut that to  15 minutes.
 
 GTD  requires you to write each idea you have and put it what is referred to as inbox. Afterward, you go through that list and Process it.  
 
@@ -63,9 +63,9 @@ Trello allows flexibility around your ideas and how you execute them. There are 
 
 Current GTD Trello Implementation does not go well with the flexibility of the app. The implementation is as follows:
 
-*   Based on GTD execution per board [http://joshuaearl.com/rocking-gtd-with-trello/](https://href.li/?http://joshuaearl.com/rocking-gtd-with-trello/)structure. Which move cards around board to achieve goals. Its good but force us to move cards from the Board they belong to a GTD specific board from my perspective is less than optimal.  
+*   Based on GTD execution per board [https://joshuaearl.com/rocking-gtd-with-trello/](https://joshuaearl.com/rocking-gtd-with-trello/)structure. Which move cards around board to achieve goals. Its good but force us to move cards from the Board they belong to a GTD specific board from my perspective is less than optimal.  
     
-*   The other way [http://gsferreira.com/archive/2014/09/how-to-implement-getting-things-done-with-trello/](https://href.li/?http://gsferreira.com/archive/2014/09/how-to-implement-getting-things-done-with-trello/) rely on single board GTD List formatting which limits the flexibility that Trello offers    
+*   The other way [https://gsferreira.com/archive/2014/09/how-to-implement-getting-things-done-with-trello/](https://gsferreira.com/archive/2014/09/how-to-implement-getting-things-done-with-trello/) rely on single board GTD List formatting which limits the flexibility that Trello offers    
     
 
 Getting GTD done using Trello

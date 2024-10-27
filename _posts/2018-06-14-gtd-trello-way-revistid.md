@@ -3,7 +3,7 @@ layout: post
 title:  "GTD the Trelo way revisted"
 author: laith
 categories: [ trello, gtd ]
-image: assets/images/gtd2.jpg
+image: assets/laith/images/gtd2.jpg
 description: "How to apply GTD rules revisted"
 featured: true
 ---
@@ -54,9 +54,9 @@ Trello allows flexibility around your ideas and how you execute them. There are 
 
 Current GTD Trello Implementation does not go well with the flexibility of the app. The implementation is as follows:
 
-*   Based on GTD execution per board [http://joshuaearl.com/rocking-gtd-with-trello/](http://joshuaearl.com/rocking-gtd-with-trello)structure. Which move cards around the board to achieve goals. It’s good but force us to move cards from the Board they belong to a GTD specific board from my perspective is less than optimal.  
+*   Based on GTD execution per board [https://joshuaearl.com/rocking-gtd-with-trello/](https://joshuaearl.com/rocking-gtd-with-trello)structure. Which move cards around the board to achieve goals. It’s good but force us to move cards from the Board they belong to a GTD specific board from my perspective is less than optimal.  
     
-*   The other way [http://gsferreira.com/archive/2014/09/how-to-implement-getting-things-done-with-trello/](http://gsferreira.com/archive/2014/09/how-to-implement-getting-things-done-with-trello) rely on single board GTD List formatting which limits the flexibility that Trello offers    
+*   The other way [https://gsferreira.com/archive/2014/09/how-to-implement-getting-things-done-with-trello/](https://gsferreira.com/archive/2014/09/how-to-implement-getting-things-done-with-trello) rely on single board GTD List formatting which limits the flexibility that Trello offers    
     
 
 Getting GTD done using Trello
@@ -96,7 +96,7 @@ How to Process your inbox?If a card does not have a label that means it needs to
     
 *   **Home , Office** : Cards that require being at a specific location, otherwise no need to select a context. 
 
-![image](/assets/posts/2/1.jpg)
+![image](/assets/laith/posts/2/1.jpg)
 
 Where is my Trello GTD dashboard?
 ---------------------------------
