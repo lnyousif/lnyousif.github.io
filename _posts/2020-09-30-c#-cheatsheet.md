@@ -39,7 +39,7 @@ Add as many lines of comments as you want
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -75,7 +75,7 @@ namespace VariableScope
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -134,7 +134,7 @@ Another advantage of using the params approach, is that you are allowed to pass 
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -156,7 +156,7 @@ Another advantage of using the params approach, is that you are allowed to pass 
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -187,7 +187,7 @@ Another advantage of using the params approach, is that you are allowed to pass 
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -205,7 +205,7 @@ Another advantage of using the params approach, is that you are allowed to pass 
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -247,7 +247,7 @@ const double pi = 3.14159;
 ```
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -271,7 +271,7 @@ int? num1 = null;
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -343,7 +343,7 @@ namespace ConsoleApplication1
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -391,7 +391,7 @@ public string Color
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -414,7 +414,7 @@ public Car(string color)
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -445,7 +445,7 @@ class SillyMath
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -466,7 +466,7 @@ If Class2 inherits from Class1, then only non-private members can be reached fro
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -511,7 +511,7 @@ dog.Greet();
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -540,7 +540,7 @@ public class Dog : Animal
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -564,7 +564,7 @@ public override void Greet()
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -594,7 +594,7 @@ abstract class FourLeggedAnimal
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -632,7 +632,7 @@ abstract class FourLeggedAnimal
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -710,7 +710,7 @@ interface IAnimal
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -780,7 +780,7 @@ namespace PartialClasses
  
  <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -846,7 +846,7 @@ double salary = balance[9];
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -877,7 +877,7 @@ double salary = balance[9];
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -974,7 +974,7 @@ listOfNames.Remove("Joe Doe");
 
  <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -1063,7 +1063,7 @@ foreach (KeyValuePair<string, int> user in users.OrderBy(user => user.Value))
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -1115,7 +1115,7 @@ foreach (KeyValuePair<string, int> user in users.OrderBy(user => user.Value))
  
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -1177,7 +1177,7 @@ public class testStructure {
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
@@ -1202,7 +1202,7 @@ Console.WriteLine("Friday: {0}", WeekdayEnd);  // Friday: 5
 
 <br>
 
-[back to top](#Index)<br>
+
 
 <br>
 
