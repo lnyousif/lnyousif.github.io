@@ -193,7 +193,7 @@ defaults:
       path: ""
       type: tabs # see `site.collections`
   - scope:
-      path: pages
+      path: _pages
       type: pages # see `site.collections`
 
 sass:
