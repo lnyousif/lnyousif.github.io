@@ -171,16 +171,17 @@ collections:
     output: true
     sort_by: order
   pages:
-    path: pages
     output: true
     sort_by: order
+    permalink: /:pages/
+
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
       type: posts
     values:
       layout: post
-      comments: false # Enable comments in posts.
+      comments: true # Enable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
@@ -190,11 +191,8 @@ defaults:
     values:
       comments: false
   - scope:
-      path: _tabs
+      path: ""
       type: tabs # see `site.collections`
-  - scope:
-      path: _pages
-      type: pages # see `site.collections`
 
 sass:
   style: compressed
