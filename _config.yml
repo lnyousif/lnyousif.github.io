@@ -170,10 +170,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  pages:
-    output: true
-    sort_by: order
-    permalink: /:pages/
 
 defaults:
   - scope:
