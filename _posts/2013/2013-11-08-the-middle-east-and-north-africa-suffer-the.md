@@ -2,7 +2,7 @@
 date: "2013-11-08"
 ---
 
-![](images/tumblr_ntq0oufq4i1uelmamo1_1280.jpg)
+![image](/assets/laith/posts/2013/images/tumblr_ntq0oufq4i1uelmamo1_1280.jpg)
 
 The Middle East and North Africa suffer the world’s highest depression rates, according to a new study  by researchers at Australia’s University of Queensland – and it’s costing people in the region years off their lives
 
