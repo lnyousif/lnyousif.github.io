@@ -8,4 +8,4 @@ tags:
 words do not add any value to this map,
 
   
-[Wikileaks Iraq war logs: every death mapped](http://www.guardian.co.uk/world/datablog/interactive/2010/oct/23/wikileaks-iraq-deaths-map)
+[Wikileaks Iraq war logs: every death mapped](https://www.guardian.co.uk/world/datablog/interactive/2010/oct/23/wikileaks-iraq-deaths-map)

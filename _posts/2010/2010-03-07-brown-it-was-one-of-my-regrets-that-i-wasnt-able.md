@@ -7,4 +7,4 @@ Regrets..! Is that it.? total lack of planning for post war period costs the liv
 
   
 
-[http://news.yahoo.com/s/ap/20100305/ap\_on\_re\_eu/eu\_britain\_iraq](http://news.yahoo.com/s/ap/20100305/ap_on_re_eu/eu_britain_iraq)
+[https://news.yahoo.com/s/ap/20100305/ap\_on\_re\_eu/eu\_britain\_iraq](https://news.yahoo.com/s/ap/20100305/ap_on_re_eu/eu_britain_iraq)

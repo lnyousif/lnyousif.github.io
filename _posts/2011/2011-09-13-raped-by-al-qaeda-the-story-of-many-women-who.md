@@ -9,4 +9,4 @@ Source CNN:
 
 CNN’s Arwa Damon reports women were often raped by al Qaeda members and forced into marriage in areas they controlled.
 
-[http://edition.cnn.com/video/#/video/world/2011/09/12/damon-rape-al-qaeda.cnn?iref=allsearch](http://edition.cnn.com/video/#/video/world/2011/09/12/damon-rape-al-qaeda.cnn?iref=allsearch)
+[https://edition.cnn.com/video/#/video/world/2011/09/12/damon-rape-al-qaeda.cnn?iref=allsearch](https://edition.cnn.com/video/#/video/world/2011/09/12/damon-rape-al-qaeda.cnn?iref=allsearch)

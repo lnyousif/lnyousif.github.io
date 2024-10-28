@@ -10,4 +10,4 @@ The nickname and the garden are among the details about the former Iraqi dictato
 U.S. Marine Maj. Gen. Doug Stone, who oversees detention operations for the U.S. military in Iraq, shared excerpts from the journal and showed CNN the cell – the first time it’s been recorded on video.
 
   
-[Tour of prison reveals the last days of Saddam Hussein - CNN.com](http://www.cnn.com/2008/WORLD/meast/03/27/hussein.journal/index.html#cnnSTCText)
+[Tour of prison reveals the last days of Saddam Hussein - CNN.com](https://www.cnn.com/2008/WORLD/meast/03/27/hussein.journal/index.html#cnnSTCText)

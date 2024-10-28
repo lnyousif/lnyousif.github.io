@@ -20,4 +20,4 @@ entire museum wings,” enthused Dhaif Moussin, who is in charge of protecting a
 prone to looting…“
 
   
-[Unearthing the splendour of Ur in Iraq](http://www.telegraph.co.uk/expat/expatnews/7270478/Unearthing-the-splendour-of-Ur-in-Iraq.html)
+[Unearthing the splendour of Ur in Iraq](https://www.telegraph.co.uk/expat/expatnews/7270478/Unearthing-the-splendour-of-Ur-in-Iraq.html)

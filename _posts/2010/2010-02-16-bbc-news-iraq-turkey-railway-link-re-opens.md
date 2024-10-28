@@ -7,4 +7,4 @@ I always find more hope in such news than all the plans posted by empty headed p
   
 
   
-[BBC News - Iraq-Turkey railway link re-opens](http://news.bbc.co.uk/2/hi/middle_east/8518109.stm)
+[BBC News - Iraq-Turkey railway link re-opens](https://news.bbc.co.uk/2/hi/middle_east/8518109.stm)

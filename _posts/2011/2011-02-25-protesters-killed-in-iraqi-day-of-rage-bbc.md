@@ -12,4 +12,4 @@ On Thursday, Prime Minister Nouri al-Maliki urged people not to join the protest
 this useless politician is using the same Language as Qadafi
 
   
-[Protesters killed in Iraqi 'day of rage' - BBC News](http://www.bbc.co.uk/news/world-middle-east-12576613)
+[Protesters killed in Iraqi 'day of rage' - BBC News](https://www.bbc.co.uk/news/world-middle-east-12576613)

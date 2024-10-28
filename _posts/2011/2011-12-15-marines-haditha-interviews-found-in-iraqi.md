@@ -10,4 +10,4 @@ I dont even know what to say, but it seems to me that most solders are kids who 
 The Irony is that many of these stories are lost in a junkyard.
 
   
-[Marines’ Haditha Interviews Found in Iraqi Junkyard](http://www.nytimes.com/2011/12/15/world/middleeast/united-states-marines-haditha-interviews-found-in-iraq-junkyard.html)
+[Marines’ Haditha Interviews Found in Iraqi Junkyard](https://www.nytimes.com/2011/12/15/world/middleeast/united-states-marines-haditha-interviews-found-in-iraq-junkyard.html)

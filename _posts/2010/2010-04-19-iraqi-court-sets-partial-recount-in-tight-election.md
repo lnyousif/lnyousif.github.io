@@ -9,4 +9,4 @@ tags:
 Iraq’s Election Results in Doubt as Recount Is Ordered The recount is limited, but it could upend the narrow victory of a coalition led by a former prime minister.   
 
   
-[Iraqi Court Sets Partial Recount in Tight Election](http://nyti.ms/9VuN2G)
+[Iraqi Court Sets Partial Recount in Tight Election](https://nyti.ms/9VuN2G)

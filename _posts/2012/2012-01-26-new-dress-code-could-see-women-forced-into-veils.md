@@ -14,4 +14,4 @@ The guidelines had already been decided on late last year but when a local newsp
 The recommendations made by the Higher National Committee for the Advancement of Iraqi Women\*, which is chaired by the federal Minister for Women’s Affairs, Ibtihal al-Zaidi, had been decided upon in September 2011. However details were only revealed by the Baghdad daily, Al Mada, a few days ago.
 
   
-[new dress code could see women forced into veils](http://www.niqash.org/articles/?id=2981)
+[new dress code could see women forced into veils](https://www.niqash.org/articles/?id=2981)

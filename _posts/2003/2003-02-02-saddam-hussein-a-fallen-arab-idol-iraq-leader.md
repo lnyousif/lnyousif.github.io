@@ -5,4 +5,4 @@ date: "2003-02-02"
 
 CAIRO, Feb. 20 — In an upscale neighborhood of the Egyptian capital, under the watch of baton-wielding riot police, hundreds of protesters derided Arab leaders for aiding U.S. plans for a war against Iraq. They demanded that the Arab League expel any government that cooperates, a participant recalled, and they called for an end to U.S. military presence on Arab soil. 
 
-[http://www.msnbc.com/news/874932.asp?0sl=-13](http://www.msnbc.com/news/874932.asp?0sl=-13)
+[https://www.msnbc.com/news/874932.asp?0sl=-13](https://www.msnbc.com/news/874932.asp?0sl=-13)

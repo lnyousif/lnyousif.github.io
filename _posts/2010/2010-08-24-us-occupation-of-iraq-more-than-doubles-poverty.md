@@ -7,4 +7,4 @@ Over the years every time I meet someone who is interested in knowing about Iraq
 this article take you through the damage to ordinary people that happened in the last few years
 
   
-[U.S. Occupation of Iraq More Than Doubles Poverty, Sickness -- Leaves Country a Total Disaster](http://www.alternet.org/story/147928/)
+[U.S. Occupation of Iraq More Than Doubles Poverty, Sickness -- Leaves Country a Total Disaster](https://www.alternet.org/story/147928/)

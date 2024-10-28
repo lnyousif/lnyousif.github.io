@@ -7,4 +7,4 @@ The governments of Iraq and North Korea have been in the news recently over alle
 
 Chemical, biological, and nuclear weapons are all considered weapons of mass destruction. Such weapons have the potential to kill large numbers of people; some arsenals are large enough to devastate entire civilizations.
 
-[Source](http://en.wikipedia.org/wiki/Weapon_of_mass_destruction)
+[Source](https://en.wikipedia.org/wiki/Weapon_of_mass_destruction)

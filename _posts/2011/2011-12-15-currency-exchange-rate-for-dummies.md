@@ -7,4 +7,4 @@ date: "2011-12-15"
 
 I am waiting for the “smarty” who will buy it
 
-[http://www.ebay.com/itm/Iraqi-Coin-Saddam-Hussein-Basra-Collection-/230717484923?pt=LH\_DefaultDomain\_0&hash=item35b7d56f7b#ht\_500wt\_1202](http://www.ebay.com/itm/Iraqi-Coin-Saddam-Hussein-Basra-Collection-/230717484923?pt=LH_DefaultDomain_0&hash=item35b7d56f7b#ht_500wt_1202)
+[https://www.ebay.com/itm/Iraqi-Coin-Saddam-Hussein-Basra-Collection-/230717484923?pt=LH\_DefaultDomain\_0&hash=item35b7d56f7b#ht\_500wt\_1202](https://www.ebay.com/itm/Iraqi-Coin-Saddam-Hussein-Basra-Collection-/230717484923?pt=LH_DefaultDomain_0&hash=item35b7d56f7b#ht_500wt_1202)

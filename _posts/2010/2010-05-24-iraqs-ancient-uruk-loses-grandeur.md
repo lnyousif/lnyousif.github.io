@@ -11,4 +11,4 @@ She said Uruk was not “an ordinary archaeological site. I am really sad to see
 
 Situated east of the present course of the Euphrates, the site was known to the Sumerians as Unu. The Akkadians called it Uruk.
 
-[http://www.azzaman.com/english/index.asp?fname=news2010-05-21kurd.htm](http://www.azzaman.com/english/index.asp?fname=news%5C2010-05-21%5Ckurd.htm)
+[https://www.azzaman.com/english/index.asp?fname=news2010-05-21kurd.htm](https://www.azzaman.com/english/index.asp?fname=news%5C2010-05-21%5Ckurd.htm)

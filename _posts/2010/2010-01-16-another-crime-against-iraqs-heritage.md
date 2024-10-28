@@ -32,4 +32,4 @@ of antiques is pretty much swayed by those who have a narrow minded
 approach, the article title unfairly says "Iraq erases Jewish identity  
 of Prophet Ezekiel from tomb”
 
-[http://www.jpost.com/servlet/Satellite?cid=1263147896786&pagename=JPost/JPArticle/ShowFull](http://www.jpost.com/servlet/Satellite?cid=1263147896786&pagename=JPost/JPArticle/ShowFull)
+[https://www.jpost.com/servlet/Satellite?cid=1263147896786&pagename=JPost/JPArticle/ShowFull](https://www.jpost.com/servlet/Satellite?cid=1263147896786&pagename=JPost/JPArticle/ShowFull)

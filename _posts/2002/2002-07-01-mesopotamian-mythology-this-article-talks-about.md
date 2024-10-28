@@ -5,7 +5,7 @@ date: "2002-07-01"
 Mesopotamian Mythology
 
 This Article talks about the Mesopotamian Mythology: the different gods and goddesses, their relation to each other, and the specialty of each one. Since our civilization is the oldest one in the world, it always had a huge influence on other neighboring cultures, such as Persia, Phoenicia, and Greece… part of this influence was Mythology.The Greek Mythology (most famous in the world) greatly resembles ours in many different aspects, their philosophers have always founded their epics and stories on our Mesopotamian material, which is hundreds of years older… it was their source of inspiration.Below is a diagram, representing the (Family Tree) of the Mesopotamian deities. 1)  
-[](http://www.flickr.com/photos/shahrayar/4291650660/ "mythology_mod by lnyousif, on Flickr")  
+[](https://www.flickr.com/photos/shahrayar/4291650660/ "mythology_mod by lnyousif, on Flickr")  
 Blue color indicates a male god, and the red color indicates a female goddess. 2) Some have two names, the first one represents the Sumerian name, and the second one (in brackets) represents the Babylonian (Semitic) name.  
 Example: Utu (Shamash) Utu = Sumerian � Shamash = Babylonian (Semitic) 3) During the explanation, I will use only one name (the most popular)  
 According to the Mesopotamian  

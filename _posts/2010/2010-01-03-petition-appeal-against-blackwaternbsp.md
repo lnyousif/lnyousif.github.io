@@ -5,19 +5,19 @@ date: "2010-01-03"
 
 In a significant blow to the Justice Department, a federal judge on Thursday threw out the indictment of five former Blackwater security guards over a shooting in Baghdad in 2007 that left 17 Iraqis dead and about 20 wounded  
 
-[http://www.nytimes.com/2010/01/01/us/01blackwater.html](http://www.nytimes.com/2010/01/01/us/01blackwater.html)
+[https://www.nytimes.com/2010/01/01/us/01blackwater.html](https://www.nytimes.com/2010/01/01/us/01blackwater.html)
 
 We ask all people who use Social Media (Facebook, Twitter and etc.) to post on their profile the followingOn Twitter"Justice for the innocent Iraqis who got killed by the hands of trigger happy  Blackwater  employees, #JUSTICE #IIRAQ #BETTERIRAQ" On Facebook, please copy and paste this as your Status"Justice for the innocent Iraqis who got killed by the hands of trigger happy  Blackwater  employees
 
-[http://BetterIraq.com](http://betteriraq.com/)
+[https://BetterIraq.com](https://betteriraq.com/)
 
 “  we created an event on Better Iraq Page, please join the cause here, select that you are attending as a way toi sign the petetion
 
-[http://www.facebook.com/event.php?eid=258214209743](http://www.facebook.com/event.php?eid=258214209743)
+[https://www.facebook.com/event.php?eid=258214209743](https://www.facebook.com/event.php?eid=258214209743)
 
 or sign the petition here
 
-[http://www.thepetitionsite.com/1/appeal-process-should-be-started-against-blackwater](http://www.thepetitionsite.com/1/appeal-process-should-be-started-against-blackwater)
+[https://www.thepetitionsite.com/1/appeal-process-should-be-started-against-blackwater](https://www.thepetitionsite.com/1/appeal-process-should-be-started-against-blackwater)
 
 Please share this with your friendsصرخة إحتجاج يجب أن تبدأ الآن ضد بلاك ووتر
 
@@ -45,4 +45,4 @@ Please share this with your friendsصرخة إحتجاج يجب أن تبدأ ا
 والتصويت
 
   
-[petition: Appeal against Blackwater](http://www.thepetitionsite.com/1/appeal-process-should-be-started-against-blackwater/)
+[petition: Appeal against Blackwater](https://www.thepetitionsite.com/1/appeal-process-should-be-started-against-blackwater/)

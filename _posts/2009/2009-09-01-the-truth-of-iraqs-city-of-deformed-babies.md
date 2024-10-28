@@ -6,4 +6,4 @@ date: "2009-09-01"
 ## An Iraqi doctor has told Sky News the number of babies born with deformities in the heavily-bombed area of Fallujah is still on the increase.
 
   
-[The Truth Of Iraq's City Of Deformed Babies](http://news.sky.com/story/720205/the-truth-of-iraqs-city-of-deformed-babies)
+[The Truth Of Iraq's City Of Deformed Babies](https://news.sky.com/story/720205/the-truth-of-iraqs-city-of-deformed-babies)
