@@ -1,6 +1,13 @@
 ---
 title: "Their War at Home: Iraqi War Photographers"
 date: "2011-12-21"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
+  
 ---
 
 An image worth a thousand word , or in iraq case tells a thousand story    

@@ -1,6 +1,12 @@
 ---
 title: "Sex slave girls face cruel justice in Iraq - CNN.com"
 date: "2010-06-26"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Iraq have been going through this for a while, since the installation of the sanctions in early 1990, this started to happen, but these days it went into higher scale. and now its a major issue in Iraq.  

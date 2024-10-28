@@ -7,6 +7,12 @@ tags:
   - "middle-east-and-north-africa"
   - "united-nations"
   - "world-news"
+  - "fbtny"
+author: laith
+categories: [ iraq-blog ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Iraq may not have many things to be proud for lately but at least the current personal status law, No 188, was issued in 1959 and is considered to be the most protective of women’s rights in the Arab countries. It stipulates the following: the legal age of marriage for both men and women is 18; polygamy is prohibited and taking a second wife is extremely restricted; a Muslim male is allowed to marry a non-Muslim female without conditions or restrictions; and a woman can disobey her husband if he behaves tyrannically and harms her by failing to provide adequate housing or care should she fall ill. But that is not getting well with the pathetic government we have, the new proposed Ja’fari law takes will make Iraq move backward with a new level. Marriage at age nine, legalizing marital rape – this bill breaches UN conventions and is degrading for Iraqi men and women alike.  

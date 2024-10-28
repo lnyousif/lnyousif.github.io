@@ -1,6 +1,12 @@
 ---
 title: "Iraq execution spree under the spotlight"
 date: "2012-09-18"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 I usually do not post links from ALJazeera , and i think this is understandable as I usually do not agree with their approach or politics, but this is a decent article that show how far Iraq has deviated from the human rights laws we hoped that it has by now.  

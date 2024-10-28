@@ -1,6 +1,13 @@
 ---
 title: "Striking Unusual Tones, Beethoven in Iraq"
 date: "2011-09-27"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
+  
 ---
 
 ew Iraqi musicians are doing an amazing job and participating in Berlin festival, Amazing and talented kids

@@ -1,6 +1,12 @@
 ---
 title: "new dress code could see women forced into veils"
 date: "2012-01-26"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 in an Arabic Interview with her she said that she get her Husband approval for everything becauseshe beleive she is less than him. Added to that she said that she visited some christian neighborhood  because she heard that the suicide rate in that area was high as if Muslim women in Iraq are living in luxury. I wonder what she was smoking during that interview,  maybe what her husband was smoking since have been doing all the thinking for her.

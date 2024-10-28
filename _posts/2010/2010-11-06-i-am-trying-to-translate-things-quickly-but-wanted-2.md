@@ -1,5 +1,12 @@
 ---
+title: "Sayedat Al-Najat church in Baghdad on October 31, 2010"
 date: "2010-11-06"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 I am trying to translate things quickly but wanted to let people see whats happening in Iraq, and do not forget how Iraqis are treated under this government, This government called this rescue operation a success (yes believe it or not they did call it a successful operation).

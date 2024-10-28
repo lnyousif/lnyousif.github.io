@@ -1,6 +1,12 @@
 ---
 title: "Iraq: Leaving on a Jet Plane...."
 date: "2010-11-30"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 A good read about people leaving Iraq

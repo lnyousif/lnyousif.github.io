@@ -1,10 +1,12 @@
 ---
 title: "Police Fire on Protesters in Iraq"
 date: "2011-02-16"
-tags: 
-  - "and-riots"
-  - "demonstrations"
-  - "protests"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Lets see if the provincial governor will step down after the loss of innocent live or he will pull a Saddam behaviour    

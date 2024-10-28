@@ -1,6 +1,12 @@
 ---
 title: "Remembering Desert Storm 25 Years later"
 date: "2016-01-17"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 [blabbingwisefully](https://blabbingwisefully.tumblr.com/post/137441179800):

@@ -1,6 +1,12 @@
 ---
 title: "HRW presses Iraqi Kurds to ban female circumcision - BBC News"
 date: "2010-06-18"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 This is something we grow up hearing about it happening in another countries not Iraq, Its heartbreaking to see Iraq move backword in that sense.

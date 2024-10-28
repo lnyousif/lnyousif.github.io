@@ -1,6 +1,12 @@
 ---
 title: "A precedent legislation issued lately by Kerbala Provincial Council banning all public music playing and dance including mobiles and CD players"
 date: "2010-08-03"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Order No 4, 2010, under subjec:“To protect sanctuary and holyness of Kerbala Province” this new legislation was issued, undermining all rights protected and preserved in the Iraqi constitution, the order Identifies first the terms in the order..what does “Violations of common public taste"Prohibitted acts and materials:  

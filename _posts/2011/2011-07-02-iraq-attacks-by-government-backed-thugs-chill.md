@@ -1,6 +1,13 @@
 ---
 title: "Iraq: Attacks by Government-Backed Thugs Chill Protests"
 date: "2011-07-02"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
+  
 ---
 
 **Any decent elected government would resign after such a pathetic tactic is used against peaceful protesters.**  

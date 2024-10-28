@@ -1,8 +1,12 @@
 ---
 title: "How much is an Iraqi worth for the world, The story and hopefully the end"
 date: "2010-12-15"
-tags: 
-  - "laith"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 **BY Laith Yousif**

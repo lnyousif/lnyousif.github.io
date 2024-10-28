@@ -1,6 +1,12 @@
 ---
 title: "Protesters killed in Iraqi 'day of rage' - BBC News"
 date: "2011-02-25"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 If Iraq had a decent government, they would of resigned by now, the demonstrators are trying to send a message to the politicians, that they have to start doing real work and not only shout slogans, but instead 5 people get killed while demonstrating against them.

@@ -1,12 +1,12 @@
 ---
 title: "Iraqi children pay high health cost of war-induced air pollution, study finds"
 date: "2016-08-26"
-tags: 
-  - "environment"
-  - "environmental-sustainability"
-  - "global-development"
-  - "iraq"
-  - "pollution"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Iraqi children face way more than the news coverage want you to see.

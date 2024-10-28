@@ -1,6 +1,12 @@
 ---
 title: "NEW HOPE FOR LOST WORKS OF MODERN ART FROM IRAQ"
 date: "2011-03-02"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 The Modern Art Iraq Archive (MAIA), located at

@@ -4,9 +4,12 @@ date: "2016-01-20"
 tags: 
   - "heritage"
   - "iraq"
-  - "islamic-state"
-  - "middle-east-and-north-africa"
-  - "world-news"
+  - "fbtny"
+author: laith
+categories: [ iraq-blog ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Another low for what ISIS is capable of doing.

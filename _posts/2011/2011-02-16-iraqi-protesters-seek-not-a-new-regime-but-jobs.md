@@ -1,9 +1,12 @@
 ---
 title: "Iraqi Protesters Seek Not a New Regime, but Jobs"
 date: "2011-02-16"
-tags: 
-  - "hosni"
-  - "mubarak"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Iraqis are protesting in every city, but the news seems to be hidden somehow, some protesters get killed but still the world is not that tuned  

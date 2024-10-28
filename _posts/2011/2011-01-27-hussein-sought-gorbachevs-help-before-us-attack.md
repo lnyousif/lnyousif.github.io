@@ -1,6 +1,12 @@
 ---
 title: "Hussein Sought Gorbachev’s Help Before U.S. Attack in ’91"
 date: "2011-01-27"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 I dont know whats more disgusting, Saddam reference to causality that 4 iraqi dead to 1 American would be great success, or Bush total dismissal of the cost of Iraqi lives just because Saddam did not go with the withdraw on Bush time frame, we were bombed for many days because of these 2 inhumane politicians  

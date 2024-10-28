@@ -1,6 +1,12 @@
 ---
 title: "Burkini &amp; Freedom"
 date: "2016-08-25"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 I have very strong discussions about Hijab, and because I strongly believe in “I disapprove of what you say, but I will defend to the death your right to say it” (Evelyn Beatrice Hall not Voltaire) . To me Hijab is a personal choice and I always thought of it that way, But one long debate with a very smart friend made me find the sharp line that can identify people who use that freedom to cover up their racism or their close minded view about women rights.  

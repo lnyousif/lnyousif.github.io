@@ -1,6 +1,12 @@
 ---
 title: "Embassy of Iraq - Press Release - Clarification on Missing Iraqi Artifacts"
 date: "2010-09-18"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Another Example of how Iraq is treated as a source of income by this government, No wonder that they are refusing to hand power to the winners of the election.in simple terms the embassy in Washington sent the recovered artifacts to the Prime Minister office in Baghdad through the US Army and all the documents are available that support that, but since it arrived their no one is able to find it. Also I can see that choosing Friday for a press release is pretty good as it get lost in the news and disappear by Monday. 

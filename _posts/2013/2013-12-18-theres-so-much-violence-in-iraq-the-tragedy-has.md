@@ -1,6 +1,12 @@
 ---
 title: "There's So Much Violence In Iraq The Tragedy Has Become Easy To Ignore"
 date: "2013-12-18"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 In late November, Prashant Rao, the Baghdad bureau chief for Agence France-Presse, found himself with a terrible, familiar problem. The daily story he had to write on the news in Iraq – a typical one by that country’s standards, full of death and mayhem – contained so many violent incidents that he simply didn’t have room to mention them all.

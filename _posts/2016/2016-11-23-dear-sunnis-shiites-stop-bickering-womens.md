@@ -1,10 +1,12 @@
 ---
 title: "Dear Sunnis, Shiites stop bickering, women’s virginity still a must"
 date: "2016-11-23"
-tags: 
-  - "iraq"
-  - "shia"
-  - "sunni"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 In a sad showcase of a widening gap, ardent Sunni and Shiite Muslims continue to bicker who is the most virtuous and honorable when they criticize each sect’s offshoot and obscure forms of marriages — not widely practiced by mainstream Muslims.

@@ -1,8 +1,12 @@
 ---
 title: "Wikileaks Iraq war logs: every death mapped"
 date: "2010-10-22"
-tags: 
-  - "the-war-logs"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny , the-war-logs]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 words do not add any value to this map,

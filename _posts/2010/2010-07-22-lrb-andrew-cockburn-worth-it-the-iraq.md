@@ -1,6 +1,12 @@
 ---
 title: "LRB · Andrew Cockburn · Worth It: The Iraq Sanctions"
 date: "2010-07-22"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 No need for more words, just read if you wanna educate yourself, or do not if you have an opinioin and you just wanna find support material for your view.

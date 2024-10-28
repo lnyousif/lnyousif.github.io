@@ -1,6 +1,12 @@
 ---
 title: "New Home Sweet Home"
 date: "2016-01-15"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 

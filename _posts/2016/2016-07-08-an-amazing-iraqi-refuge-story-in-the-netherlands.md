@@ -1,6 +1,12 @@
 ---
 title: "An Amazing Iraqi refuge story in the Netherlands"
 date: "2016-07-08"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 This is the story of an amazing young doctor Firas Majid Al Khoury, that shows you who are those refugees you see on TV. Below is his own words  

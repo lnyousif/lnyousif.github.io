@@ -1,6 +1,12 @@
 ---
 title: "Iraq Voters"
 date: "2014-06-11"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Its pity to blame Iraqi voters and its even worse that Iraqi so called secular pages publish such views. What is happening now is not a response to the election, but because of the anti-life and hard-liners trying to control the lives of citizens

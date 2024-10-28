@@ -1,6 +1,12 @@
 ---
 title: "New UNICEF Iraq Ambassador Kadhum Al-Sahir highlights needs of the most deprived"
 date: "2011-05-13"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 I dont think I need to add a lot more text than the poinnts mentioned in this article on the their website, even though the article is about the New UNICEF Iraq Ambassador Kadhum Al-Sahir, but the value is really inside the post.
