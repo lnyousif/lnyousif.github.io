@@ -5,7 +5,7 @@ author: laith
 categories: [cheatsheet]
 tags: [ c#, guide ]
 image:
-  path: assets/laith/images/gtd1.png
+  path: assets/laith/images/cheatsheet.png
   alt: C# Cheatsheet.
 ---
 
@@ -142,17 +142,17 @@ Another advantage of using the params approach, is that you are allowed to pass 
 ## DataTypes 
 
 
-| Type       | Description          |Examples  |
-| ------------- |:-------------:| -----:|
-| `int `    | Integer (whole numbers) | 103, 12, 5168|
-| `double`    | 64 bit floating-point number | 3.14, 3.4e38|
-| `Float`     | Floating-point number     |   3.14, 3.4e38 |
-| `Decimal` | Decimal number (higher precision)      |   1037.196543 |
-| `Bool`    | Boolean  | true, False|
-| `String`  | String | "Hello World" |
-| `byte`  | 8-bit unsigned integer | 0 to 255 |
-| `char`  | 16-bit Unicode character | "A" |
-| `long`  | 64-bit signed integer type | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 |
+| Type      |            Description            |                                                Examples |
+| --------- | :-------------------------------: | ------------------------------------------------------: |
+| `int `    |      Integer (whole numbers)      |                                           103, 12, 5168 |
+| `double`  |   64 bit floating-point number    |                                            3.14, 3.4e38 |
+| `Float`   |       Floating-point number       |                                            3.14, 3.4e38 |
+| `Decimal` | Decimal number (higher precision) |                                             1037.196543 |
+| `Bool`    |              Boolean              |                                             true, False |
+| `String`  |              String               |                                           "Hello World" |
+| `byte`    |      8-bit unsigned integer       |                                                0 to 255 |
+| `char`    |     16-bit Unicode character      |                                                     "A" |
+| `long`    |    64-bit signed integer type     | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 |
 
 <br>
 
@@ -162,28 +162,28 @@ Another advantage of using the params approach, is that you are allowed to pass 
 
 ## Operators
 
-| Operator      | Description          |Examples  |
-| ------------- |:-------------:| -----:|
-| `=`    | Assigns a value to a variable.|	i=6
-| `+`     | Adds a value or variable.     |  i=5+5 |
-| `-` | Subtracts a value or variable.      |   i=5-5 |
-| `*`    | Multiplies a value or variable.  | i=5*5
-| `/`  | Divides a value or variable.| i=5/5
-| `+=`    | Increments a variable. | i += 1|
-| `-=`     | Decrements a variable.     |   i -= 1 |
-| `==` | Equality. Returns true if values are equal.      |   if (i==10) |
-| `!=`    |Inequality. Returns true if values are not equal.  | if (i!=10)
-| `<`  | Less Than | if (i<10)
-| `<=`    | Greater Than | if (i>10)|
-| `>=`     | Less Than or Equal to     |   if (i<=10) |
-| `+` | Adding strings (concatenation).   |  "Hello " + "World" |
-| `.`    | Dot. Separate objects and methods.  | DateTime.Hour
-| `()`  |Parenthesis. Groups values. | (i+5)
-| `()`    | Parenthesis. Passes parameters. | x=Add(i,5)
-| `[]`  | Brackets. Accesses values in arrays or collections. | name[3]
-| `!`    | Not. Reverses true or false. | if (!ready)|
-| `&&`     | Logical AND.     |  if (ready && clear) |
-| `||` | Logical OR.      |   if (ready || clear) |
+| Operator |                     Description                     |            Examples |
+| -------- | :-------------------------------------------------: | ------------------: |
+| `=`      |           Assigns a value to a variable.            |                 i=6 |
+| `+`      |              Adds a value or variable.              |               i=5+5 |
+| `-`      |           Subtracts a value or variable.            |               i=5-5 |
+| `*`      |           Multiplies a value or variable.           |               i=5*5 |
+| `/`      |            Divides a value or variable.             |               i=5/5 |
+| `+=`     |               Increments a variable.                |              i += 1 |
+| `-=`     |               Decrements a variable.                |              i -= 1 |
+| `==`     |     Equality. Returns true if values are equal.     |          if (i==10) |
+| `!=`     |  Inequality. Returns true if values are not equal.  |          if (i!=10) |
+| `<`      |                      Less Than                      |           if (i<10) |
+| `<=`     |                    Greater Than                     |           if (i>10) |
+| `>=`     |                Less Than or Equal to                |          if (i<=10) |
+| `+`      |           Adding strings (concatenation).           |  "Hello " + "World" |
+| `.`      |         Dot. Separate objects and methods.          |       DateTime.Hour |
+| `()`     |             Parenthesis. Groups values.             |               (i+5) |
+| `()`     |           Parenthesis. Passes parameters.           |          x=Add(i,5) |
+| `[]`     | Brackets. Accesses values in arrays or collections. |             name[3] |
+| `!`      |            Not. Reverses true or false.             |         if (!ready) |
+| `&&`     |                    Logical AND.                     | if (ready && clear) |
+| `        |                                                     |                   ` | Logical OR. | if (ready |  | clear) |
 
 <br>
 
@@ -194,14 +194,14 @@ Another advantage of using the params approach, is that you are allowed to pass 
 ## Convert Data Types 
 
 
-| Method     | Description          |Examples  |
-| ------------- |:-------------:| -----:|
-|AsInt(),<br> IsInt() |   Converts a string to an integer.   | ``` if (myString.IsInt())```<br>  ```{myInt=myString.AsInt();```|   
-|AsFloat(), IsFloat()| Converts a string to a floating-point number.|```if (myString.IsFloat())```<br>```{myFloat=myString.AsFloat();}```|
-|AsDecimal(), IsDecimal()| Converts a string to a decimal number..|```if (myString.IsDecimal())```<br>```{myDec=myString.AsDecimal();}```|
-|AsDateTime(), IsDateTime()|Converts a string to an ASP.NET DateTime type.| ```myString="10/10/2012";```<br>``` myDate=myString.AsDateTime();```|
-|AsBool(),<br> IsBool()|Converts a string to a Boolean..| ```myString="True";```<br> ```myBool=myString.AsBool();```|
-|ToString()|Converts any data type to a string.| ```myInt=1234;```<br> ```myString=myInt.ToString();```|
+| Method                     |                  Description                   |                                                               Examples |
+| -------------------------- | :--------------------------------------------: | ---------------------------------------------------------------------: |
+| AsInt(),<br> IsInt()       |        Converts a string to an integer.        |       ``` if (myString.IsInt())```<br>  ```{myInt=myString.AsInt();``` |
+| AsFloat(), IsFloat()       | Converts a string to a floating-point number.  |   ```if (myString.IsFloat())```<br>```{myFloat=myString.AsFloat();}``` |
+| AsDecimal(), IsDecimal()   |    Converts a string to a decimal number..     | ```if (myString.IsDecimal())```<br>```{myDec=myString.AsDecimal();}``` |
+| AsDateTime(), IsDateTime() | Converts a string to an ASP.NET DateTime type. |   ```myString="10/10/2012";```<br>``` myDate=myString.AsDateTime();``` |
+| AsBool(),<br> IsBool()     |        Converts a string to a Boolean..        |             ```myString="True";```<br> ```myBool=myString.AsBool();``` |
+| ToString()                 |      Converts any data type to a string.       |                 ```myInt=1234;```<br> ```myString=myInt.ToString();``` |
 
 <br>
 
@@ -216,12 +216,12 @@ char c, ch;
 float f, salary;
 double d;
 
-| Type     | Name          |
-| ------------- |:-------------:| 
-|```int```|i, j, k;|
-|```char```|c, ch;|
-|```float```|f, salary;|
-|```double```|d;|
+| Type         |    Name    |
+| ------------ | :--------: |
+| ```int```    |  i, j, k;  |
+| ```char```   |   c, ch;   |
+| ```float```  | f, salary; |
+| ```double``` |     d;     |
 
 ## Initialise Varaiable
 
@@ -451,13 +451,13 @@ class SillyMath
 
 # Class Visability
 
-| Visability       | Definition         | 
-| ------------- |:-------------| 
-| public    | the member can be reached from anywhere. This is the least restrictive visibility. Enums and interfaces are, by default, publicly visible |
-| protected      | members can only be reached from within the same class, or from a class which inherits from this class.      |
-| internal | members can be reached from within the same project only.|
-| protected internal| the same as internal, except that classes which inherit from this class can reach its members; even from another project.      | 
-| private| can only be reached by members from the same class. This is the most restrictive visibility. Classes and structs are by default set to private visibility.      | 
+| Visability         | Definition                                                                                                                                                 |
+| ------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| public             | the member can be reached from anywhere. This is the least restrictive visibility. Enums and interfaces are, by default, publicly visible                  |
+| protected          | members can only be reached from within the same class, or from a class which inherits from this class.                                                    |
+| internal           | members can be reached from within the same project only.                                                                                                  |
+| protected internal | the same as internal, except that classes which inherit from this class can reach its members; even from another project.                                  |
+| private            | can only be reached by members from the same class. This is the most restrictive visibility. Classes and structs are by default set to private visibility. |
 
 
 > So for instance, if you have two classes: Class1 and Class2, private members from Class1 can only be used within Class1. You can't create a new instance of Class1 inside of Class2, and then expect to be able to use its private members.<br>
@@ -960,12 +960,12 @@ listOfNames.Remove("Joe Doe");
 
 ## Others
 
-| Tables        | Are           | 
-| ------------- |:-------------| 
-| RemoveAt()     | listOfNames.RemoveAt(0); | 
-| using count      | listOfNames.RemoveAt(listOfNames.Count - 1);    | 
-| RemoveAll()| are neat      |   
-| Sort()| listOfNames.Sort();|
+| Tables      | Are                                          |
+| ----------- | :------------------------------------------- |
+| RemoveAt()  | listOfNames.RemoveAt(0);                     |
+| using count | listOfNames.RemoveAt(listOfNames.Count - 1); |
+| RemoveAll() | are neat                                     |
+| Sort()      | listOfNames.Sort();                          |
 
 ## Iterate over lists with:
 

@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 Laith Yousif was born and raised in Baghdad, After finishing his Master degree in Communication engineering he decided to leave Iraq with no plan but to find a job and find hope in a new home. In 2001, he arrived in the US and began working in the world Trade Center. After 9/11, he had to navigate a challenging political environment that did not allow him the flexibility to return home and see his family. In 2003, he was forced to seek asylum in the US. In 2006 and 2007 Laith advocated for the plight of Iraqi refugees undergoing rapid displacement to the UNCHR while he continued to be separated from his family until they all safely arrived in the US in 2010. Laith, who is now a US citizen, works in technology and resides in Brooklyn with his wife, son and daughter.
