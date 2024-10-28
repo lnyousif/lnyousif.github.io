@@ -1,7 +1,10 @@
 ---
 date: "2002-07-01"
-categories: [FromBaghdadToNewYork]
+categories: [ FromBaghdadToNewYork ]
 tags: [ baghdad ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Mesopotamian Mythology

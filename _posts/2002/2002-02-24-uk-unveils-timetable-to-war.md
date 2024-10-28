@@ -1,7 +1,7 @@
 ---
 title: "UK Unveils Timetable to War"
 date: "2002-02-24"
-categories: [FromBaghdadToNewYork]
+categories: [ FromBaghdadToNewYork ]
 tags: [ baghdad ]
 image:
   path: assets/laith/images/fbtn.jpg
