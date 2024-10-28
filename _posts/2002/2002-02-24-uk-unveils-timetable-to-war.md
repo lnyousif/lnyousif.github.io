@@ -1,7 +1,7 @@
 ---
 title: "UK Unveils Timetable to War"
 date: "2002-02-24"
-auth
+author: laith
 categories: [ baghdad-newyork ]
 tags: [ baghdad ]
 image:
