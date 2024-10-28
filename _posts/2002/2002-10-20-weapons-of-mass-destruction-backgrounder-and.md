@@ -1,0 +1,10 @@
+---
+title: "Weapons of Mass Destruction Backgrounder and Research Guide"
+date: "2002-10-20"
+---
+
+The governments of Iraq and North Korea have been in the news recently over alleged noncompliance with international regulations regarding weapons of mass destruction. What are weapons of mass destruction, and how are they regulated?
+
+Chemical, biological, and nuclear weapons are all considered weapons of mass destruction. Such weapons have the potential to kill large numbers of people; some arsenals are large enough to devastate entire civilizations.
+
+[Source](http://en.wikipedia.org/wiki/Weapon_of_mass_destruction)

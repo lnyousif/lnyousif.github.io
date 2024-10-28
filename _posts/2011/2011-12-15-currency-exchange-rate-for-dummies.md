@@ -1,0 +1,10 @@
+---
+title: "currency exchange rate for dummies"
+date: "2011-12-15"
+---
+
+10 Iraqi fils (just few years old) which is about 0.000008554270373768155 US$ is being sold for 2500US$  as memorabilia!!  
+
+I am waiting for the “smarty” who will buy it
+
+[http://www.ebay.com/itm/Iraqi-Coin-Saddam-Hussein-Basra-Collection-/230717484923?pt=LH\_DefaultDomain\_0&hash=item35b7d56f7b#ht\_500wt\_1202](http://www.ebay.com/itm/Iraqi-Coin-Saddam-Hussein-Basra-Collection-/230717484923?pt=LH_DefaultDomain_0&hash=item35b7d56f7b#ht_500wt_1202)
