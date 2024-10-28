@@ -1,11 +1,12 @@
 ---
 title: "Iraq Recent History"
 date: "2002-08-01"
-categories: [ FromBaghdadToNewYork ]
-tags: [ baghdad ]
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
-  alt: From Baghdad To New York Blog
+  alt: From Baghdad To New York Blogs
 ---
 
 1914 - 1930 In November 1914, after the Ottoman Empire entered World War I (1914-1918) as an ally of Germany and Austria-Hungary, a British army division landed at Al Fāw, near Iraq’s southern tip, and quickly occupied Al Başrah. The main reason for the landing was Britain’s need to defend the Anglo-Persian Oil Company’s oil fields and refineries nearby in Iran. The British army gradually pushed northward against heavy Ottoman opposition, entering Baghdād in March 1917. The British and the Ottoman Turks signed an armistice agreement in October 1918, but the British army continued to move north until it captured Mosul in early November. With the capture of Mosul, Britain exerted its control over nearly all of Iraq.

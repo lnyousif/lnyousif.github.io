@@ -1,7 +1,8 @@
 ---
-date: "2002-07-01"
-categories: [ FromBaghdadToNewYork ]
-tags: [ baghdad ]
+date: "2002-03-01"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
   alt: From Baghdad To New York Blogs

@@ -1,11 +1,12 @@
 ---
 title: "Weapons of Mass Destruction Backgrounder and Research Guide"
 date: "2002-10-20"
-categories: [ FromBaghdadToNewYork ]
-tags: [ baghdad ]
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
-  alt: From Baghdad To New York Blog
+  alt: From Baghdad To New York Blogs
 ---
 
 The governments of Iraq and North Korea have been in the news recently over alleged noncompliance with international regulations regarding weapons of mass destruction. What are weapons of mass destruction, and how are they regulated?

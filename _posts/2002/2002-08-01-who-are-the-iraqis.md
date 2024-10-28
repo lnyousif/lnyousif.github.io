@@ -1,11 +1,12 @@
 ---
 title: "Who are the Iraqis?"
 date: "2002-08-01"
-categories: [ FromBaghdadToNewYork ]
-tags: [ baghdad ]
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
-  alt: From Baghdad To New York Blog
+  alt: From Baghdad To New York Blogs
 ---
 
 By Joe Bob Briggs NEW YORK, (UPI) – Every decade or so, we should remind ourselves of who the Iraqis are:
