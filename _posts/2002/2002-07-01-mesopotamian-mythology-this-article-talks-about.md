@@ -1,5 +1,7 @@
 ---
 date: "2002-07-01"
+categories: [FromBaghdadToNewYork]
+tags: [ baghdad ]
 ---
 
 Mesopotamian Mythology

@@ -1,8 +1,8 @@
 ---
 title: "Who are the Iraqis?"
 date: "2002-08-01"
-tags: 
-  - "iraqinfo"
+categories: [FromBaghdadToNewYork]
+tags: [ baghdad ]
 ---
 
 By Joe Bob Briggs NEW YORK, (UPI) – Every decade or so, we should remind ourselves of who the Iraqis are:
