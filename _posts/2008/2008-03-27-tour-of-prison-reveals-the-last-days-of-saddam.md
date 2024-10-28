@@ -1,6 +1,12 @@
 ---
 title: "Tour of prison reveals the last days of Saddam Hussein - CNN.com"
 date: "2008-03-27"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 The guards at the Baghdad detention facility called their prisoner “Vic,” and let him plant a little garden near his cell. The rest of the world knew him as Saddam Hussein, a man blamed for the death of hundreds of thousands of Iraqis during more than 20 years as the country’s president.

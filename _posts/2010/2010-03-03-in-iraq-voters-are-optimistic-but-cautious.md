@@ -1,8 +1,12 @@
 ---
 title: "In Iraq, Voters Are Optimistic, but Cautious"
 date: "2010-03-03"
-tags: 
-  - "baghdad-bureau"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Short Video through the New York Times about how it feel now in Baghdad before the election  

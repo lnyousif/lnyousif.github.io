@@ -1,8 +1,12 @@
 ---
 title: "Unearthing the splendour of Ur in Iraq"
 date: "2010-02-20"
-tags: 
-  - "expat-news"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 The buried antiquities of Ur could one day outshine those of ancient Egypt, archaeologists at alarge-scale excavation in Iraq believe.

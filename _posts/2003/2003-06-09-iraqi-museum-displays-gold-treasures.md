@@ -1,6 +1,13 @@
 ---
 title: "Iraqi museum displays gold treasures"
 date: "2003-06-09"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
+  
 ---
 
 Sun June 08, 2003 08:29 AM ET  

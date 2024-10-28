@@ -1,5 +1,12 @@
 ---
+title: "Thoughs from Baghdad"
 date: "2008-04-26"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 > I  think about it at least a dozen times a day. If there is a piece floating around the kitchen I will sniff it out and scoff it down. My dreams are sometimes punctuated with images of the stuff and I invariably wake up craving one.

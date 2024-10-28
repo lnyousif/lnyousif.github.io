@@ -1,6 +1,12 @@
 ---
 title: "Women are 2nd class citizens in Iraq Lets change this"
 date: "2010-01-06"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 an Iraqi expatriate, can’t apply for an Iraqi passport because she’s  

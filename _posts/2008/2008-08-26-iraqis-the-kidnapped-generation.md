@@ -1,8 +1,13 @@
 ---
 title: "Iraqis, the kidnapped generation"
 date: "2008-08-26"
-tags: 
-  - "laith"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
+
 ---
 
 **By Laith Yousif**

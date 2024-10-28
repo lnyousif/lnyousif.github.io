@@ -5,6 +5,12 @@ tags:
   - "football"
   - "manchester-city"
   - "sport"
+  - "fbtny"
+author: laith
+categories: [ iraq-blog ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 When the Iraqi team amazingly overcame huge odds (exile, death threats, suicide bombingsback home) to win the Asia Cup in July, tens of thousands spilled out into the streetsto celebrate.The British government’s refusal to grant Nashat Akram a work permit to play for ManchesterCity is ridiculous and wrong-headed  

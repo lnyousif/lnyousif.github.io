@@ -1,8 +1,13 @@
 ---
 title: "Lets be humans again"
 date: "2007-02-24"
-tags: 
-  - "laith"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
+  
 ---
 
 **By : Laith Yousif**

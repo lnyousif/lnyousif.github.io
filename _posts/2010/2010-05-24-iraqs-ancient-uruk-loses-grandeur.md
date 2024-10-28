@@ -1,6 +1,12 @@
 ---
 title: "Iraq’s ancient Uruk loses grandeur"
 date: "2010-05-24"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Iraq’s largest archaeological site is in danger and may be lost forever, an Iraqi scientist says.

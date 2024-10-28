@@ -1,6 +1,12 @@
 ---
 title: "petition: Appeal against Blackwater&nbsp;"
 date: "2010-01-03"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 In a significant blow to the Justice Department, a federal judge on Thursday threw out the indictment of five former Blackwater security guards over a shooting in Baghdad in 2007 that left 17 Iraqis dead and about 20 wounded  

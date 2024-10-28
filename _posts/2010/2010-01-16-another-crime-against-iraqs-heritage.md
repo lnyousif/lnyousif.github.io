@@ -1,6 +1,12 @@
 ---
 title: "Another crime against Iraq's heritage"
 date: "2010-01-16"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Another disturbing news from Iraq and a disturbing way to report it to,   

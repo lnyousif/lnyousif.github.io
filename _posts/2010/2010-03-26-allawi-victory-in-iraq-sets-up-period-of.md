@@ -1,6 +1,12 @@
 ---
 title: "Allawi Victory in Iraq Sets Up Period of Uncertainty - NYTimes.com"
 date: "2010-03-26"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Mr. Allawi won 91 seats in Iraq’s 325-seat Parliament to Mr. Maliki’s 89 seats, according to results from Iraq’s Independent High Electoral Commission.

@@ -1,6 +1,12 @@
 ---
 title: "UK government lawyer said Iraq War was illegal"
 date: "2010-01-26"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Its very interesting that after nearly seven years and hundreds of thousands of casualties, there is still argument over whether it was legal or not (although it turned out there were no WMDs and security council disapproved) and whether it was a good thing or not…how much is the value or one human life, and whats the price tag of “democracy” in order to do the calculation and figure it all out?

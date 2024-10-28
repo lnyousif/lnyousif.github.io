@@ -1,6 +1,12 @@
 ---
 title: "Iraqi Student Diaries"
 date: "2003-03-03"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
   

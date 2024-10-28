@@ -1,6 +1,12 @@
 ---
 title: "Diary of Saad Eskander, Director of the Iraq National Library and Archive, posted online by British library"
 date: "2007-01-29"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 When the Saddam regime was toppled in 2003, the Iraq National Library and Archive in Baghdad was set alight and looted. Much damage was done, in particular to the library’s archive collections. Dr Saad Eskander, the Director of the Iraq National Library and Archive – a former British Library reader pass-holder – has visited the British Library on several occasions subsequently.  

@@ -1,8 +1,13 @@
 ---
 title: "U.S. Examines Whether Blackwater Tried Bribery"
 date: "2010-02-01"
-tags: 
-  - "justice-department"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
+  
 ---
 
 WASHINGTON — The Justice Department is investigating whether officials of [Blackwater Worldwide](https://topics.nytimes.com/top/news/business/companies/blackwater_usa/index.html?inline=nyt-org "More articles about Blackwater USA.") tried to bribe Iraqi government officials in hopes of retaining the firm’s security work in Iraq after a deadly shooting episode in 2007, according to current and former government officials.

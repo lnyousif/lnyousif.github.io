@@ -1,6 +1,12 @@
 ---
 title: "Maliki and Allawi locked in tight Iraq election battle"
 date: "2010-03-17"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Somehow laughable claim as just 3 days ago they praised the commission when they looked like a head in the pools, now they are complaining of “Widespread Fraud” !!

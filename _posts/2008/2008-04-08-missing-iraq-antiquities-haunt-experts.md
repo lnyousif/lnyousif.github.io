@@ -1,6 +1,12 @@
 ---
 title: "Missing Iraq antiquities haunt experts"
 date: "2008-04-08"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 **About half of the 15,000 items either stolen or otherwise unaccounted for have been recovered, but the gaping hole in history remains on the fifth anniversary of the looting of Iraq’s National Museum.**  

@@ -1,6 +1,12 @@
 ---
 title: "Tomgram: Michael Schwartz, Will Iraq's Oil Ever Flow?    |  TomDispatch"
 date: "2010-02-02"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 Very interesting… Please read :  

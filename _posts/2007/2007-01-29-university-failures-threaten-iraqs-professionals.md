@@ -1,6 +1,12 @@
 ---
 title: "University Failures Threaten Iraq's Professionals"
 date: "2007-01-29"
+author: laith
+categories: [ iraq-blog ]
+tags: [ fbtny ]
+image:
+  path: assets/laith/images/fbtn.jpg
+  alt: From Baghdad To New York Blogs
 ---
 
 raq was once proud of its doctors, engineers and professors. Many hoped that with Saddam’s fall and the end of economic sanctions, there would be a resurgence of professional skills.
