@@ -147,10 +147,10 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 5
 
 # The base URL of your site
-baseurl: "www.laithyousif.com"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
