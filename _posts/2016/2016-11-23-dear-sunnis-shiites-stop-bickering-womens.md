@@ -1,5 +1,5 @@
 ---
-title: "Dear Sunnis, Shiites stop bickering, women’s virginity still a must"
+title: "Dear Sunnis, Shiites stop bickering"
 date: "2016-11-23"
 author: laith
 categories: [ iraq-blog ]
