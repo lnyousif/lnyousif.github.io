@@ -60,4 +60,4 @@ More weddings mean more parties, more orders, and more alcohol—a crucial econo
 So go ahead, add the “I do” to your “to-do list”—unless you want to stay single and miserable forever!
 
 
-${Disclaimer: Bingorova  Googlisky  research  is  sponsored  by  WeddingPlanners }$ 
+_Disclaimer: Bingorova  Googlisky  research  is  sponsored  by  WeddingPlanners_
