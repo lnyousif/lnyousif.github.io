@@ -3,17 +3,38 @@
 icon: fas fa-info-circle
 order: 5
 ---
+# Welcome to My Personal Website
 
-Laith Yousif was born and raised in Baghdad, After finishing his Master degree in Communication engineering he decided to leave Iraq with no plan but to find a job and find hope in a new home. In 2001, he arrived in the US and began working in the world Trade Center. After 9/11, he had to navigate a challenging political environment that did not allow him the flexibility to return home and see his family. In 2003, he was forced to seek asylum in the US. In 2006 and 2007 Laith advocated for the plight of Iraqi refugees undergoing rapid displacement to the UNCHR while he continued to be separated from his family until they all safely arrived in the US in 2010. Laith, who is now a US citizen, works in technology and resides in Brooklyn with his wife, son and daughter.
+Here, you'll find a collection of my past projects and writings, including:
 
-In 2002 Laith began a blog called From Baghdad to New York which highlighted articles that represented what ordinary Iraqis needed. The Blog was subsequently renamed Better Iraq.
+- **Blabby Me** — my original blog.
+- **From Baghdad to New York** — posts from my Iraq-focused blog.
+- **Humor Writing** — pieces from a separate site where I shared my humorous writing.
+- **Class Reflections** — thoughts and insights from various classes I've taken.
+- **Arabic Poetry** — poems written during a period when I was inspired to create in Arabic.
 
-Laith has been featured in an interview with Time Magazine(2008), Laith Yousif — Iraqi 9/11 Survivor
 
-Dissent Magazine No Refuge Here: Iraqis Flee
+# About Laith Yousif
 
-Laith was also was interviewed by ABC News on the eve of Saddam Hussein’s execution.
+Laith Yousif was born and raised in Baghdad. After completing his Master's degree in Communication Engineering, he decided to leave Iraq, with no clear plan, in search of new opportunities and hope. In 2001, he arrived in the United States and began working at the World Trade Center. Following the tragic events of 9/11, Laith faced a challenging political climate that restricted his ability to return home and see his family. In 2003, he sought asylum in the U.S., and over the years, he continued to advocate for Iraqi refugees, representing their plight to the UNHCR in 2006 and 2007. After years of separation, his family joined him safely in 2010.
 
-Laith was also featured in The Wind of Amal (2012), documentary following the lives of three Iraqi refugees in the US.
+Now a U.S. citizen, Laith works in technology and lives in Brooklyn with his wife, son, and daughter.
 
-Recently, Laith also launched into his new endeavor, stand-up comedy. A link to his to routine can be found here.
+## Blogging Journey: From Baghdad to New York
+
+In 2002, Laith launched a blog called *From Baghdad to New York*, where he shared articles and perspectives on the needs of everyday Iraqis. This blog was later renamed *Better Iraq* and continues to serve as a platform for his reflections and advocacy.
+
+## Media Features and Advocacy
+
+Laith's story has been featured in numerous publications and media outlets:
+
+- **Time Magazine** (2008) — *Laith Yousif: Iraqi 9/11 Survivor*
+- **Dissent Magazine** — *No Refuge Here: Iraqis Flee*
+- **ABC News** — Interview on the eve of Saddam Hussein’s execution
+- **The Wind of Amal** (2012) — A documentary following the lives of three Iraqi refugees in the U.S., including Laith.
+
+## New Ventures: Stand-Up Comedy
+
+Recently, Laith ventured into stand-up comedy. You can find a link to one of his routines [here](https://www.youtube.com/watch?v=Dggo_fIWfAc).
+
+---

@@ -1,3 +1,13 @@
 # Laith Yousif
 
-This is my personal website which include ny personal website, Mainly lately been trying to focus on tech posts. Also a lot of post that were under my website about Iraq which for a long period was named (From Baghdad to New York) and also a website I had that touched on my humour writting and some classes I took. I also had arabic poetry posts. so this is a mixed list of many things. 
+# Welcome to My Personal Website
+
+Here, you'll find a collection of my past projects and writings, including:
+
+- **Blabby Me** — my original blog.
+- **From Baghdad to New York** — posts from my Iraq-focused blog.
+- **Humor Writing** — pieces from a separate site where I shared my humorous writing.
+- **Class Reflections** — thoughts and insights from various classes I've taken.
+- **Arabic Poetry** — poems written during a period when I was inspired to create in Arabic.
+
+This site is a blend of these experiences—and more. Enjoy exploring!
