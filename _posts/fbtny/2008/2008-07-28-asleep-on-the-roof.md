@@ -1,9 +1,9 @@
 ---
 title: "Asleep on the Roof"
 date: "2008-07-28"
-tags: [ fbnty ]
 author: laith
 categories: [ iraq-blog ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
   alt: From Baghdad To New York Blogs

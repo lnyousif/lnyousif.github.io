@@ -1,9 +1,9 @@
 ---
 title: "Iraq War Ancient Artifacts of Mesopotamia"
 date: "2003-06-06"
-tags: [ fbnty ]
 author: laith
 categories: [ iraq-blog ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
   alt: From Baghdad To New York Blogs

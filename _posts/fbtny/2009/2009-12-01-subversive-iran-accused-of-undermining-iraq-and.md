@@ -1,9 +1,9 @@
 ---
 title: "'Subversive' Iran accused of undermining Iraq and causing deaths"
 date: "2009-12-01"
-tags: [ fbnty ]
 author: laith
 categories: [ iraq-blog ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
   alt: From Baghdad To New York Blogs

@@ -1,9 +1,9 @@
 ---
 title: "Ja'fari law takes the Iraqi government's violation of women's rights to a new level | Haifa Zangana"
 date: "2014-03-15"
-tags: [ fbnty ]
 author: laith
 categories: [ iraq-blog ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
   alt: From Baghdad To New York Blogs

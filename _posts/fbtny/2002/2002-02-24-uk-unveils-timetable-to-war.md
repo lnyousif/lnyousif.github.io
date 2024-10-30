@@ -3,7 +3,7 @@ title: "UK Unveils Timetable to War"
 date: "2002-02-24"
 author: laith
 categories: [ iraq-blog ]
-tags: [ baghdad ]
+tags: [ fbtny ]
 image:
   path: assets/laith/images/fbtn.jpg
   alt: From Baghdad To New York Blog
