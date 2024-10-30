@@ -2,7 +2,7 @@
 layout: post
 title:  "How this all started."
 author: laith
-categories: [personal, blabby, tech ]
+categories: [blabbing, personal ]
 tags: [ computers ]
 image: assets/laith/images/old-computer.jpg
 beforetoc: "My old coputers"

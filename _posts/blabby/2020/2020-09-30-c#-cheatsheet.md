@@ -2,7 +2,7 @@
 layout: post
 title:  "C# Cheatsheet"
 author: laith
-categories: [cheatsheet , blabby, tech]
+categories: [tech , cheatsheet ]
 tags: [ c#, guide ]
 image:
   path: assets/laith/images/cheatsheet.png
