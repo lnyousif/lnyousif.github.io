@@ -2,7 +2,7 @@
 layout: post
 title:  "Laith yousif Comedy"
 author: laith
-categories: [personal]
+categories: [personal , blabby]
 tags: [ comedy ]
 featured: true
 image: /assets/laith/images/laith-comedy.jpg

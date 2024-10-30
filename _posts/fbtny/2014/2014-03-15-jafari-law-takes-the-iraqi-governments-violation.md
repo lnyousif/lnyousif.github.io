@@ -1,13 +1,7 @@
 ---
 title: "Ja'fari law takes the Iraqi government's violation of women's rights to a new level | Haifa Zangana"
 date: "2014-03-15"
-tags: 
-  - "iraq"
-  - "law"
-  - "middle-east-and-north-africa"
-  - "united-nations"
-  - "world-news"
-  - "fbtny"
+tags: [ fbnty ]
 author: laith
 categories: [ iraq-blog ]
 image:

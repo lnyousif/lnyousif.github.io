@@ -1,11 +1,7 @@
 ---
 title: "Football: James Montague on the refusal to grant Nashat Akram a work permit"
 date: "2008-01-31"
-tags: 
-  - "football"
-  - "manchester-city"
-  - "sport"
-  - "fbtny"
+tags: [ fbtny ]
 author: laith
 categories: [ iraq-blog ]
 image:

@@ -2,7 +2,7 @@
 layout: post
 title:  "GTD the Trelo way revisted"
 author: laith
-categories: [ productivity ]
+categories: [productivity , blabby, tech]
 tags: [ trello, gtd ]
 image: assets/laith/images/gtd2.jpg
 description: "How to apply GTD rules revisted"

@@ -2,7 +2,7 @@
 layout: post
 title:  "GTD the Trello way"
 author: laith
-categories: [productivity]
+categories: [productivity , blabby, tech]
 tags: [ trello, gtd ]
 image:
   path: assets/laith/images/gtd1.png

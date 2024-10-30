@@ -1,14 +1,7 @@
 ---
 title: "'Subversive' Iran accused of undermining Iraq and causing deaths"
 date: "2009-12-01"
-tags: 
-  - "egypt"
-  - "iran"
-  - "iraq"
-  - "iraq-war-inquiry"
-  - "world-news"
-  - "fbtny"
-
+tags: [ fbnty ]
 author: laith
 categories: [ iraq-blog ]
 image:

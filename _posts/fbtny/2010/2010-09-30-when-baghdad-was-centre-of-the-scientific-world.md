@@ -1,12 +1,7 @@
 ---
 title: "When Baghdad was centre of the scientific world"
 date: "2010-09-30"
-tags: 
-  - "books"
-  - "history"
-  - "iraq"
-  - "science"
-  - "fbtny"
+tags: [ fbtny ]
 author: laith
 categories: [ iraq-blog ]
 image:

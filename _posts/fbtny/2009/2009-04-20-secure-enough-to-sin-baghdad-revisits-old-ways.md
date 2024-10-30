@@ -1,9 +1,7 @@
 ---
 title: "Secure Enough to Sin, Baghdad Revisits Old Ways"
 date: "2009-04-20"
-tags: 
-  - "iraq-war-2003"
-  - "fbtny"
+tags: [ fbtny ]
 author: laith
 categories: [ iraq-blog ]
 image:
