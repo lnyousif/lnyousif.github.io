@@ -9,4 +9,4 @@ image: /assets/laith/images/laith-comedy.jpg
 ---
 
 
-{% include embed/youtube.html id='{Dggo_fIWfAc}' %}
+{% include embed/youtube.html id='Dggo_fIWfAc' %}
