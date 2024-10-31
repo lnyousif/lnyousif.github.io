@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Laith Yousif Blog",
+  "short_name": "Laith Blog",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
