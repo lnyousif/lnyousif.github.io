@@ -1,7 +1,7 @@
 ---
 title: "For Iraqi Refugees, Survival Can Come at a High Price"
 date: "2010-09-07"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

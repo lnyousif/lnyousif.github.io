@@ -1,7 +1,7 @@
 ---
 title: "CNN.com - Children suffer on Baghdad streets - May. 29, 2003"
 date: "2003-05-29"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

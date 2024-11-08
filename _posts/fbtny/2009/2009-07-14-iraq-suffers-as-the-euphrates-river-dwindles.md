@@ -1,7 +1,7 @@
 ---
 title: "Iraq Suffers as the Euphrates River Dwindles"
 date: "2009-07-14"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

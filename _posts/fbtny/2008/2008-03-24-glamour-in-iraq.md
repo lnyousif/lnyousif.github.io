@@ -1,7 +1,7 @@
 ---
 title: "Glamour in Iraq"
 date: "2008-03-24"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

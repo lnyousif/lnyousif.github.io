@@ -1,7 +1,7 @@
 ---
 title: "Aprl 14th marks anniversary of the oldest students union in Iraq"
 date: "2010-04-14"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -2,7 +2,7 @@
 title: "Secure Enough to Sin, Baghdad Revisits Old Ways"
 date: "2009-04-20"
 tags: [ fbtny ]
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 image:
   path: assets/laith/images/fbtn.jpg

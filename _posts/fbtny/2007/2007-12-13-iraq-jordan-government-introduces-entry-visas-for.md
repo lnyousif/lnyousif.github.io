@@ -1,7 +1,7 @@
 ---
 title: "IRAQ-JORDAN: Government introduces entry visas for Iraqis"
 date: "2007-12-13"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

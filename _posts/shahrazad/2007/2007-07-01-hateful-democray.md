@@ -1,7 +1,7 @@
 ---
 title: "ديمقراطية الكراهية"
 date: "2007-07-01"
-author: laith
+author: Laith Yousif
 categories: [ shahrazad ]
 tags: [ عربي , شعر ]
 

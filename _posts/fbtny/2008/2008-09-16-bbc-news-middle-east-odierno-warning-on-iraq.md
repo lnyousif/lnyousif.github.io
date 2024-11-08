@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Odierno warning on Iraq security"
 date: "2008-09-16"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

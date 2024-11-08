@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two & a Half Men, The missing episode"
-author: laith
+author: Laith Yousif
 categories: [blabbing, humor]
 tags: [ comedy ]
 image:

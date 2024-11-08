@@ -1,7 +1,7 @@
 ---
 title: "The Middle East and North Africa suffer the world’s highest depression rates"
 date: "2013-11-08"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

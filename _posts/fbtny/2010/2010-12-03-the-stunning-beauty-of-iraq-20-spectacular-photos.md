@@ -1,7 +1,7 @@
 ---
 title: "The Stunning Beauty of Iraq: 20 Spectacular Photos"
 date: "2010-12-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

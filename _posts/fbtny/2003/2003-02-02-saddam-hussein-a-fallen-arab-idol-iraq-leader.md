@@ -1,7 +1,7 @@
 ---
 title: "Saddam Hussein a Fallen Arab Idol, Iraq leader fails to seize regional sympathies"
 date: "2003-02-02"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | UK | Marines taste defeat on football pitch"
 date: "2003-04-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

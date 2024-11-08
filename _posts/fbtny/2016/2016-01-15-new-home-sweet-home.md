@@ -1,7 +1,7 @@
 ---
 title: "New Home Sweet Home"
 date: "2016-01-15"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

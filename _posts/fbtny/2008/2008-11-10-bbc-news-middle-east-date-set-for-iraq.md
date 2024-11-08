@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Date set for Iraq provincial poll"
 date: "2008-11-10"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

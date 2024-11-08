@@ -1,7 +1,7 @@
 ---
 title: "Iraq Elections Results"
 date: "2014-05-20"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

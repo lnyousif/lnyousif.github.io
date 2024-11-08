@@ -1,7 +1,7 @@
 ---
 title: "The Truth Of Iraq's City Of Deformed Babies"
 date: "2009-09-01"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

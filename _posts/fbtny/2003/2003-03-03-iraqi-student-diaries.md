@@ -1,7 +1,7 @@
 ---
 title: "Iraqi Student Diaries"
 date: "2003-03-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

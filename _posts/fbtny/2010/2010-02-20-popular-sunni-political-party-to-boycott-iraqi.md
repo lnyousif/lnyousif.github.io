@@ -1,7 +1,7 @@
 ---
 title: "Popular Sunni political party to boycott Iraqi elections"
 date: "2010-02-20"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

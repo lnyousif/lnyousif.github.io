@@ -1,7 +1,7 @@
 ---
 title: "Vicar: Dire Times For Iraq's Christians"
 date: "2007-12-10"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

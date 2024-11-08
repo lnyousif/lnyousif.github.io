@@ -1,7 +1,7 @@
 ---
 title: "New study to assist Iraq’s most vulnerable children launched"
 date: "2003-06-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

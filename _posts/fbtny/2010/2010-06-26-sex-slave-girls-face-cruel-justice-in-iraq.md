@@ -1,7 +1,7 @@
 ---
 title: "Sex slave girls face cruel justice in Iraq - CNN.com"
 date: "2010-06-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

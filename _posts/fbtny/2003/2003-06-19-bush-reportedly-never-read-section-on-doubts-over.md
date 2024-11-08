@@ -1,7 +1,7 @@
 ---
 title: "Bush reportedly never read section on doubts over uranium assertion"
 date: "2003-06-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

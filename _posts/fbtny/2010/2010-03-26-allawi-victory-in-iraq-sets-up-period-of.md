@@ -1,7 +1,7 @@
 ---
 title: "Allawi Victory in Iraq Sets Up Period of Uncertainty - NYTimes.com"
 date: "2010-03-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

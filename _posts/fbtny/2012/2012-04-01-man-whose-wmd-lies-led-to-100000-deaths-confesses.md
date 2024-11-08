@@ -1,7 +1,7 @@
 ---
 title: "Man whose WMD lies led to 100,000 deaths confesses all"
 date: "2012-04-01"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

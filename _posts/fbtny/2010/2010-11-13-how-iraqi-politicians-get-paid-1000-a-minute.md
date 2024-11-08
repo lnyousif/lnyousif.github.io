@@ -1,7 +1,7 @@
 ---
 title: "How Iraqi politicians get paid $1,000 a minute, don't make laws and live it up for free at Baghdad's finest hotel"
 date: "2010-11-13"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

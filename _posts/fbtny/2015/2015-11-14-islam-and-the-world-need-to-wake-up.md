@@ -1,7 +1,7 @@
 ---
 title: "Islam and the world need to wake up"
 date: "2015-11-14"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

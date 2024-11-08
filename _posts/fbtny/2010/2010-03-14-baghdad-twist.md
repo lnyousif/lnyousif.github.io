@@ -1,7 +1,7 @@
 ---
 title: "Baghdad Twist"
 date: "2010-03-14"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

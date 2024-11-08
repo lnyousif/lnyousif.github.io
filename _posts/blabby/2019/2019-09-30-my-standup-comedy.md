@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Laith yousif Comedy"
-author: laith
+author: Laith Yousif
 categories: [blabbing, personal]
 tags: [ comedy ]
 featured: true

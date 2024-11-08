@@ -1,7 +1,7 @@
 ---
 title: "Iraqi Court Sets Partial Recount in Tight Election"
 date: "2010-04-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

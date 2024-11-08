@@ -1,7 +1,7 @@
 ---
 title: "When Iraq's Middle Class Flee, They Often Get Poor"
 date: "2007-12-11"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

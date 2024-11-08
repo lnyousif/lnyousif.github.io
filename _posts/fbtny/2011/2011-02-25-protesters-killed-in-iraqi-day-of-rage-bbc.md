@@ -1,7 +1,7 @@
 ---
 title: "Protesters killed in Iraqi 'day of rage' - BBC News"
 date: "2011-02-25"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

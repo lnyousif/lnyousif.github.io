@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Viewpoint: Bad case of Baghdadophobia"
 date: "2008-11-04"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

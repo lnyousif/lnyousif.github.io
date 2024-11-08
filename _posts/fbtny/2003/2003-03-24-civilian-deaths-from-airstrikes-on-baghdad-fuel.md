@@ -1,7 +1,7 @@
 ---
 title: "Civilian Deaths From Airstrikes on Baghdad Fuel Rising Anger"
 date: "2003-03-24"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

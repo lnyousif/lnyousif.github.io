@@ -1,7 +1,7 @@
 ---
 title: "Maliki and Allawi locked in tight Iraq election battle"
 date: "2010-03-17"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "Listen for the Human Voice"
 date: "2003-03-31"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

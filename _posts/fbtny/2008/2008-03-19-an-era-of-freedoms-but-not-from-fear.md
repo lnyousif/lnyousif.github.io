@@ -1,7 +1,7 @@
 ---
 title: "An era of freedoms, but not from fear"
 date: "2008-03-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

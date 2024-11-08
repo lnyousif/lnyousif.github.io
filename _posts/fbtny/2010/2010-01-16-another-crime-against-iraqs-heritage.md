@@ -1,7 +1,7 @@
 ---
 title: "Another crime against Iraq's heritage"
 date: "2010-01-16"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

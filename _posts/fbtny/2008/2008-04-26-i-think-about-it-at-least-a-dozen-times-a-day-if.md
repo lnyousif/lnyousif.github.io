@@ -1,7 +1,7 @@
 ---
 title: "Thoughs from Baghdad"
 date: "2008-04-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

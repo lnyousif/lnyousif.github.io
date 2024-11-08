@@ -1,7 +1,7 @@
 ---
 title: "Missing Iraq antiquities haunt experts"
 date: "2008-04-08"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

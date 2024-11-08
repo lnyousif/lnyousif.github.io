@@ -1,7 +1,7 @@
 ---
 title: "Leader Faulted on Using Army in Iraqi Politics"
 date: "2010-02-11"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

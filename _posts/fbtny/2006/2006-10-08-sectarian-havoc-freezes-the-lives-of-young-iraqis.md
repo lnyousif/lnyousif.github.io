@@ -1,7 +1,7 @@
 ---
 title: "Sectarian Havoc Freezes the Lives of Young Iraqis - New York Times"
 date: "2006-10-08"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

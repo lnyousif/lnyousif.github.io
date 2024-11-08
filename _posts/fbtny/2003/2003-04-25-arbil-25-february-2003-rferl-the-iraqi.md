@@ -1,7 +1,7 @@
 ---
 title: "Iraq Kurds Ask US Not To Let Turkish Forces Into North"
 date: "2003-04-25"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "Brown It Was One Of My Regrets That I Wasnt Able To Be More Successful In Pushing The Americans On This Issue"
 date: "2010-03-07"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

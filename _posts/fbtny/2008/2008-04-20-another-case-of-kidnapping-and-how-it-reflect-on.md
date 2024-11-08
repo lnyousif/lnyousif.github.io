@@ -1,7 +1,7 @@
 ---
 title: "Another case of kidnapping and how it reflect on the family"
 date: "2008-04-20"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

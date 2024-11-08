@@ -1,7 +1,7 @@
 ---
 title: "The Virtual Museum of Iraq"
 date: "2009-06-10"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

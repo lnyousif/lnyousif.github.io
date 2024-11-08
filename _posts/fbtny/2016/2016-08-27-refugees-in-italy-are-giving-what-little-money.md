@@ -1,7 +1,7 @@
 ---
 title: "Refugees In Italy Are Giving What Little Money They Have To Help Earthquake Victims – ThinkProgress"
 date: "2016-08-27"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

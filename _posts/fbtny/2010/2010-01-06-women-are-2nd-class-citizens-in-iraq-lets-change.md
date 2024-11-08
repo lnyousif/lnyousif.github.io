@@ -1,7 +1,7 @@
 ---
 title: "Women are 2nd class citizens in Iraq Lets change this"
 date: "2010-01-06"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

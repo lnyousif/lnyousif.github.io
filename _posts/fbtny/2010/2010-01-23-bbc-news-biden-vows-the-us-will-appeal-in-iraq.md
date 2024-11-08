@@ -1,7 +1,7 @@
 ---
 title: "BBC News - Biden vows the US will appeal in Iraq Blackwater case"
 date: "2010-01-23"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

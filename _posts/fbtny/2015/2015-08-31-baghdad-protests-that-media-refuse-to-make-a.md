@@ -1,6 +1,6 @@
 ---
 date: "2015-08-31"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

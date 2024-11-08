@@ -1,7 +1,7 @@
 ---
 title: "New UNICEF Iraq Ambassador Kadhum Al-Sahir highlights needs of the most deprived"
 date: "2011-05-13"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

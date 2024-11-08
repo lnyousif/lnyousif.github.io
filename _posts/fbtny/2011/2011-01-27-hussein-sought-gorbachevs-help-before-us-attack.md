@@ -1,7 +1,7 @@
 ---
 title: "Hussein Sought Gorbachev’s Help Before U.S. Attack in ’91"
 date: "2011-01-27"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

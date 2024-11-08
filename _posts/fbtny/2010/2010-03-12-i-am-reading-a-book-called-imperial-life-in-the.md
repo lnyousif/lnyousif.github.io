@@ -1,7 +1,7 @@
 ---
 title: "What Assyrian Treasures??"
 date: "2010-03-12"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

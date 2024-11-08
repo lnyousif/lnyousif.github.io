@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | FBI Saddam interviews released"
 date: "2009-07-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

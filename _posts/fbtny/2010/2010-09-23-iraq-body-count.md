@@ -1,7 +1,7 @@
 ---
 title: "Iraq Body Count"
 date: "2010-09-23"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

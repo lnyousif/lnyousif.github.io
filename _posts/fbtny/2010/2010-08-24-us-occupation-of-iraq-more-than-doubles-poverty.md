@@ -1,7 +1,7 @@
 ---
 title: "U.S. Occupation of Iraq More Than Doubles Poverty, Sickness -- Leaves Country a Total Disaster"
 date: "2010-08-24"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

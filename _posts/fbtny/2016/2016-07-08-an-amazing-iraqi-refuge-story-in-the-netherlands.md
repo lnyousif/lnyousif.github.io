@@ -1,7 +1,7 @@
 ---
 title: "An Amazing Iraqi refuge story in the Netherlands"
 date: "2016-07-08"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

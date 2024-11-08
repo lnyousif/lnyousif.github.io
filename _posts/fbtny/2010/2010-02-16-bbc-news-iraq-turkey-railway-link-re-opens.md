@@ -1,7 +1,7 @@
 ---
 title: "BBC News - Iraq-Turkey railway link re-opens"
 date: "2010-02-16"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

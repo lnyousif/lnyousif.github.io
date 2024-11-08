@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraqi artefacts return to Baghdad"
 date: "2008-06-10"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

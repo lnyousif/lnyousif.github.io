@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Public face of the Saddam regime"
 date: "2009-03-12"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,6 +1,6 @@
 ---
 date: "2010-02-02"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

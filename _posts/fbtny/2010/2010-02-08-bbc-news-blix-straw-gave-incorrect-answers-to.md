@@ -1,7 +1,7 @@
 ---
 title: "BBC News - Blix: Straw 'gave incorrect answers' to Iraq inquiry"
 date: "2010-02-08"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

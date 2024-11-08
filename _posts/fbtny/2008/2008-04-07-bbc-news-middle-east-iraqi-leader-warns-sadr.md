@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraqi leader warns Sadr movement"
 date: "2008-04-07"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

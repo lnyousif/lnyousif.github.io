@@ -1,7 +1,7 @@
 ---
 title: "Tour of prison reveals the last days of Saddam Hussein - CNN.com"
 date: "2008-03-27"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "Iraq War Ancient Artifacts of Mesopotamia"
 date: "2003-06-06"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

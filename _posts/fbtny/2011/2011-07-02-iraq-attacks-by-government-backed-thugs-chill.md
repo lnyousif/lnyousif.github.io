@@ -1,7 +1,7 @@
 ---
 title: "Iraq: Attacks by Government-Backed Thugs Chill Protests"
 date: "2011-07-02"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

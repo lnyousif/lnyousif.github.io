@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraqis fear rise of clerics"
 date: "2003-06-09"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

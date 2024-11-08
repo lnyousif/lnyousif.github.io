@@ -1,7 +1,7 @@
 ---
 title: "Iraq’s legacy of looted treasures is revealed"
 date: "2008-03-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

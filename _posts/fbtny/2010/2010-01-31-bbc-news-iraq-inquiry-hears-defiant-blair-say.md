@@ -1,7 +1,7 @@
 ---
 title: "BBC News - Iraq inquiry hears defiant Blair say: I'd do it again"
 date: "2010-01-31"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "They Want Us Exterminated"
 date: "2009-08-17"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

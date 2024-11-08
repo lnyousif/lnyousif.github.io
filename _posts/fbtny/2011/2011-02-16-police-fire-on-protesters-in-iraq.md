@@ -1,7 +1,7 @@
 ---
 title: "Police Fire on Protesters in Iraq"
 date: "2011-02-16"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

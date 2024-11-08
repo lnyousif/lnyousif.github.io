@@ -1,7 +1,7 @@
 ---
 title: "Bush Claim on Iraq Had Flawed Origin, White House Says"
 date: "2003-07-08"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "Missing Iraqi antiquities located in PM Maliki's office - BBC News"
 date: "2010-09-21"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

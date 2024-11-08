@@ -1,7 +1,7 @@
 ---
 title: "Striking Unusual Tones, Beethoven in Iraq"
 date: "2011-09-27"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

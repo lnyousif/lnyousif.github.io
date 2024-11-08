@@ -1,7 +1,7 @@
 ---
 title: "15 Years After Chemical Attack on Civilians, Tragedy Lives On"
 date: "2003-03-16"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

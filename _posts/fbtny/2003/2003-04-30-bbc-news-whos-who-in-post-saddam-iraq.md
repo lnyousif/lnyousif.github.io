@@ -1,7 +1,7 @@
 ---
 title: "BBC News | Who's who in post-Saddam Iraq"
 date: "2003-04-30"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

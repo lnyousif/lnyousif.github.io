@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraq children 'paying high price'"
 date: "2007-12-25"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

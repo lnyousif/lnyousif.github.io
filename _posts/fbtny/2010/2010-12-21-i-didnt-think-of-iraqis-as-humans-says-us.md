@@ -1,7 +1,7 @@
 ---
 title: "'I didn't think of Iraqis as humans,' says U.S. soldier who raped 14-year-old girl before killing her and her family"
 date: "2010-12-21"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

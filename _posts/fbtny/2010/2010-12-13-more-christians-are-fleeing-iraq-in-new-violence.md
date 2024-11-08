@@ -1,7 +1,7 @@
 ---
 title: "More Christians Are Fleeing Iraq In New Violence"
 date: "2010-12-13"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

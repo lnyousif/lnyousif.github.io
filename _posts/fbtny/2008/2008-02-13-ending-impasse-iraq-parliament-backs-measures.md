@@ -1,7 +1,7 @@
 ---
 title: "Ending Impasse, Iraq Parliament Backs Measures - New York Times"
 date: "2008-02-13"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "S.Korea's KOGAS to invest $1 bln in Iraq oil project"
 date: "2010-01-28"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

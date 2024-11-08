@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GTD the Trelo way revisted"
-author: laith
+author: Laith Yousif
 categories: [blabbing, productivity ]
 tags: [ trello, gtd ]
 image: assets/laith/images/gtd2.jpg

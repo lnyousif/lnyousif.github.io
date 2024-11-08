@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Where are Iraq's women?"
 date: "2003-05-08"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

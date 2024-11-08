@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Baghdad braces for war"
 date: "2003-03-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

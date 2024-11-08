@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | 'National crisis' for Iraqi women"
 date: "2003-03-07"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "The Vanishing Booksellers of Baghdad"
 date: "2009-03-07"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

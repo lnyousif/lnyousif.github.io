@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Franks stresses Iraq instability"
 date: "2003-05-09"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

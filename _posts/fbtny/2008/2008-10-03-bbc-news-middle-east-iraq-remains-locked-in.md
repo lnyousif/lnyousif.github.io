@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraq remains 'locked in conflict'"
 date: "2008-10-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

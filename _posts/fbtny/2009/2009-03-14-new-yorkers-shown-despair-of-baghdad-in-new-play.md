@@ -1,7 +1,7 @@
 ---
 title: "New Yorkers shown despair of Baghdad in new play"
 date: "2009-03-14"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

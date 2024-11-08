@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generating release notes from git commit messages using basic shell commands (git/grep)"
-author: laith
+author: Laith Yousif
 date: "2022-01-01"
 categories: [blabbing , cheatsheet ]
 tags: [ git, guide ]

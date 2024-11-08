@@ -1,7 +1,7 @@
 ---
 title: "Ex-soldier convicted of killing Iraqi family dies in prison"
 date: "2014-02-18"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

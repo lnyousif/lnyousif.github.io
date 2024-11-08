@@ -1,7 +1,7 @@
 ---
 title: "Unearthing the splendour of Ur in Iraq"
 date: "2010-02-20"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

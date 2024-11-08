@@ -1,7 +1,7 @@
 ---
 title: "petition: Appeal against Blackwater&nbsp;"
 date: "2010-01-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

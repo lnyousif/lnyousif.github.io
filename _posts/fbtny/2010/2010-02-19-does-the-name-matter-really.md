@@ -1,7 +1,7 @@
 ---
 title: "Does the name matter ...! really?!!"
 date: "2010-02-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

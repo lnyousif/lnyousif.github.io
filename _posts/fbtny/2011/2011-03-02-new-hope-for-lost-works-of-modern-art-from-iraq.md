@@ -1,7 +1,7 @@
 ---
 title: "NEW HOPE FOR LOST WORKS OF MODERN ART FROM IRAQ"
 date: "2011-03-02"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

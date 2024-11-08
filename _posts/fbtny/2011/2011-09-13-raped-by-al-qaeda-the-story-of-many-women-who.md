@@ -1,7 +1,7 @@
 ---
 title: "Raped by al Qaeda , The story of many women who were living in the areas controlled by al Qaeda"
 date: "2011-09-13"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

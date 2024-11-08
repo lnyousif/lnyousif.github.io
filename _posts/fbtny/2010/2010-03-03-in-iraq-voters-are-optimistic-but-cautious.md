@@ -1,7 +1,7 @@
 ---
 title: "In Iraq, Voters Are Optimistic, but Cautious"
 date: "2010-03-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "Portraits of Iraqi Pride"
 date: "2011-12-15"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

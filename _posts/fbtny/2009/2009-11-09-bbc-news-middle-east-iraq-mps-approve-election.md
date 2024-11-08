@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraq MPs approve election reform"
 date: "2009-11-09"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "LRB · Andrew Cockburn · Worth It: The Iraq Sanctions"
 date: "2010-07-22"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

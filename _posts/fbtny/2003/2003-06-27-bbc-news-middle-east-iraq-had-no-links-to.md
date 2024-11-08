@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraq 'had no links to al-Qaeda'"
 date: "2003-06-27"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

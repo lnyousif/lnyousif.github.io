@@ -1,7 +1,7 @@
 ---
 title: "Iraq suffering"
 date: "2014-06-09"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

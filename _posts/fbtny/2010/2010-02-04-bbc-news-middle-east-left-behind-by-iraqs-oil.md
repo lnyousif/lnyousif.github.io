@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Left behind by Iraq's oil rush"
 date: "2010-02-04"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

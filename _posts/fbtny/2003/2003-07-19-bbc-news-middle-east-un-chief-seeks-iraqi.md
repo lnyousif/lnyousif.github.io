@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | UN chief 'seeks Iraqi handover'"
 date: "2003-07-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

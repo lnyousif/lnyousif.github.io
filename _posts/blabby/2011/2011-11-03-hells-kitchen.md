@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hell's Kitchen"
-author: laith
+author: Laith Yousif
 categories: [blabbing, humor]
 tags: [ comedy ]
 image:

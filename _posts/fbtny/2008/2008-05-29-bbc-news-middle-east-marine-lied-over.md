@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Marine 'lied' over Haditha deaths"
 date: "2008-05-29"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

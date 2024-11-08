@@ -1,7 +1,7 @@
 ---
 title: "How bribery became a way of life in Iraq"
 date: "2009-06-28"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

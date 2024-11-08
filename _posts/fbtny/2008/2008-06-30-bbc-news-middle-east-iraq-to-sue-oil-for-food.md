@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraq to sue oil-for-food suspects"
 date: "2008-06-30"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

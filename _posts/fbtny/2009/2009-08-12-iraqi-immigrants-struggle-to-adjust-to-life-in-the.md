@@ -1,7 +1,7 @@
 ---
 title: "Iraqi Immigrants Struggle to Adjust to Life in the U.S."
 date: "2009-08-12"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

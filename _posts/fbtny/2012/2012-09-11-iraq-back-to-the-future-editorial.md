@@ -1,7 +1,7 @@
 ---
 title: "Iraq: back to the future | Editorial"
 date: "2012-09-11"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

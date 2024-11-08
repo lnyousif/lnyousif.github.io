@@ -1,7 +1,7 @@
 ---
 title: "Iraqi Christians Face New Violence"
 date: "2008-10-20"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

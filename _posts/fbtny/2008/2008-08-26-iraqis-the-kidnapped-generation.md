@@ -1,7 +1,7 @@
 ---
 title: "Iraqis, the kidnapped generation"
 date: "2008-08-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

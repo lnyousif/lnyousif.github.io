@@ -1,7 +1,7 @@
 ---
 title: "Poverty drives Iraq organ trade"
 date: "2009-07-20"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

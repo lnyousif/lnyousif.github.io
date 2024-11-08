@@ -1,7 +1,7 @@
 ---
 title: "The Iraq War and the Limits of International Law"
 date: "2010-05-21"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

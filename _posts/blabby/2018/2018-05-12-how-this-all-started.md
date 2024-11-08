@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How this all started."
-author: laith
+author: Laith Yousif
 categories: [blabbing, personal ]
 tags: [ computers ]
 image: assets/laith/images/old-computer.jpg

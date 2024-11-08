@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why you need to get Married"
-author: laith
+author: Laith Yousif
 categories: [blabbing, humor]
 tags: [ comedy ]
 image:

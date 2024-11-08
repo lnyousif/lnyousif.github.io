@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraq's damaged Babylon hopes for revival"
 date: "2008-11-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

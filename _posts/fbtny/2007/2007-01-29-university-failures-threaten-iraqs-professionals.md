@@ -1,7 +1,7 @@
 ---
 title: "University Failures Threaten Iraq's Professionals"
 date: "2007-01-29"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

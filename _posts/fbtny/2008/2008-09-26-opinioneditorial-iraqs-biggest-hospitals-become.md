@@ -1,7 +1,7 @@
 ---
 title: "Opinion/Editorial: Iraq's biggest hospitals become sick"
 date: "2008-09-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

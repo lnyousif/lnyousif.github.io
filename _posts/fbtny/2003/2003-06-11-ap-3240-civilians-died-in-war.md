@@ -1,7 +1,7 @@
 ---
 title: "AP: 3,240 Civilians Died In War"
 date: "2003-06-11"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

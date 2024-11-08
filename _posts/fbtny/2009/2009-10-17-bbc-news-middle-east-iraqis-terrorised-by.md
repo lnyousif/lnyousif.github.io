@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraqis terrorised by child kidnaps"
 date: "2009-10-17"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

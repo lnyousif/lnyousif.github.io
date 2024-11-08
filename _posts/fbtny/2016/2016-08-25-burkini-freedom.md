@@ -1,7 +1,7 @@
 ---
 title: "Burkini &amp; Freedom"
 date: "2016-08-25"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

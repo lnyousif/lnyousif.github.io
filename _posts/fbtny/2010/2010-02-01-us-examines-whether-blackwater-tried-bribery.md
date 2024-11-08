@@ -1,7 +1,7 @@
 ---
 title: "U.S. Examines Whether Blackwater Tried Bribery"
 date: "2010-02-01"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

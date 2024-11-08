@@ -1,7 +1,7 @@
 ---
 title: "Blackwater Attempted to Bribe Iraqi Officials"
 date: "2009-11-11"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

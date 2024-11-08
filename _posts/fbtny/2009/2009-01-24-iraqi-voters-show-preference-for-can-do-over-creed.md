@@ -1,7 +1,7 @@
 ---
 title: "Iraqi voters show preference for can-do over creed"
 date: "2009-01-24"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

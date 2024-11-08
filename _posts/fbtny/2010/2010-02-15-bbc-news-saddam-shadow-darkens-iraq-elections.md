@@ -1,7 +1,7 @@
 ---
 title: "BBC News - Saddam shadow darkens Iraq elections"
 date: "2010-02-15"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

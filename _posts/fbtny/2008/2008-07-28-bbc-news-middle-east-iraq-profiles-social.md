@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraq profiles: Social worker"
 date: "2008-07-28"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

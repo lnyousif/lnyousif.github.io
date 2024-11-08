@@ -2,7 +2,7 @@
 title: "When Baghdad was centre of the scientific world"
 date: "2010-09-30"
 tags: [ fbtny ]
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 image:
   path: assets/laith/images/fbtn.jpg

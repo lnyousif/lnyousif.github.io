@@ -1,7 +1,7 @@
 ---
 title: "IRAQ: In one 'Black Night,' another Baghdad neighborhood is walled in"
 date: "2008-07-14"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "Iraq: Leaving on a Jet Plane...."
 date: "2010-11-30"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "Iraqi Protesters Seek Not a New Regime, but Jobs"
 date: "2011-02-16"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

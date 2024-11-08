@@ -1,7 +1,7 @@
 ---
 title: "Their War at Home: Iraqi War Photographers"
 date: "2011-12-21"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

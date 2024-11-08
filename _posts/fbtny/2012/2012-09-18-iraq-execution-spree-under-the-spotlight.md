@@ -1,7 +1,7 @@
 ---
 title: "Iraq execution spree under the spotlight"
 date: "2012-09-18"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

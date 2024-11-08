@@ -1,7 +1,7 @@
 ---
 title: "Wikileaks Iraq war logs: every death mapped"
 date: "2010-10-22"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "Sharmeen Obaid Films |   IRAQ: THE LOST GENERATION documentary screening"
 date: "2008-10-24"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

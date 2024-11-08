@@ -1,7 +1,7 @@
 ---
 title: "Efforts to Prosecute Blackwater Are Collapsing"
 date: "2010-10-21"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

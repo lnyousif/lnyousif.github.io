@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C# Cheatsheet"
-author: laith
+author: Laith Yousif
 categories: [blabbing , cheatsheet ]
 tags: [ c#, guide ]
 image:

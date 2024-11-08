@@ -1,7 +1,7 @@
 ---
 title: "BBC News - US Blackwater lawsuit signatures sought by Iraq"
 date: "2010-01-18"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

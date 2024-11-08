@@ -1,7 +1,7 @@
 ---
 title: "Alcohol is flowing again in Baghdad"
 date: "2008-07-02"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

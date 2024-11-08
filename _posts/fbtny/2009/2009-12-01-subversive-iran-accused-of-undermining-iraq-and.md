@@ -1,7 +1,7 @@
 ---
 title: "'Subversive' Iran accused of undermining Iraq and causing deaths"
 date: "2009-12-01"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

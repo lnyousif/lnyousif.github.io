@@ -1,7 +1,7 @@
 ---
 title: "Peace Message to Iraq"
 date: "2015-09-04"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

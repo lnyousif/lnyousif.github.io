@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Maliki makes reconciliation call"
 date: "2009-03-06"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "In Rewriting Its History, Iraq Treads Cautiously"
 date: "2010-06-30"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

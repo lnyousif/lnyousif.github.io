@@ -1,7 +1,7 @@
 ---
 title: "UK government lawyer said Iraq War was illegal"
 date: "2010-01-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

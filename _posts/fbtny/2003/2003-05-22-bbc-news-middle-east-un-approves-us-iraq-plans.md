@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | UN approves US Iraq plans"
 date: "2003-05-22"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

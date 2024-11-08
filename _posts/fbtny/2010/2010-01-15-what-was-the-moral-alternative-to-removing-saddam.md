@@ -1,7 +1,7 @@
 ---
 title: "What was the moral alternative to removing Saddam Hussein?"
 date: "2010-01-15"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

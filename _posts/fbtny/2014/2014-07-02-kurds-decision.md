@@ -1,7 +1,7 @@
 ---
 title: "Kurds Decision"
 date: "2014-07-02"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

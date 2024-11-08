@@ -1,7 +1,7 @@
 ---
 title: "Biden going to Iraq due to concerns about candidates barred from elections"
 date: "2010-01-22"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

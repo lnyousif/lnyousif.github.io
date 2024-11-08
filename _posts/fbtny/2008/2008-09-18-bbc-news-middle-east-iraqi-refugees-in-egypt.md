@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraqi refugees in Egypt"
 date: "2008-09-18"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

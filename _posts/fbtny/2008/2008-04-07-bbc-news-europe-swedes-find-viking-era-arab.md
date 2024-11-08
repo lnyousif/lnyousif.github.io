@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Europe | Swedes find Viking-era Arab coins"
 date: "2008-04-07"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "A calmer Iraq takes on another killer — smoking"
 date: "2009-08-07"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

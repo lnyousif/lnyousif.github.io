@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Viewpoint: Laughter in the dark"
 date: "2009-04-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

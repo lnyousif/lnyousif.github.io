@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Programmes | From Our Own Correspondent | A shoulder to cry on in Baghdad"
 date: "2008-06-04"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

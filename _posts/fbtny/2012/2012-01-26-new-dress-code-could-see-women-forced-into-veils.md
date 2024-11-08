@@ -1,7 +1,7 @@
 ---
 title: "new dress code could see women forced into veils"
 date: "2012-01-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

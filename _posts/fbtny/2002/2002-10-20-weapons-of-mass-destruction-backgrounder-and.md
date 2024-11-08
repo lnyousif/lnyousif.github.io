@@ -1,7 +1,7 @@
 ---
 title: "Weapons of Mass Destruction Backgrounder and Research Guide"
 date: "2002-10-20"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

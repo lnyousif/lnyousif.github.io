@@ -1,7 +1,7 @@
 ---
 title: "Iraq Protests"
 date: "2015-09-01"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "CNN.com - U.S. official: Iraqi troops not eager to fight - Mar. 18, 2003"
 date: "2003-03-08"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

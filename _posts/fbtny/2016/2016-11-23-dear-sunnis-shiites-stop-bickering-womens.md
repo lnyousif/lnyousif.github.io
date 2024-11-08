@@ -1,7 +1,7 @@
 ---
 title: "Dear Sunnis, Shiites stop bickering"
 date: "2016-11-23"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

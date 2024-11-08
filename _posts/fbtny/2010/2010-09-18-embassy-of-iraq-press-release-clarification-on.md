@@ -1,7 +1,7 @@
 ---
 title: "Embassy of Iraq - Press Release - Clarification on Missing Iraqi Artifacts"
 date: "2010-09-18"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

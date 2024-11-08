@@ -1,7 +1,7 @@
 ---
 title: "Diary of Saad Eskander, Director of the Iraq National Library and Archive, posted online by British library"
 date: "2007-01-29"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

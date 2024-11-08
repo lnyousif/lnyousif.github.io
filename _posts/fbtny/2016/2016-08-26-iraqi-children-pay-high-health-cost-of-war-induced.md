@@ -1,7 +1,7 @@
 ---
 title: "Iraqi children pay high health cost of war-induced air pollution, study finds"
 date: "2016-08-26"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

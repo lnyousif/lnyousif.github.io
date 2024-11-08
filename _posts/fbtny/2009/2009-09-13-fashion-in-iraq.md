@@ -1,7 +1,7 @@
 ---
 title: "Fashion in Iraq"
 date: "2009-09-13"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "There's So Much Violence In Iraq The Tragedy Has Become Easy To Ignore"
 date: "2013-12-18"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

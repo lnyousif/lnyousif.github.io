@@ -1,7 +1,7 @@
 ---
 title: "A precedent legislation issued lately by Kerbala Provincial Council banning all public music playing and dance including mobiles and CD players"
 date: "2010-08-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

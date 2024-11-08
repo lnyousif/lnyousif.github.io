@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | UK | Magazine | Is Iraq the next holiday hotspot?"
 date: "2010-02-04"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

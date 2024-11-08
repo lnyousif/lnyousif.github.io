@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Iraq deal over province elections"
 date: "2008-09-24"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

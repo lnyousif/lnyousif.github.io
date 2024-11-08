@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GTD the Trello way"
-author: laith
+author: Laith Yousif
 categories: [blabbing, productivity]
 tags: [ trello, gtd ]
 image:

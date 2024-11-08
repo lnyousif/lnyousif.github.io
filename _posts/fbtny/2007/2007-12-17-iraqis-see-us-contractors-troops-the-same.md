@@ -1,7 +1,7 @@
 ---
 title: "Iraqis See U.S. Contractors, Troops the Same"
 date: "2007-12-17"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

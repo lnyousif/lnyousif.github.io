@@ -1,7 +1,7 @@
 ---
 title: "Iraqi museum displays gold treasures"
 date: "2003-06-09"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

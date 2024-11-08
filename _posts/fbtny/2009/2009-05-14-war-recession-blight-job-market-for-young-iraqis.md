@@ -1,7 +1,7 @@
 ---
 title: "War, recession blight job market for young Iraqis - CNN.com"
 date: "2009-05-14"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

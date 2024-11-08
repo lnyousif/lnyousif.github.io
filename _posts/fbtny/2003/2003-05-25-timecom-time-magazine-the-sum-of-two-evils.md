@@ -1,7 +1,7 @@
 ---
 title: "TIME.com: TIME Magazine -- The Sum of Two Evils"
 date: "2003-05-25"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

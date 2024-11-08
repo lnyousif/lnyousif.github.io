@@ -1,7 +1,7 @@
 ---
 title: "Iraq: Radio Personality Shot Dead"
 date: "2011-09-09"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

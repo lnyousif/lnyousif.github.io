@@ -1,7 +1,7 @@
 ---
 title: "British Museum - Archive: Babylon"
 date: "2008-10-23"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

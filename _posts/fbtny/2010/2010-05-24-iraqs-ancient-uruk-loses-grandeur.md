@@ -1,7 +1,7 @@
 ---
 title: "Iraq’s ancient Uruk loses grandeur"
 date: "2010-05-24"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

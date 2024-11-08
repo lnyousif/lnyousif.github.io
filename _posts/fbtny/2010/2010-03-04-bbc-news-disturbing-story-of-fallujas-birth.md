@@ -1,7 +1,7 @@
 ---
 title: "BBC News - Disturbing story of Falluja's birth defects"
 date: "2010-03-04"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

@@ -1,7 +1,7 @@
 ---
 title: "UK Unveils Timetable to War"
 date: "2002-02-24"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

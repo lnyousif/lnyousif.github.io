@@ -1,7 +1,7 @@
 ---
 title: "College students flee a system under siege"
 date: "2007-01-18"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

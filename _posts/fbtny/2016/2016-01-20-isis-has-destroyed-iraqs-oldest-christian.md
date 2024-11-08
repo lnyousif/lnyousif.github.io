@@ -2,7 +2,7 @@
 title: "Isis has destroyed Iraq's oldest Christian monastery, satellite images confirm"
 date: "2016-01-20"
 tags:  [ fbtny ]
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 image:
   path: assets/laith/images/fbtn.jpg

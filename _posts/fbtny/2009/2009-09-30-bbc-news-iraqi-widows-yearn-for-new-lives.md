@@ -1,7 +1,7 @@
 ---
 title: "BBC News - Iraqi widows yearn for new lives"
 date: "2009-09-30"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

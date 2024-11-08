@@ -1,7 +1,7 @@
 ---
 title: "BBC NEWS | Middle East | Five years, five Iraqis"
 date: "2008-03-22"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

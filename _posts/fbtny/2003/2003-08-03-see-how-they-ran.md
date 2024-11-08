@@ -1,7 +1,7 @@
 ---
 title: "See how They Ran"
 date: "2003-08-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

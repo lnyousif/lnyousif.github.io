@@ -1,7 +1,7 @@
 ---
 title: "BBC News - Iraq lifts election ban on suspected Baathists"
 date: "2010-02-03"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

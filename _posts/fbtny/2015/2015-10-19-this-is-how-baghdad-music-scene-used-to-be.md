@@ -1,7 +1,7 @@
 ---
 title: "Baghdad Music Scene"
 date: "2015-10-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

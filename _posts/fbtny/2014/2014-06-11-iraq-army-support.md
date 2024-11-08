@@ -1,7 +1,7 @@
 ---
 title: "Iraq Army Support"
 date: "2014-06-11"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

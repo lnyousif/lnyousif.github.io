@@ -1,7 +1,7 @@
 ---
 title: "Iraq History"
 date: "2002-08-01"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

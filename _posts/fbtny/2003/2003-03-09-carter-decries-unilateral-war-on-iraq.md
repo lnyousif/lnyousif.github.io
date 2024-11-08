@@ -1,7 +1,7 @@
 ---
 title: "Carter Decries Unilateral War on Iraq"
 date: "2003-03-09"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

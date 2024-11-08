@@ -1,7 +1,7 @@
 ---
 title: "HRW presses Iraqi Kurds to ban female circumcision - BBC News"
 date: "2010-06-18"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

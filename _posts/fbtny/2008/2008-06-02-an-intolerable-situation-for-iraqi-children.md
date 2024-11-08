@@ -1,7 +1,7 @@
 ---
 title: "An Intolerable Situation for Iraqi Children"
 date: "2008-06-02"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

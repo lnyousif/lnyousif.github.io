@@ -1,7 +1,7 @@
 ---
 title: "Remembering Desert Storm 25 Years later"
 date: "2016-01-17"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

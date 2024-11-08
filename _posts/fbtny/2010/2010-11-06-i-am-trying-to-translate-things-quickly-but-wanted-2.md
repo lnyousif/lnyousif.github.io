@@ -1,7 +1,7 @@
 ---
 title: "Sayedat Al-Najat church in Baghdad on October 31, 2010"
 date: "2010-11-06"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

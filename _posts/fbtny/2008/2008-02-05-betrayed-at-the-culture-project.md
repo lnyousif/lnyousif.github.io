@@ -1,7 +1,7 @@
 ---
 title: "Betrayed at the Culture Project."
 date: "2008-02-05"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

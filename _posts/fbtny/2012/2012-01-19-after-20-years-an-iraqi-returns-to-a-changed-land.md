@@ -1,7 +1,7 @@
 ---
 title: "After 20 Years, An Iraqi Returns To A Changed Land"
 date: "2012-01-19"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:

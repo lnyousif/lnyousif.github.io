@@ -1,7 +1,7 @@
 ---
 title: "Beauty and Love"
 date: "2003-02-23"
-author: laith
+author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:
