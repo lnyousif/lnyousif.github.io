@@ -7,7 +7,7 @@ categories: [blabbing , cheatsheet ]
 tags: [ git, guide ]
 ---
 
-# Not Mine, I copied it from somewhere and I would like to find wherer it was to link to it, Its super useful #
+# Not mine, Its super useful #
 
 We’re going to use simple commands instead of using one of the many tools available… And keep in mind that there are many options available even when using git commands, the ones listed here are just some of the options you have…
 
