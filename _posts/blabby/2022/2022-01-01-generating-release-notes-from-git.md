@@ -31,8 +31,10 @@ What a coincidence that OpenUI5 uses such annotations 🙂
 2. Clone a git repo that uses annotations in commit messages
 For this demo I use the publicly available OpenUI5 JavaScript library. I’m aware that they use annotations for their commit messages. Just clone the repo and change into the created folder:
 
+```
 git clone https://github.com/SAP/openui5.git
 cd openui5
+```
  
 
 3. Showing commit logs
@@ -68,10 +70,10 @@ git log --pretty=format:"%h - %an, %ar : %s" --since=2.weeks | wc -l
 ```
 
 
-
 Well, that shows we have 38.720 commits, while 350 of them where made in the last 2 weeks.
 
 Hint: if you only want the count you might prefer using git rev-list:
+
 ```
 git rev-list master --count
 ```
@@ -146,4 +148,5 @@ git log $(git describe --tags --abbrev=0)..HEAD --pretty=format:"%s" -i -E --gre
 Conclusion
 You’ve seen how easy it is to create simple release notes from your git commit messages. For simplicity I’ve avoided to also add merge commits to the regex. By the way: haven’t you seen the UI5 release notes? Now make a guess how they are generated 😉
 
-Based on the commands you could also better keep track of what happens in your favorite git repo, i.e. to leak what you’ve found before certain announcements are made on a conference 😉 Leaks? Well, here is one leak:
+
+[source](https://community.sap.com/t5/technology-blogs-by-members/generating-release-notes-from-git-commit-messages-using-basic-shell/ba-p/13370773)
