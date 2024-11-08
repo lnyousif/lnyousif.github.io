@@ -7,7 +7,8 @@ categories: [blabbing , cheatsheet ]
 tags: [ git, guide ]
 ---
 
-# Not mine, Its super useful #
+[Source](https://community.sap.com/t5/technology-blogs-by-members/generating-release-notes-from-git-commit-messages-using-basic-shell/ba-p/13370773)
+
 
 We’re going to use simple commands instead of using one of the many tools available… And keep in mind that there are many options available even when using git commands, the ones listed here are just some of the options you have…
 
@@ -148,5 +149,3 @@ git log $(git describe --tags --abbrev=0)..HEAD --pretty=format:"%s" -i -E --gre
 Conclusion
 You’ve seen how easy it is to create simple release notes from your git commit messages. For simplicity I’ve avoided to also add merge commits to the regex. By the way: haven’t you seen the UI5 release notes? Now make a guess how they are generated 😉
 
-
-[source](https://community.sap.com/t5/technology-blogs-by-members/generating-release-notes-from-git-commit-messages-using-basic-shell/ba-p/13370773)
