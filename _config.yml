@@ -28,8 +28,8 @@ url: "https://www.laithyousif.com"
 github:
   username: lnyousif # change to your GitHub username
 
-twitter:
-  username: lnyousif # change to your Twitter username
+bluesky:
+  username: lnyousif.bsky.social # change to your bluesky username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/lnyousif # change to your Twitter homepage
+    - https://bsky.app/profile/lnyousif.bsky.social #
     - https://github.com/lnyousif # change to your GitHub homepage
     - https://www.linkedin.com/in/laithyousif/ # change to your Linkedin homepage
     # Uncomment below to add more social links
