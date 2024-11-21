@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Run jekyll serve and then launch the site
+# Run jekyll serve and then launch the site (Run it from the site root folder using ./tools/run.sh)
 
 prod=false
 command="bundle exec jekyll s -l"

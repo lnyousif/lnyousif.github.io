@@ -174,7 +174,10 @@ collections:
   pages:
     output: true
     sort_by: order
-
+  tools:
+    output: true
+    hidden: true
+    sort_by: order
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
@@ -202,7 +205,12 @@ defaults:
     values:
       layout: page
       permalink: /pages/:title/
-
+  - scope:
+      path: _tools
+      type: tools # see `site.collections`
+    values:
+      layout: blank
+      permalink: /tools/:title/
 sass:
   style: compressed
 

@@ -4,7 +4,7 @@
 #
 # Requirement: html-proofer, jekyll
 #
-# Usage: See help information
+# Usage: (Run it from the site root folder using ./tools/test.sh)
 
 set -eu
 
