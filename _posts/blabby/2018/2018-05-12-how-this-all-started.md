@@ -29,5 +29,5 @@ Olivetti PC1 Computer.
 
 This computer I used at work , I could not afford this advanced machine at that time
 
-![Olivetti](/assets/laith/posts/1/3.jpg)
+![Olivetti](/assets/laith/posts/1/3.jpg?xMzUptJzZbehL0gdrzjXcfDEO3IV6AFyLIdQGALrtR9QxasvPsu3XNRBfvtZ5LnxFbnTwqwOFHyr4OpHdH5xn2i6u0yTxrmTCiq0fF596xJaVWjeTCRrbEinmOpNrAsF)
 Year: 1988 CPU: NEC V40 RAM: 512 KB Colors: 4 Hard Disk: None Recording Media: 3.5” Diskette
