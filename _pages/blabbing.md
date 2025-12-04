@@ -4,7 +4,7 @@ title: Blabby.me
 icon: fas fa-info-circle
 order: 1
 ---
-My original blog that started very long time ago when i was just posting quotes and funny things, then I started posting omre about other stuff.
+The OG blog. It kicked off ages ago as a collection of quotes and laughs, but has since evolved into the home for all my other ramblings.
 
 
 [Blabbing](/categories/blabbing/)

@@ -4,7 +4,8 @@ title: Shahrazad
 icon: fas fa-info-circle
 order: 3
 ---
-My Arabic poetry blog
+Where I weave words into Arabic verse.
 
+حيث أنسج الكلمات في أبيات عربية.
 
 [Shahrazad](/categories/shahrazad/)
