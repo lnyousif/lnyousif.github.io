@@ -7,11 +7,10 @@ order: 5
 
 Here, you'll find a collection of my past projects and writings, including:
 
-- **Blabby Me** — my original blog.
-- **From Baghdad to New York** — posts from my Iraq-focused blog.
-- **Humor Writing** — pieces from a separate site where I shared my humorous writing.
-- **Class Reflections** — thoughts and insights from various classes I've taken.
-- **Arabic Poetry** — poems written during a period when I was inspired to create in Arabic.
+- **[Blabby Me](/categories/blabbing/)** — my original blog: technology, productivity, and personal musings.
+- **[From Baghdad to New York](/categories/iraq-blog/)** — posts from my Iraq-focused blog documenting the Iraqi perspective during the war years.
+- **[Humor Writing](/categories/humor/)** — comedy pieces and humorous sketches.
+- **[Shahrazad](/categories/shahrazad/)** — Arabic poetry from a period of creative inspiration.
 
 
 # About Laith Yousif
@@ -28,13 +27,13 @@ In 2002, Laith launched a blog called *From Baghdad to New York*, where he share
 
 Laith's story has been featured in numerous publications and media outlets:
 
-- **Time Magazine** (2008) — *Laith Yousif: Iraqi 9/11 Survivor*
+- **Time Magazine** (2008) — [*Laith Yousif: Iraqi 9/11 Survivor*](https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html)
 - **Dissent Magazine** — *No Refuge Here: Iraqis Flee*
-- **ABC News** — Interview on the eve of Saddam Hussein’s execution
+- **ABC News** — Interview on the eve of Saddam Hussein's execution
 - **The Wind of Amal** (2012) — A documentary following the lives of three Iraqi refugees in the U.S., including Laith.
 
-## New Ventures: Stand-Up Comedy
+## Stand-Up Comedy
 
-Recently, Laith ventured into stand-up comedy. You can find a link to one of his routines [here](https://www.youtube.com/watch?v=Dggo_fIWfAc).
+Laith has ventured into stand-up comedy. Watch one of his routines on [YouTube](https://www.youtube.com/watch?v=Dggo_fIWfAc).
 
 ---

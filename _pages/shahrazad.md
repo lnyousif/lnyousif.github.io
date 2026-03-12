@@ -1,7 +1,7 @@
 ---
 title: Shahrazad
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-feather-alt
 order: 3
 ---
 Where I weave words into Arabic verse.
