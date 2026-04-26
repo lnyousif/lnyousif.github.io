@@ -3,15 +3,6 @@
 icon: fas fa-info-circle
 order: 5
 ---
-# Welcome to My Personal Website
-
-Here, you'll find a collection of my past projects and writings, including:
-
-- **[Blabby Me](/categories/blabbing/)** — my original blog: technology, productivity, and personal musings.
-- **[From Baghdad to New York](/categories/iraq-blog/)** — posts from my Iraq-focused blog documenting the Iraqi perspective during the war years.
-- **[Humor Writing](/categories/humor/)** — comedy pieces and humorous sketches.
-- **[Shahrazad](/categories/shahrazad/)** — Arabic poetry from a period of creative inspiration.
-
 
 # About Laith Yousif
 
@@ -22,6 +13,10 @@ Now a U.S. citizen, Laith works in technology and lives in Brooklyn with his wif
 ## Blogging Journey: From Baghdad to New York
 
 In 2002, Laith launched a blog called *From Baghdad to New York*, where he shared articles and perspectives on the needs of everyday Iraqis. This blog was later renamed *Better Iraq* and continues to serve as a platform for his reflections and advocacy.
+
+## Baghdad To Brooklyn — The Book
+
+Laith is currently working on a memoir, *Baghdad To Brooklyn*, which traces his journey from the banks of the Tigris River to the streets of Brooklyn — a story of displacement, resilience, and finding home. [Learn more →](/pages/baghdad-to-brooklyn/)
 
 ## Media Features and Advocacy
 
