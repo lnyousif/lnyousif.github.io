@@ -35,15 +35,18 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Laith Yousif
-  #email: example@domain.com # change to your email address
+  email: Laith@LaithYousif.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://bsky.app/profile/lnyousif.bsky.social #
     - https://github.com/lnyousif # change to your GitHub homepage
     - https://www.linkedin.com/in/laithyousif/ # change to your Linkedin homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/lnyousif # change to your Instagram username
+    - https://x.com/lnyousif # change to your X (Twitter) username
+    #- https://www.tiktok.com/@lnyousif # change to your TikTok username
+    - https://www.threads.net/@lnyousif # change to your Threads username
+    - https://www.facebook.com/laithyousif
 
 # Site Verification Settings
 webmaster_verifications:
@@ -60,7 +63,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: 'G-34TX6HB7B9'
+    id: "G-34TX6HB7B9"
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
