@@ -1,0 +1,177 @@
+/* ===================================================
+   Author Home Page Styles
+   =================================================== */
+
+/* Hero Section */
+.author-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 2.5rem 1rem 2rem;
+  border-bottom: 1px solid var(--border-color, #e5e7eb);
+  margin-bottom: 2.5rem;
+}
+
+.author-hero__avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--link-color, #0d6efd);
+  margin-bottom: 1rem;
+}
+
+.author-hero__name {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+}
+
+.author-hero__tagline {
+  font-size: 1.1rem;
+  opacity: 0.8;
+  margin: 0 0 1.2rem;
+}
+
+.author-hero__social {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.author-hero__social a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9rem;
+  text-decoration: none;
+  padding: 0.3rem 0.8rem;
+  border-radius: 9999px;
+  border: 1px solid var(--link-color, #0d6efd);
+  transition: background 0.2s, color 0.2s;
+}
+
+.author-hero__social a:hover {
+  background: var(--link-color, #0d6efd);
+  color: #fff;
+}
+
+/* Bio Section */
+.author-bio {
+  max-width: 720px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.75;
+}
+
+.author-bio h2 {
+  font-size: 1.35rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Section Cards */
+.author-sections {
+  margin-bottom: 2.5rem;
+}
+
+.author-sections h2 {
+  font-size: 1.35rem;
+  margin-bottom: 1rem;
+}
+
+.section-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 1rem;
+}
+
+.section-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.2rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--border-color, #e5e7eb);
+  text-decoration: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.section-card:hover {
+  border-color: var(--link-color, #0d6efd);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  text-decoration: none;
+}
+
+.section-card__icon {
+  font-size: 1.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.section-card__title {
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.section-card__desc {
+  font-size: 0.85rem;
+  opacity: 0.75;
+  line-height: 1.5;
+}
+
+/* Media Features */
+.author-media {
+  margin-bottom: 2.5rem;
+}
+
+.author-media h2 {
+  font-size: 1.35rem;
+  margin-bottom: 0.75rem;
+}
+
+.author-media ul {
+  padding-left: 1.25rem;
+  line-height: 2;
+}
+
+/* Latest Posts */
+.author-latest {
+  margin-bottom: 2rem;
+}
+
+.author-latest h2 {
+  font-size: 1.35rem;
+  margin-bottom: 1rem;
+}
+
+.latest-post-item {
+  display: flex;
+  flex-direction: column;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--border-color, #e5e7eb);
+  text-decoration: none;
+}
+
+.latest-post-item:last-child {
+  border-bottom: none;
+}
+
+.latest-post-item__title {
+  font-weight: 600;
+}
+
+.latest-post-item__meta {
+  font-size: 0.8rem;
+  opacity: 0.65;
+  margin-top: 0.2rem;
+}
+
+.latest-post-item:hover .latest-post-item__title {
+  text-decoration: underline;
+}
+
+.view-all-link {
+  display: inline-block;
+  margin-top: 0.9rem;
+  font-size: 0.9rem;
+}
