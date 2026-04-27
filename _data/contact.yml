@@ -23,11 +23,13 @@
 
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/in/laithyousif/" # Fill with your LinkedIn profile link
 
 - type: stack-overflow
   icon:
     "fab fa-stack-overflow"
     # Fill with your Bluesky profile link
+  url: "https://stackoverflow.com/users/12345678/laith-yousif" # Fill with your Stack Overflow profile link
 
 - type: reddit
   icon: "fa-brands fa-reddit"
@@ -37,3 +39,16 @@
   icon:
     "fa-brands fa-threads"
     # Fill with your Threads profile link
+  url: "https://www.threads.net/@laithyousif" # Fill with your Threads profile link
+
+- type: facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/laithyousif" # Fill with your
+
+- type: twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/lnyousif" # Fill with your Twitter
+
+- type: instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/laithyousif/" # Fill with your
