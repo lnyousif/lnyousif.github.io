@@ -89,6 +89,36 @@ title: Laith Yousif
 </div>
 
 <!-- ================================================
+     Media Features
+     ================================================ -->
+<div class="author-media">
+  <h2>In the Media</h2>
+  <ul>
+    <li>
+      <strong>Time Magazine</strong> (2008) —
+      <a
+        href="https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html"
+        target="_blank"
+        rel="noopener"
+      >
+        <em>Laith Yousif: Iraqi 9/11 Survivor</em>
+      </a>
+    </li>
+    <li>
+      <strong>Dissent Magazine</strong> — <em>No Refuge Here: Iraqis Flee</em>
+    </li>
+    <li>
+      <strong>ABC News</strong> — Interview on the eve of Saddam Hussein's
+      execution
+    </li>
+    <li>
+      <strong>The Wind of Amal</strong> (2012) — A documentary following the
+      lives of three Iraqi refugees in the U.S., including Laith.
+    </li>
+  </ul>
+</div>
+
+<!-- ================================================
      Section Cards
      ================================================ -->
 <div class="author-sections">
@@ -131,56 +161,4 @@ title: Laith Yousif
       >
     </a>
   </div>
-</div>
-
-<!-- ================================================
-     Media Features
-     ================================================ -->
-<div class="author-media">
-  <h2>In the Media</h2>
-  <ul>
-    <li>
-      <strong>Time Magazine</strong> (2008) —
-      <a
-        href="https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html"
-        target="_blank"
-        rel="noopener"
-      >
-        <em>Laith Yousif: Iraqi 9/11 Survivor</em>
-      </a>
-    </li>
-    <li>
-      <strong>Dissent Magazine</strong> — <em>No Refuge Here: Iraqis Flee</em>
-    </li>
-    <li>
-      <strong>ABC News</strong> — Interview on the eve of Saddam Hussein's
-      execution
-    </li>
-    <li>
-      <strong>The Wind of Amal</strong> (2012) — A documentary following the
-      lives of three Iraqi refugees in the U.S., including Laith.
-    </li>
-  </ul>
-</div>
-
-<!-- ================================================
-     Latest Posts
-     ================================================ -->
-<div class="author-latest">
-  <h2>Latest Posts</h2>
-
-  {% assign recent_posts = site.posts | limit: 6 %} {% for post in recent_posts
-  %}
-  <a class="latest-post-item" href="{{ post.url | relative_url }}">
-    <span class="latest-post-item__title">{{ post.title }}</span>
-    <span class="latest-post-item__meta">
-      {{ post.date | date: "%B %-d, %Y" }} {% if post.categories.first
-      %}&nbsp;·&nbsp;{{ post.categories.first }}{% endif %}
-    </span>
-  </a>
-  {% endfor %}
-
-  <a class="view-all-link" href="{{ '/posts' | relative_url }}"
-    >View all posts →</a
-  >
 </div>
