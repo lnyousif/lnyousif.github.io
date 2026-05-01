@@ -5,7 +5,7 @@ author: Laith Yousif
 categories: [ iraq-blog ]
 tags: [ fbtny ]
 image:
-  path: assets/laith/images/fbtn.jpg
+  path: assets/laith/images/fbtn.svg
   alt: From Baghdad To New York Blogs
 
 

@@ -1,0 +1,446 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#060816"/>
+      <stop offset="55%" style="stop-color:#0d1b3e"/>
+      <stop offset="100%" style="stop-color:#162348"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b3e;stop-opacity:0.85"/>
+      <stop offset="100%" style="stop-color:#04070f"/>
+    </linearGradient>
+    <radialGradient id="gate-glow" cx="22%" cy="62%" r="28%">
+      <stop offset="0%" style="stop-color:#c87010;stop-opacity:0.18"/>
+      <stop offset="100%" style="stop-color:#c87010;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="ny-glow" cx="78%" cy="62%" r="28%">
+      <stop offset="0%" style="stop-color:#3060d0;stop-opacity:0.18"/>
+      <stop offset="100%" style="stop-color:#3060d0;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="text-glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft-shadow">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="sky-clip">
+      <rect x="0" y="0" width="1200" height="390"/>
+    </clipPath>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" style="stop-color:transparent"/>
+      <stop offset="100%" style="stop-color:#000;stop-opacity:0.5"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <rect width="1200" height="630" fill="url(#gate-glow)"/>
+  <rect width="1200" height="630" fill="url(#ny-glow)"/>
+
+  <!-- Stars -->
+  <g fill="white" clip-path="url(#sky-clip)">
+    <circle cx="70"   cy="35"  r="1.1" opacity="0.8"/>
+    <circle cx="140"  cy="22"  r="0.8" opacity="0.6"/>
+    <circle cx="220"  cy="58"  r="0.9" opacity="0.7"/>
+    <circle cx="305"  cy="16"  r="0.7" opacity="0.6"/>
+    <circle cx="390"  cy="44"  r="1.0" opacity="0.8"/>
+    <circle cx="465"  cy="28"  r="0.8" opacity="0.65"/>
+    <circle cx="545"  cy="52"  r="0.7" opacity="0.6"/>
+    <circle cx="640"  cy="18"  r="1.2" opacity="0.85"/>
+    <circle cx="715"  cy="48"  r="0.8" opacity="0.7"/>
+    <circle cx="795"  cy="32"  r="1.0" opacity="0.75"/>
+    <circle cx="875"  cy="14"  r="0.9" opacity="0.65"/>
+    <circle cx="955"  cy="62"  r="1.1" opacity="0.8"/>
+    <circle cx="1030" cy="26"  r="0.8" opacity="0.7"/>
+    <circle cx="1110" cy="45"  r="1.0" opacity="0.75"/>
+    <circle cx="1170" cy="20"  r="0.7" opacity="0.6"/>
+    <circle cx="115"  cy="88"  r="0.6" opacity="0.55"/>
+    <circle cx="260"  cy="108" r="0.8" opacity="0.65"/>
+    <circle cx="385"  cy="78"  r="0.7" opacity="0.6"/>
+    <circle cx="520"  cy="98"  r="0.9" opacity="0.7"/>
+    <circle cx="665"  cy="72"  r="0.6" opacity="0.55"/>
+    <circle cx="810"  cy="92"  r="0.8" opacity="0.65"/>
+    <circle cx="940"  cy="82"  r="0.7" opacity="0.6"/>
+    <circle cx="1065" cy="102" r="0.9" opacity="0.7"/>
+    <circle cx="195"  cy="138" r="0.6" opacity="0.5"/>
+    <circle cx="445"  cy="128" r="0.7" opacity="0.55"/>
+    <circle cx="695"  cy="142" r="0.8" opacity="0.6"/>
+    <circle cx="895"  cy="118" r="0.6" opacity="0.5"/>
+    <circle cx="1125" cy="138" r="0.7" opacity="0.55"/>
+    <circle cx="330"  cy="165" r="0.6" opacity="0.45"/>
+    <circle cx="570"  cy="155" r="0.7" opacity="0.5"/>
+    <circle cx="760"  cy="168" r="0.6" opacity="0.45"/>
+    <circle cx="1010" cy="148" r="0.7" opacity="0.5"/>
+  </g>
+
+  <!-- Crescent moon (above gate) -->
+  <g transform="translate(145, 65)" opacity="0.75">
+    <circle cx="0" cy="0" r="22" fill="#f0d870"/>
+    <circle cx="11" cy="-5" r="17" fill="#060816"/>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- ISHTAR GATE (left side, x=0–560)                            -->
+  <!-- ============================================================ -->
+
+  <!-- Gate ambient glow -->
+  <ellipse cx="270" cy="295" rx="270" ry="210" fill="#c87010" opacity="0.07" filter="url(#soft-shadow)"/>
+
+  <!-- === LEFT TOWER (x=18, y=148, w=132, h=242) === -->
+  <rect x="18" y="148" width="132" height="242" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+
+  <!-- Left tower crenellations (5 merlons, w=22, gap=4, start x=20) -->
+  <rect x="20"  y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="46"  y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="72"  y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="98"  y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="124" y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+
+  <!-- Left tower decorative band 1: stylized Mušḫuššu dragon row (y=168–192) -->
+  <g fill="#c87010" opacity="0.55">
+    <!-- Dragon silhouettes as abstract elongated shapes -->
+    <ellipse cx="35"  cy="180" rx="12" ry="5"/>
+    <polygon points="22,178 28,174 34,180 28,186"/>
+    <ellipse cx="62"  cy="180" rx="12" ry="5"/>
+    <polygon points="49,178 55,174 61,180 55,186"/>
+    <ellipse cx="89"  cy="180" rx="12" ry="5"/>
+    <polygon points="76,178 82,174 88,180 82,186"/>
+    <ellipse cx="116" cy="180" rx="12" ry="5"/>
+    <polygon points="103,178 109,174 115,180 109,186"/>
+    <ellipse cx="139" cy="180" rx="9" ry="5"/>
+  </g>
+  <!-- Band separator lines -->
+  <line x1="18" y1="168" x2="150" y2="168" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+  <line x1="18" y1="192" x2="150" y2="192" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Left tower decorative band 2: stylized bull row (y=248–272) -->
+  <g fill="#c87010" opacity="0.5">
+    <ellipse cx="38"  cy="260" rx="13" ry="6"/>
+    <polygon points="25,258 32,254 25,268"/>
+    <ellipse cx="68"  cy="260" rx="13" ry="6"/>
+    <polygon points="55,258 62,254 55,268"/>
+    <ellipse cx="98"  cy="260" rx="13" ry="6"/>
+    <polygon points="85,258 92,254 85,268"/>
+    <ellipse cx="128" cy="260" rx="12" ry="6"/>
+    <polygon points="115,258 122,254 115,268"/>
+  </g>
+  <line x1="18" y1="248" x2="150" y2="248" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+  <line x1="18" y1="272" x2="150" y2="272" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Left tower decorative band 3: dragon row (y=318–340) -->
+  <g fill="#c87010" opacity="0.45">
+    <ellipse cx="35"  cy="329" rx="12" ry="4.5"/>
+    <polygon points="23,327 29,323 35,329 29,335"/>
+    <ellipse cx="62"  cy="329" rx="12" ry="4.5"/>
+    <polygon points="50,327 56,323 62,329 56,335"/>
+    <ellipse cx="89"  cy="329" rx="12" ry="4.5"/>
+    <polygon points="77,327 83,323 89,329 83,335"/>
+    <ellipse cx="116" cy="329" rx="12" ry="4.5"/>
+    <polygon points="104,327 110,323 116,329 110,335"/>
+    <ellipse cx="140" cy="329" rx="9"  ry="4.5"/>
+  </g>
+  <line x1="18" y1="318" x2="150" y2="318" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+  <line x1="18" y1="340" x2="150" y2="340" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- === RIGHT TOWER (x=390, y=148, w=132, h=242) === -->
+  <rect x="390" y="148" width="132" height="242" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+
+  <!-- Right tower crenellations (5 merlons) -->
+  <rect x="392" y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="418" y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="444" y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="470" y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="496" y="124" width="22" height="24" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+
+  <!-- Right tower band 1: dragon row -->
+  <g fill="#c87010" opacity="0.55">
+    <ellipse cx="407" cy="180" rx="12" ry="5"/>
+    <polygon points="394,178 400,174 406,180 400,186"/>
+    <ellipse cx="434" cy="180" rx="12" ry="5"/>
+    <polygon points="421,178 427,174 433,180 427,186"/>
+    <ellipse cx="461" cy="180" rx="12" ry="5"/>
+    <polygon points="448,178 454,174 460,180 454,186"/>
+    <ellipse cx="488" cy="180" rx="12" ry="5"/>
+    <polygon points="475,178 481,174 487,180 481,186"/>
+    <ellipse cx="511" cy="180" rx="9"  ry="5"/>
+  </g>
+  <line x1="390" y1="168" x2="522" y2="168" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+  <line x1="390" y1="192" x2="522" y2="192" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Right tower band 2: bull row -->
+  <g fill="#c87010" opacity="0.5">
+    <ellipse cx="410" cy="260" rx="13" ry="6"/>
+    <polygon points="397,258 404,254 397,268"/>
+    <ellipse cx="440" cy="260" rx="13" ry="6"/>
+    <polygon points="427,258 434,254 427,268"/>
+    <ellipse cx="470" cy="260" rx="13" ry="6"/>
+    <polygon points="457,258 464,254 457,268"/>
+    <ellipse cx="500" cy="260" rx="12" ry="6"/>
+    <polygon points="487,258 494,254 487,268"/>
+  </g>
+  <line x1="390" y1="248" x2="522" y2="248" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+  <line x1="390" y1="272" x2="522" y2="272" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Right tower band 3: dragon row -->
+  <g fill="#c87010" opacity="0.45">
+    <ellipse cx="407" cy="329" rx="12" ry="4.5"/>
+    <polygon points="395,327 401,323 407,329 401,335"/>
+    <ellipse cx="434" cy="329" rx="12" ry="4.5"/>
+    <polygon points="422,327 428,323 434,329 428,335"/>
+    <ellipse cx="461" cy="329" rx="12" ry="4.5"/>
+    <polygon points="449,327 455,323 461,329 455,335"/>
+    <ellipse cx="488" cy="329" rx="12" ry="4.5"/>
+    <polygon points="476,327 482,323 488,329 482,335"/>
+    <ellipse cx="511" cy="329" rx="9"  ry="4.5"/>
+  </g>
+  <line x1="390" y1="318" x2="522" y2="318" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+  <line x1="390" y1="340" x2="522" y2="340" stroke="#a06008" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- === CENTRAL GATE WALL (x=150, y=210, w=240, h=180) === -->
+  <rect x="150" y="210" width="240" height="180" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+
+  <!-- Central wall crenellations: left strip (x=150–198) -->
+  <rect x="152" y="188" width="20" height="22" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="176" y="188" width="20" height="22" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <!-- Central wall crenellations: right strip (x=342–390) -->
+  <rect x="344" y="188" width="20" height="22" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+  <rect x="368" y="188" width="20" height="22" fill="#100c04" stroke="#a06008" stroke-width="1.2"/>
+
+  <!-- Central decorative rosette band (y=218–238) -->
+  <g fill="#c87010" opacity="0.45">
+    <circle cx="163" cy="228" r="5"/>
+    <circle cx="183" cy="228" r="5"/>
+    <circle cx="356" cy="228" r="5"/>
+    <circle cx="376" cy="228" r="5"/>
+  </g>
+  <line x1="150" y1="218" x2="390" y2="218" stroke="#a06008" stroke-width="0.8" opacity="0.5"/>
+  <line x1="150" y1="238" x2="390" y2="238" stroke="#a06008" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- === ARCH OPENING (pointed ogival arch) === -->
+  <!-- Sky fill to "cut out" the arch from the wall -->
+  <path d="M 200,390 L 200,300 Q 200,242 270,242 Q 340,242 340,300 L 340,390 Z" fill="#0d1b3e"/>
+  <!-- Stars visible through arch opening -->
+  <g fill="white" opacity="0.5">
+    <circle cx="230" cy="268" r="0.9"/>
+    <circle cx="255" cy="255" r="1.1"/>
+    <circle cx="280" cy="263" r="0.8"/>
+    <circle cx="310" cy="270" r="0.9"/>
+    <circle cx="245" cy="285" r="0.7"/>
+    <circle cx="295" cy="280" r="0.7"/>
+    <circle cx="270" cy="295" r="0.8"/>
+  </g>
+  <!-- Arch border / keystone highlight -->
+  <path d="M 200,390 L 200,300 Q 200,242 270,242 Q 340,242 340,300 L 340,390" fill="none" stroke="#d08828" stroke-width="2.5"/>
+  <!-- Arch inner edge secondary line -->
+  <path d="M 210,390 L 210,305 Q 210,255 270,255 Q 330,255 330,305 L 330,390" fill="none" stroke="#c07018" stroke-width="1" opacity="0.5"/>
+
+  <!-- Rosette decorations flanking the arch (wall face) -->
+  <g fill="none" stroke="#c87010" opacity="0.5">
+    <!-- Left of arch -->
+    <circle cx="172" cy="310" r="9"/>
+    <circle cx="172" cy="310" r="5"/>
+    <line x1="163" y1="310" x2="181" y2="310" stroke-width="1"/>
+    <line x1="172" y1="301" x2="172" y2="319" stroke-width="1"/>
+    <!-- Right of arch -->
+    <circle cx="368" cy="310" r="9"/>
+    <circle cx="368" cy="310" r="5"/>
+    <line x1="359" y1="310" x2="377" y2="310" stroke-width="1"/>
+    <line x1="368" y1="301" x2="368" y2="319" stroke-width="1"/>
+    <!-- Left of arch lower -->
+    <circle cx="172" cy="355" r="9"/>
+    <circle cx="172" cy="355" r="5"/>
+    <line x1="163" y1="355" x2="181" y2="355" stroke-width="1"/>
+    <line x1="172" y1="346" x2="172" y2="364" stroke-width="1"/>
+    <!-- Right of arch lower -->
+    <circle cx="368" cy="355" r="9"/>
+    <circle cx="368" cy="355" r="5"/>
+    <line x1="359" y1="355" x2="377" y2="355" stroke-width="1"/>
+    <line x1="368" y1="346" x2="368" y2="364" stroke-width="1"/>
+  </g>
+
+  <!-- Baghdad label -->
+  <text x="270" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#e8a030" opacity="0.75">بغداد · BAGHDAD</text>
+
+  <!-- ============================================================ -->
+  <!-- NEW YORK SKYLINE (right side, x=620–1190)                   -->
+  <!-- ============================================================ -->
+
+  <g fill="#0b1025" stroke="#3a6ad4" stroke-width="0.6" opacity="0.95">
+    <!-- WTC-style twin towers -->
+    <rect x="628" y="195" width="44" height="195"/>
+    <rect x="678" y="200" width="38" height="190"/>
+    <!-- Empire State style (tallest) -->
+    <rect x="724" y="175" width="52" height="215"/>
+    <polygon points="750,122 736,175 764,175"/>
+    <line x1="750" y1="95" x2="750" y2="122" stroke="#3a6ad4" stroke-width="2.5"/>
+    <!-- Mid buildings -->
+    <rect x="782" y="198" width="62" height="192"/>
+    <rect x="850" y="210" width="54" height="180"/>
+    <!-- Chrysler-ish -->
+    <rect x="910" y="190" width="52" height="200"/>
+    <polygon points="936,150 914,190 958,190"/>
+    <rect x="926" y="143" width="20" height="10"/>
+    <!-- More buildings -->
+    <rect x="968" y="218" width="50" height="172"/>
+    <rect x="1024" y="200" width="58" height="190"/>
+    <rect x="1088" y="228" width="46" height="162"/>
+    <rect x="1140" y="212" width="50" height="178"/>
+  </g>
+
+  <!-- NY building windows -->
+  <g fill="#5090ff" opacity="0.6">
+    <!-- WTC left -->
+    <rect x="634" y="204" width="7" height="5"/><rect x="647" y="204" width="7" height="5"/><rect x="660" y="204" width="7" height="5"/>
+    <rect x="634" y="218" width="7" height="5"/><rect x="647" y="218" width="7" height="5"/><rect x="660" y="218" width="7" height="5"/>
+    <rect x="634" y="232" width="7" height="5"/><rect x="647" y="232" width="7" height="5"/><rect x="660" y="232" width="7" height="5"/>
+    <!-- WTC right -->
+    <rect x="683" y="208" width="6" height="5"/><rect x="695" y="208" width="6" height="5"/>
+    <rect x="683" y="222" width="6" height="5"/><rect x="695" y="222" width="6" height="5"/>
+    <!-- Empire State -->
+    <rect x="729" y="185" width="7" height="5"/><rect x="742" y="185" width="7" height="5"/><rect x="756" y="185" width="7" height="5"/>
+    <rect x="729" y="198" width="7" height="5"/><rect x="742" y="198" width="7" height="5"/><rect x="756" y="198" width="7" height="5"/>
+    <rect x="729" y="211" width="7" height="5"/><rect x="742" y="211" width="7" height="5"/><rect x="756" y="211" width="7" height="5"/>
+    <rect x="729" y="224" width="7" height="5"/><rect x="742" y="224" width="7" height="5"/><rect x="756" y="224" width="7" height="5"/>
+    <!-- Mid building cluster -->
+    <rect x="787" y="206" width="8" height="5"/><rect x="801" y="206" width="8" height="5"/><rect x="815" y="206" width="8" height="5"/><rect x="829" y="206" width="8" height="5"/>
+    <rect x="787" y="220" width="8" height="5"/><rect x="801" y="220" width="8" height="5"/><rect x="815" y="220" width="8" height="5"/><rect x="829" y="220" width="8" height="5"/>
+    <rect x="787" y="234" width="8" height="5"/><rect x="801" y="234" width="8" height="5"/><rect x="815" y="234" width="8" height="5"/>
+    <rect x="855" y="218" width="7" height="5"/><rect x="868" y="218" width="7" height="5"/><rect x="881" y="218" width="7" height="5"/>
+    <rect x="855" y="232" width="7" height="5"/><rect x="868" y="232" width="7" height="5"/><rect x="881" y="232" width="7" height="5"/>
+    <!-- Chrysler -->
+    <rect x="915" y="200" width="7" height="5"/><rect x="928" y="200" width="7" height="5"/><rect x="941" y="200" width="7" height="5"/>
+    <rect x="915" y="214" width="7" height="5"/><rect x="928" y="214" width="7" height="5"/><rect x="941" y="214" width="7" height="5"/>
+    <!-- Right buildings -->
+    <rect x="973" y="226" width="7" height="5"/><rect x="986" y="226" width="7" height="5"/><rect x="999" y="226" width="7" height="5"/>
+    <rect x="973" y="240" width="7" height="5"/><rect x="986" y="240" width="7" height="5"/>
+    <rect x="1030" y="208" width="8" height="5"/><rect x="1044" y="208" width="8" height="5"/><rect x="1058" y="208" width="8" height="5"/>
+    <rect x="1030" y="222" width="8" height="5"/><rect x="1044" y="222" width="8" height="5"/><rect x="1058" y="222" width="8" height="5"/>
+    <rect x="1093" y="236" width="7" height="5"/><rect x="1106" y="236" width="7" height="5"/>
+    <rect x="1093" y="250" width="7" height="5"/><rect x="1106" y="250" width="7" height="5"/>
+    <rect x="1145" y="220" width="7" height="5"/><rect x="1158" y="220" width="7" height="5"/><rect x="1171" y="220" width="7" height="5"/>
+    <rect x="1145" y="234" width="7" height="5"/><rect x="1158" y="234" width="7" height="5"/><rect x="1171" y="234" width="7" height="5"/>
+  </g>
+
+  <!-- NY label -->
+  <text x="900" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#4a9eff" opacity="0.75">NEW YORK · نيويورك</text>
+
+  <!-- ============================================================ -->
+  <!-- TITLE TEXT — right side, sky area above NY skyline          -->
+  <!-- ============================================================ -->
+
+  <!-- Decorative top line -->
+  <line x1="640" y1="60" x2="1180" y2="60" stroke="#c0a060" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- "FROM BAGHDAD" -->
+  <text
+    x="910"
+    y="118"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="48"
+    font-weight="700"
+    letter-spacing="5"
+    fill="white"
+    filter="url(#text-glow)"
+    opacity="0.96"
+  >FROM BAGHDAD</text>
+
+  <!-- Gold divider ornament -->
+  <line x1="680" y1="138" x2="840" y2="138" stroke="#c0a060" stroke-width="1" opacity="0.55"/>
+  <circle cx="910" cy="138" r="4" fill="#c0a060" opacity="0.7"/>
+  <line x1="980" y1="138" x2="1140" y2="138" stroke="#c0a060" stroke-width="1" opacity="0.55"/>
+
+  <!-- "TO NEW YORK" -->
+  <text
+    x="910"
+    y="192"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="48"
+    font-weight="700"
+    letter-spacing="5"
+    fill="white"
+    filter="url(#text-glow)"
+    opacity="0.96"
+  >TO NEW YORK</text>
+
+  <!-- Bottom decorative line -->
+  <line x1="640" y1="212" x2="1180" y2="212" stroke="#c0a060" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- ============================================================ -->
+  <!-- BRIDGE (full width)                                         -->
+  <!-- ============================================================ -->
+  <rect x="0" y="383" width="1200" height="8" fill="#1e2e5a" opacity="0.85"/>
+  <path d="M 100 383 Q 250 335 400 383" fill="none" stroke="#3555a0" stroke-width="2.2" opacity="0.75"/>
+  <path d="M 400 383 Q 600 315 800 383" fill="none" stroke="#3555a0" stroke-width="3"   opacity="0.85"/>
+  <path d="M 800 383 Q 1000 335 1200 383" fill="none" stroke="#3555a0" stroke-width="2.2" opacity="0.75"/>
+  <g fill="#e8c050" opacity="0.85">
+    <circle cx="100"  cy="384" r="3"/>
+    <circle cx="200"  cy="379" r="2.5"/>
+    <circle cx="300"  cy="374" r="2.5"/>
+    <circle cx="400"  cy="384" r="3"/>
+    <circle cx="500"  cy="370" r="3"/>
+    <circle cx="600"  cy="363" r="3.5"/>
+    <circle cx="700"  cy="370" r="3"/>
+    <circle cx="800"  cy="384" r="3"/>
+    <circle cx="900"  cy="374" r="2.5"/>
+    <circle cx="1000" cy="379" r="2.5"/>
+    <circle cx="1100" cy="384" r="3"/>
+  </g>
+
+  <!-- Water -->
+  <rect x="0" y="391" width="1200" height="99" fill="url(#water)" opacity="0.9"/>
+
+  <!-- Water reflections — amber (gate side) -->
+  <g opacity="0.32">
+    <line x1="55"  y1="394" x2="53"  y2="472" stroke="#e8a030" stroke-width="2"/>
+    <line x1="120" y1="394" x2="118" y2="468" stroke="#e8a030" stroke-width="1.5"/>
+    <line x1="190" y1="394" x2="188" y2="462" stroke="#e8a030" stroke-width="1.5"/>
+    <line x1="260" y1="394" x2="258" y2="468" stroke="#d49020" stroke-width="1.5"/>
+    <line x1="330" y1="394" x2="328" y2="456" stroke="#e8a030" stroke-width="1"/>
+    <line x1="400" y1="394" x2="398" y2="462" stroke="#e8a030" stroke-width="1.5"/>
+    <line x1="470" y1="394" x2="468" y2="453" stroke="#d49020" stroke-width="1"/>
+    <line x1="535" y1="394" x2="533" y2="460" stroke="#e8c050" stroke-width="1.5"/>
+  </g>
+  <!-- Water reflections — blue (NY side) -->
+  <g opacity="0.32">
+    <line x1="720"  y1="394" x2="720"  y2="472" stroke="#4a9eff" stroke-width="2"/>
+    <line x1="790"  y1="394" x2="789"  y2="466" stroke="#4a9eff" stroke-width="1.5"/>
+    <line x1="860"  y1="394" x2="859"  y2="460" stroke="#4a9eff" stroke-width="1.5"/>
+    <line x1="930"  y1="394" x2="929"  y2="456" stroke="#6ab0ff" stroke-width="1"/>
+    <line x1="1000" y1="394" x2="999"  y2="466" stroke="#4a9eff" stroke-width="1.5"/>
+    <line x1="1065" y1="394" x2="1064" y2="456" stroke="#4080ff" stroke-width="1"/>
+    <line x1="1130" y1="394" x2="1129" y2="462" stroke="#4a9eff" stroke-width="1.5"/>
+  </g>
+
+  <!-- Ground -->
+  <rect x="0" y="490" width="1200" height="140" fill="#040608"/>
+
+  <!-- Tree silhouettes — left (Baghdad) -->
+  <g fill="#070a12">
+    <ellipse cx="55"  cy="490" rx="36" ry="17"/>
+    <ellipse cx="128" cy="493" rx="28" ry="14"/>
+    <ellipse cx="198" cy="488" rx="33" ry="16"/>
+    <ellipse cx="268" cy="492" rx="25" ry="13"/>
+    <ellipse cx="335" cy="489" rx="30" ry="15"/>
+    <ellipse cx="408" cy="493" rx="28" ry="14"/>
+    <ellipse cx="478" cy="489" rx="33" ry="17"/>
+    <ellipse cx="548" cy="492" rx="26" ry="13"/>
+  </g>
+  <!-- Tree silhouettes — right (NY) -->
+  <g fill="#070a12">
+    <ellipse cx="648"  cy="491" rx="28" ry="14"/>
+    <ellipse cx="718"  cy="489" rx="33" ry="16"/>
+    <ellipse cx="790"  cy="493" rx="25" ry="13"/>
+    <ellipse cx="860"  cy="489" rx="31" ry="15"/>
+    <ellipse cx="930"  cy="492" rx="28" ry="14"/>
+    <ellipse cx="1005" cy="488" rx="35" ry="17"/>
+    <ellipse cx="1078" cy="493" rx="26" ry="13"/>
+    <ellipse cx="1150" cy="490" rx="32" ry="16"/>
+  </g>
+
+  <!-- Vignette -->
+  <rect width="1200" height="630" fill="url(#vignette)"/>
+</svg>
