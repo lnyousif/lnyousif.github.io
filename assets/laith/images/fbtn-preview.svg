@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <!-- Night sky gradient -->
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e1f"/>
+      <stop offset="60%" style="stop-color:#0d1b3e"/>
+      <stop offset="100%" style="stop-color:#1a2a5e"/>
+    </linearGradient>
+    <!-- Water reflection gradient -->
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b3e;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#060a18"/>
+    </linearGradient>
+    <!-- Warm glow for city lights -->
+    <radialGradient id="glow-left" cx="25%" cy="55%" r="20%">
+      <stop offset="0%" style="stop-color:#e8a030;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8a030;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="glow-right" cx="75%" cy="55%" r="20%">
+      <stop offset="0%" style="stop-color:#4080ff;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#4080ff;stop-opacity:0"/>
+    </radialGradient>
+    <!-- Text glow -->
+    <filter id="text-glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft-glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Star clip -->
+    <clipPath id="sky-clip">
+      <rect x="0" y="0" width="1200" height="380"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background sky -->
+  <rect width="1200" height="630" fill="url(#sky)"/>
+
+  <!-- Ambient city glow -->
+  <rect width="1200" height="630" fill="url(#glow-left)"/>
+  <rect width="1200" height="630" fill="url(#glow-right)"/>
+
+  <!-- Stars -->
+  <g fill="white" opacity="0.7" clip-path="url(#sky-clip)">
+    <circle cx="80" cy="40" r="1.2"/>
+    <circle cx="150" cy="25" r="0.8"/>
+    <circle cx="230" cy="60" r="1.0"/>
+    <circle cx="310" cy="18" r="0.7"/>
+    <circle cx="400" cy="45" r="1.1"/>
+    <circle cx="480" cy="30" r="0.9"/>
+    <circle cx="560" cy="55" r="0.8"/>
+    <circle cx="640" cy="20" r="1.2"/>
+    <circle cx="720" cy="50" r="0.7"/>
+    <circle cx="800" cy="35" r="1.0"/>
+    <circle cx="880" cy="15" r="0.9"/>
+    <circle cx="950" cy="65" r="1.1"/>
+    <circle cx="1020" cy="28" r="0.8"/>
+    <circle cx="1100" cy="48" r="1.0"/>
+    <circle cx="1160" cy="22" r="0.7"/>
+    <circle cx="120" cy="90" r="0.6"/>
+    <circle cx="260" cy="110" r="0.8"/>
+    <circle cx="390" cy="80" r="0.7"/>
+    <circle cx="530" cy="100" r="1.0"/>
+    <circle cx="670" cy="75" r="0.6"/>
+    <circle cx="810" cy="95" r="0.8"/>
+    <circle cx="940" cy="85" r="0.7"/>
+    <circle cx="1070" cy="105" r="0.9"/>
+    <circle cx="200" cy="140" r="0.6"/>
+    <circle cx="450" cy="130" r="0.7"/>
+    <circle cx="700" cy="145" r="0.8"/>
+    <circle cx="900" cy="120" r="0.6"/>
+    <circle cx="1130" cy="140" r="0.7"/>
+  </g>
+
+  <!-- Baghdad skyline (left side) - warm amber tones -->
+  <!-- Buildings -->
+  <g fill="#1a1a2e" stroke="#e8a030" stroke-width="0.5" opacity="0.95">
+    <!-- Tall building far left -->
+    <rect x="30" y="200" width="55" height="200"/>
+    <!-- Hotel-style with grid windows -->
+    <rect x="90" y="220" width="70" height="180"/>
+    <!-- Medium buildings -->
+    <rect x="165" y="250" width="45" height="150"/>
+    <rect x="215" y="235" width="60" height="165"/>
+    <rect x="280" y="265" width="40" height="135"/>
+    <rect x="325" y="245" width="55" height="155"/>
+    <rect x="385" y="270" width="50" height="130"/>
+    <rect x="440" y="255" width="45" height="145"/>
+    <rect x="490" y="280" width="60" height="120"/>
+  </g>
+
+  <!-- Baghdad building windows (warm amber) -->
+  <g fill="#e8a030" opacity="0.6">
+    <!-- Tall left building windows -->
+    <rect x="38" y="210" width="8" height="6"/><rect x="52" y="210" width="8" height="6"/><rect x="66" y="210" width="8" height="6"/>
+    <rect x="38" y="225" width="8" height="6"/><rect x="52" y="225" width="8" height="6"/><rect x="66" y="225" width="8" height="6"/>
+    <rect x="38" y="240" width="8" height="6"/><rect x="52" y="240" width="8" height="6"/><rect x="66" y="240" width="8" height="6"/>
+    <rect x="38" y="255" width="8" height="6"/><rect x="52" y="255" width="8" height="6"/><rect x="66" y="255" width="8" height="6"/>
+    <rect x="38" y="270" width="8" height="6"/><rect x="52" y="270" width="8" height="6"/><rect x="66" y="270" width="8" height="6"/>
+    <!-- Hotel building windows -->
+    <rect x="98" y="230" width="7" height="5"/><rect x="112" y="230" width="7" height="5"/><rect x="126" y="230" width="7" height="5"/><rect x="140" y="230" width="7" height="5"/>
+    <rect x="98" y="244" width="7" height="5"/><rect x="112" y="244" width="7" height="5"/><rect x="126" y="244" width="7" height="5"/><rect x="140" y="244" width="7" height="5"/>
+    <rect x="98" y="258" width="7" height="5"/><rect x="112" y="258" width="7" height="5"/><rect x="126" y="258" width="7" height="5"/><rect x="140" y="258" width="7" height="5"/>
+    <rect x="98" y="272" width="7" height="5"/><rect x="112" y="272" width="7" height="5"/><rect x="126" y="272" width="7" height="5"/><rect x="140" y="272" width="7" height="5"/>
+    <!-- Scattered other windows -->
+    <rect x="170" y="260" width="6" height="4"/><rect x="184" y="260" width="6" height="4"/>
+    <rect x="170" y="272" width="6" height="4"/><rect x="184" y="272" width="6" height="4"/>
+    <rect x="222" y="244" width="7" height="5"/><rect x="237" y="244" width="7" height="5"/><rect x="252" y="244" width="7" height="5"/>
+    <rect x="222" y="258" width="7" height="5"/><rect x="237" y="258" width="7" height="5"/><rect x="252" y="258" width="7" height="5"/>
+    <rect x="333" y="254" width="6" height="4"/><rect x="347" y="254" width="6" height="4"/><rect x="361" y="254" width="6" height="4"/>
+    <rect x="333" y="266" width="6" height="4"/><rect x="347" y="266" width="6" height="4"/><rect x="361" y="266" width="6" height="4"/>
+  </g>
+
+  <!-- New York skyline (right side) - cool blue tones -->
+  <g fill="#0d1230" stroke="#4080ff" stroke-width="0.5" opacity="0.95">
+    <!-- Empire State style spire -->
+    <rect x="710" y="180" width="50" height="220"/>
+    <polygon points="735,130 720,180 750,180"/>
+    <!-- Antenna -->
+    <line x1="735" y1="100" x2="735" y2="130" stroke="#4080ff" stroke-width="2"/>
+    <!-- Other tall buildings -->
+    <rect x="765" y="200" width="65" height="200"/>
+    <rect x="835" y="215" width="55" height="185"/>
+    <rect x="895" y="190" width="60" height="210"/>
+    <!-- Chrysler-ish with art deco top -->
+    <rect x="960" y="195" width="50" height="205"/>
+    <polygon points="985,155 965,195 1005,195"/>
+    <rect x="975" y="148" width="20" height="12"/>
+    <!-- More buildings -->
+    <rect x="1015" y="225" width="50" height="175"/>
+    <rect x="1070" y="240" width="45" height="160"/>
+    <rect x="1120" y="210" width="55" height="190"/>
+    <!-- WTC-style rectangles -->
+    <rect x="620" y="205" width="45" height="195"/>
+    <rect x="670" y="210" width="38" height="190"/>
+  </g>
+
+  <!-- New York building windows (cool blue) -->
+  <g fill="#4a9eff" opacity="0.55">
+    <!-- Empire State -->
+    <rect x="717" y="190" width="7" height="5"/><rect x="730" y="190" width="7" height="5"/><rect x="743" y="190" width="7" height="5"/>
+    <rect x="717" y="204" width="7" height="5"/><rect x="730" y="204" width="7" height="5"/><rect x="743" y="204" width="7" height="5"/>
+    <rect x="717" y="218" width="7" height="5"/><rect x="730" y="218" width="7" height="5"/><rect x="743" y="218" width="7" height="5"/>
+    <rect x="717" y="232" width="7" height="5"/><rect x="730" y="232" width="7" height="5"/><rect x="743" y="232" width="7" height="5"/>
+    <!-- Right cluster -->
+    <rect x="772" y="208" width="8" height="5"/><rect x="786" y="208" width="8" height="5"/><rect x="800" y="208" width="8" height="5"/><rect x="814" y="208" width="8" height="5"/>
+    <rect x="772" y="222" width="8" height="5"/><rect x="786" y="222" width="8" height="5"/><rect x="800" y="222" width="8" height="5"/><rect x="814" y="222" width="8" height="5"/>
+    <rect x="772" y="236" width="8" height="5"/><rect x="786" y="236" width="8" height="5"/><rect x="800" y="236" width="8" height="5"/><rect x="814" y="236" width="8" height="5"/>
+    <rect x="842" y="224" width="7" height="5"/><rect x="856" y="224" width="7" height="5"/><rect x="870" y="224" width="7" height="5"/>
+    <rect x="842" y="238" width="7" height="5"/><rect x="856" y="238" width="7" height="5"/><rect x="870" y="238" width="7" height="5"/>
+    <rect x="902" y="200" width="7" height="5"/><rect x="916" y="200" width="7" height="5"/><rect x="930" y="200" width="7" height="5"/>
+    <rect x="902" y="214" width="7" height="5"/><rect x="916" y="214" width="7" height="5"/><rect x="930" y="214" width="7" height="5"/>
+    <rect x="967" y="204" width="6" height="4"/><rect x="979" y="204" width="6" height="4"/><rect x="991" y="204" width="6" height="4"/>
+    <rect x="967" y="217" width="6" height="4"/><rect x="979" y="217" width="6" height="4"/><rect x="991" y="217" width="6" height="4"/>
+    <rect x="1022" y="234" width="7" height="5"/><rect x="1035" y="234" width="7" height="5"/><rect x="1048" y="234" width="7" height="5"/>
+    <rect x="1077" y="248" width="6" height="4"/><rect x="1089" y="248" width="6" height="4"/>
+    <rect x="1127" y="218" width="7" height="5"/><rect x="1140" y="218" width="7" height="5"/><rect x="1153" y="218" width="7" height="5"/>
+    <rect x="1127" y="232" width="7" height="5"/><rect x="1140" y="232" width="7" height="5"/><rect x="1153" y="232" width="7" height="5"/>
+    <rect x="627" y="215" width="6" height="4"/><rect x="639" y="215" width="6" height="4"/>
+    <rect x="627" y="228" width="6" height="4"/><rect x="639" y="228" width="6" height="4"/>
+    <rect x="677" y="220" width="6" height="4"/><rect x="677" y="233" width="6" height="4"/>
+  </g>
+
+  <!-- Tigris/Hudson River - water band -->
+  <rect x="0" y="390" width="1200" height="100" fill="url(#water)" opacity="0.9"/>
+
+  <!-- Bridge connecting the two cities -->
+  <!-- Bridge deck -->
+  <rect x="0" y="385" width="1200" height="8" fill="#2a3a6e" opacity="0.8"/>
+  <!-- Bridge cables/arches -->
+  <path d="M 150 385 Q 300 330 450 385" fill="none" stroke="#4060b0" stroke-width="2" opacity="0.7"/>
+  <path d="M 450 385 Q 600 320 750 385" fill="none" stroke="#4060b0" stroke-width="2.5" opacity="0.8"/>
+  <path d="M 750 385 Q 900 330 1050 385" fill="none" stroke="#4060b0" stroke-width="2" opacity="0.7"/>
+  <!-- Bridge lights -->
+  <g fill="#e8c050" opacity="0.8">
+    <circle cx="150" cy="386" r="3"/>
+    <circle cx="250" cy="382" r="2.5"/>
+    <circle cx="350" cy="379" r="2.5"/>
+    <circle cx="450" cy="386" r="3"/>
+    <circle cx="550" cy="377" r="3"/>
+    <circle cx="600" cy="374" r="3.5"/>
+    <circle cx="650" cy="377" r="3"/>
+    <circle cx="750" cy="386" r="3"/>
+    <circle cx="850" cy="379" r="2.5"/>
+    <circle cx="950" cy="382" r="2.5"/>
+    <circle cx="1050" cy="386" r="3"/>
+  </g>
+
+  <!-- Water reflections -->
+  <!-- Amber reflections (Baghdad side) -->
+  <g opacity="0.35">
+    <line x1="50" y1="393" x2="50" y2="470" stroke="#e8a030" stroke-width="2"/>
+    <line x1="110" y1="393" x2="108" y2="475" stroke="#e8a030" stroke-width="1.5"/>
+    <line x1="180" y1="393" x2="178" y2="460" stroke="#e8a030" stroke-width="1.5"/>
+    <line x1="240" y1="393" x2="238" y2="465" stroke="#d49020" stroke-width="1.5"/>
+    <line x1="300" y1="393" x2="298" y2="455" stroke="#e8a030" stroke-width="1"/>
+    <line x1="360" y1="393" x2="358" y2="460" stroke="#e8a030" stroke-width="1.5"/>
+    <line x1="420" y1="393" x2="418" y2="450" stroke="#d49020" stroke-width="1"/>
+    <line x1="480" y1="393" x2="478" y2="455" stroke="#e8c050" stroke-width="1.5"/>
+  </g>
+  <!-- Blue reflections (NY side) -->
+  <g opacity="0.35">
+    <line x1="720" y1="393" x2="720" y2="470" stroke="#4a9eff" stroke-width="2"/>
+    <line x1="790" y1="393" x2="789" y2="465" stroke="#4a9eff" stroke-width="1.5"/>
+    <line x1="850" y1="393" x2="849" y2="460" stroke="#4a9eff" stroke-width="1.5"/>
+    <line x1="910" y1="393" x2="909" y2="455" stroke="#6ab0ff" stroke-width="1"/>
+    <line x1="980" y1="393" x2="979" y2="465" stroke="#4a9eff" stroke-width="1.5"/>
+    <line x1="1040" y1="393" x2="1039" y2="455" stroke="#4080ff" stroke-width="1"/>
+    <line x1="1100" y1="393" x2="1099" y2="460" stroke="#4a9eff" stroke-width="1.5"/>
+    <line x1="1160" y1="393" x2="1159" y2="450" stroke="#6ab0ff" stroke-width="1"/>
+  </g>
+
+  <!-- Ground / tree line -->
+  <rect x="0" y="490" width="1200" height="140" fill="#050810"/>
+  <!-- Tree silhouettes left -->
+  <g fill="#080c18">
+    <ellipse cx="60" cy="488" rx="35" ry="18"/>
+    <ellipse cx="130" cy="492" rx="28" ry="14"/>
+    <ellipse cx="200" cy="486" rx="32" ry="16"/>
+    <ellipse cx="270" cy="490" rx="25" ry="13"/>
+    <ellipse cx="330" cy="488" rx="30" ry="15"/>
+    <ellipse cx="410" cy="492" rx="28" ry="14"/>
+    <ellipse cx="480" cy="488" rx="33" ry="17"/>
+    <ellipse cx="550" cy="491" rx="26" ry="13"/>
+  </g>
+  <!-- Tree silhouettes right -->
+  <g fill="#080c18">
+    <ellipse cx="650" cy="490" rx="28" ry="14"/>
+    <ellipse cx="720" cy="488" rx="32" ry="16"/>
+    <ellipse cx="790" cy="492" rx="25" ry="13"/>
+    <ellipse cx="860" cy="488" rx="30" ry="15"/>
+    <ellipse cx="930" cy="491" rx="28" ry="14"/>
+    <ellipse cx="1000" cy="487" rx="35" ry="18"/>
+    <ellipse cx="1075" cy="492" rx="26" ry="13"/>
+    <ellipse cx="1150" cy="489" rx="32" ry="16"/>
+  </g>
+
+  <!-- Center divider / decorative line -->
+  <line x1="580" y1="130" x2="580" y2="490" stroke="#c0a060" stroke-width="0.8" opacity="0.25" stroke-dasharray="6,8"/>
+  <line x1="620" y1="130" x2="620" y2="490" stroke="#c0a060" stroke-width="0.8" opacity="0.25" stroke-dasharray="6,8"/>
+
+  <!-- Arabic crescent moon (subtle, Baghdad side) -->
+  <g transform="translate(560, 70)" opacity="0.6">
+    <circle cx="0" cy="0" r="16" fill="#e8c060"/>
+    <circle cx="8" cy="-4" r="13" fill="#0a0e1f"/>
+  </g>
+
+  <!-- Main title text -->
+  <text
+    x="600"
+    y="545"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="42"
+    font-weight="700"
+    letter-spacing="4"
+    fill="white"
+    filter="url(#text-glow)"
+    opacity="0.95"
+  >FROM BAGHDAD TO NEW YORK</text>
+
+  <!-- Subtitle -->
+  <text
+    x="600"
+    y="590"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="18"
+    font-weight="400"
+    letter-spacing="8"
+    fill="#a0b8d8"
+    opacity="0.85"
+  >A PERSONAL BLOG</text>
+
+  <!-- Decorative divider under title -->
+  <line x1="340" y1="555" x2="490" y2="555" stroke="#c0a060" stroke-width="1" opacity="0.5"/>
+  <circle cx="600" cy="555" r="3" fill="#c0a060" opacity="0.6"/>
+  <line x1="710" y1="555" x2="860" y2="555" stroke="#c0a060" stroke-width="1" opacity="0.5"/>
+
+  <!-- "BAGHDAD" label left -->
+  <text x="250" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#e8a030" opacity="0.7">بغداد · BAGHDAD</text>
+
+  <!-- "NEW YORK" label right -->
+  <text x="900" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#4a9eff" opacity="0.7">NEW YORK · نيويورك</text>
+
+  <!-- Subtle vignette overlay -->
+  <defs>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:transparent"/>
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:0.4"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#vignette)"/>
+</svg>
