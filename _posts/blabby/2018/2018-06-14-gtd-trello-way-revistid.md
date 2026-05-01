@@ -4,7 +4,7 @@ title:  "GTD the Trello way revisited"
 author: Laith Yousif
 categories: [blabbing, productivity ]
 tags: [ trello, gtd ]
-image: assets/laith/images/gtd2.jpg
+image: /assets/laith/images/gtd2.jpg
 description: "How to apply GTD rules revisited"
 featured: true
 ---

@@ -2,6 +2,9 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 5
+title: About Laith Yousif
+description: Learn about Laith Yousif — Baghdad-born engineer, writer, stand-up comedian, Iraqi 9/11 survivor, and refugee advocate. Featured in Time Magazine and ABC News.
+image: /assets/img/avatar.png
 ---
 
 # About Laith Yousif
