@@ -16,22 +16,18 @@ I've told this story in fragments for so long that it's strange to see it as a s
 
 ## What it's about
 
-At the simplest level, it's a book about leaving one home and building another.
+It's a memoir about leaving one home to build another. About what you carry with you and what you have to set down. It moves between the Baghdad I grew up in and the New York I chose, and it tries to tell both places honestly — the tenderness and the chaos, the humor and the grief.
 
-- **The journey** — from Baghdad to New York with a degree, a suitcase, and no real plan, and everything that came after: the World Trade Center, 9/11, asylum, and the long wait for my family to join me in Brooklyn.
-- **Culture and identity** — what you carry with you, what you set down, and what it feels like to be Iraqi in America during two decades when those two words rarely sat easy in the same sentence.
-- **The bridge between two worlds** — because that's really what a life like mine becomes: not one place or the other, but the thing you build in between.
-
-I didn't want to write a book about statistics or headlines. I wanted to write about real people — my people — with names, jokes, arguments, and favorite foods. That's the book.
+This isn't a hero's story. It's the story of an ordinary person facing a few limited doors and deciding which one to walk through.
 
 ---
 
-## What happens next
+## How to stay close to it
 
-- **Launch week is late August.** I'll post the exact date here the moment it's locked.
-- **Pre-order and buy links** will go up on the [Baghdad To Brooklyn page](/pages/baghdad-to-brooklyn/) as soon as they're live — that's the first place everything will appear.
-- **Follow along** here for launch-week updates, an early excerpt, and where to grab your copy.
+If any of that sounds like your kind of book, here's how to follow along:
 
-If you've been reading along since the *From Baghdad to New York* days, thank you. You were the first draft's first readers. I can't wait to put the finished thing in your hands.
+- **Launch is late August 2026** — I'll post the exact day here first.
+- **Pre-order details are coming soon** — I'll share the link the moment it's live, on the [Baghdad To Brooklyn page](/pages/baghdad-to-brooklyn/).
+- **Want a reminder?** Keep an eye on this page during launch week, or reach out and I'll make sure you know where to grab a copy.
 
-More soon.
+Thank you for being here early. It means a lot to share this one.
