@@ -3,6 +3,8 @@ title: From Baghdad To New York
 # the default layout is 'page'
 icon: fas fa-globe
 order: 2
+description: Discover From Baghdad To New York, Laith Yousif's archive of Iraq-focused writing and reporting.
+image: /assets/img/avatar.png
 ---
 A blog I started in 2002 as the drums of war against Iraq began to beat. The news portrayed Iraq as a backward country with no civilized people, selling the war as an easy choice to get rid of a terrible dictator (which he was) and save the Iraqi people who were supposedly hopeless (which was neither the goal nor meant to help them).
 
