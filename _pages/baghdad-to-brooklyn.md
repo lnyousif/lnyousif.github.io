@@ -10,6 +10,11 @@ order: 4
 
 ---
 
+> **📖 Coming late August 2026.**
+> After more than twenty years of writing this life down in pieces, the book is almost here. Launch week is coming — pre-order and buy links will land on this page the moment they're live.
+
+---
+
 ## The Book
 
 *Baghdad To Brooklyn* is the story of a man who left everything he knew — the ancient streets of Baghdad, the warmth of family, the only language that felt like home — and found himself standing in New York City with little more than a degree, a dream, and an uncertain future.
@@ -32,12 +37,12 @@ Above all, it is a story about what it means to rebuild a life — brick by bric
 
 | | |
 |---|---|
-| **Status** | In progress |
+| **Status** | Coming soon |
 | **Publisher** | TBA |
-| **Release Date** | TBA |
+| **Release Date** | Late August 2026 |
 | **ISBN** | TBA |
 
-Pre-order and buy links will be added here when available.
+Pre-order and buy links will be added here as soon as they go live. Keep an eye on this page during launch week — that's where everything will land first.
 
 ---
 
