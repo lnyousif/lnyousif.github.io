@@ -2,6 +2,8 @@
 title: Baghdad To Brooklyn
 icon: fas fa-book
 order: 4
+description: Explore the memoir project Baghdad To Brooklyn, Laith Yousif's forthcoming story of leaving Baghdad for Brooklyn.
+image: /assets/img/avatar.png
 ---
 
 # Baghdad To Brooklyn

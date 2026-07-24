@@ -21,6 +21,12 @@ tagline: Techie, Writer & Comic — Blabbings from Baghdad to Brooklyn # it will
 description: >- # used by seo meta and the atom feed
   Laith Yousif — Baghdad-born engineer, writer, and stand-up comedian living in Brooklyn. Iraqi 9/11 survivor, refugee advocate featured in Time Magazine, and author of the forthcoming memoir Baghdad To Brooklyn.
 
+seo:
+  default_description: >-
+    Laith Yousif — Baghdad-born engineer, writer, and stand-up comedian living in Brooklyn. Iraqi 9/11 survivor, refugee advocate featured in Time Magazine, and author of the forthcoming memoir Baghdad To Brooklyn.
+  default_image: /assets/img/avatar.png
+  default_type: website
+
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://www.laithyousif.com"
