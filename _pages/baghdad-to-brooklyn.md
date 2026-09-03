@@ -2,7 +2,7 @@
 title: Baghdad To Brooklyn
 icon: fas fa-book
 order: 4
-description: Explore the memoir project Baghdad To Brooklyn, Laith Yousif's forthcoming story of leaving Baghdad for Brooklyn.
+description: Baghdad To Brooklyn, Laith Yousif's memoir of leaving Baghdad for Brooklyn — out now, reviewed by Kirkus.
 image: /assets/img/avatar.png
 ---
 
@@ -12,8 +12,10 @@ image: /assets/img/avatar.png
 
 ---
 
-> **📖 Coming late August 2026.**
-> After more than twenty years of writing this life down in pieces, the book is almost here. Launch week is coming — pre-order and buy links will land on this page the moment they're live.
+> **📖 Out now.**
+> After more than twenty years of writing this life down in pieces, the book is here.
+>
+> **[Buy Baghdad To Brooklyn on Amazon →](https://a.co/d/01NEp0rj)**
 
 ---
 
@@ -39,12 +41,11 @@ Above all, it is a story about what it means to rebuild a life — brick by bric
 
 | | |
 |---|---|
-| **Status** | Coming soon |
-| **Publisher** | TBA |
-| **Release Date** | Late August 2026 |
-| **ISBN** | TBA |
-
-Pre-order and buy links will be added here as soon as they go live. Keep an eye on this page during launch week — that's where everything will land first.
+| **Status** | Available now |
+| **Publisher** | MindStir Media |
+| **Release Date** | August 25, 2026 |
+| **ISBN** | 979-8950391057 |
+| **Buy** | [Amazon](https://a.co/d/01NEp0rj) |
 
 ---
 
@@ -56,7 +57,9 @@ Pre-order and buy links will be added here as soon as they go live. Keep an eye 
 
 ## Press &amp; Reviews
 
-*This section will be updated as reviews and coverage become available.*
+***Kirkus Reviews*** has reviewed the book and made it a "Get It" pick — [read the review](https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/).
+
+Journalists and producers: the [press kit](/press/) has the bio, three story angles, book details, interview availability, and a downloadable [one-sheet (PDF)](/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf).
 
 ---
 

@@ -33,3 +33,5 @@ And partly because my kids are old enough to ask questions I want to be able to 
 ---
 
 I will be posting updates here as the writing progresses — notes from the process, excerpts, reflections. Follow along at [the Baghdad To Brooklyn page](/pages/baghdad-to-brooklyn/).
+
+*Update: **Baghdad To Brooklyn** is now published — [buy it on Amazon](https://a.co/d/01NEp0rj), and read the [*Kirkus Reviews* review](https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/).*

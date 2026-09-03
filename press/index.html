@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Press — Baghdad to Brooklyn | Laith Yousif</title>
+<meta name="description" content="Press resources for Baghdad to Brooklyn, a memoir by Laith Yousif. Story angles, interview availability and contact for the 25th anniversary of September 11.">
+<meta name="robots" content="index, follow">
+
+<meta property="og:type" content="book">
+<meta property="og:title" content="Press — Baghdad to Brooklyn">
+<meta property="og:description" content="One of the few Iraqis inside the World Trade Center on September 11. Press resources and interview contact.">
+<meta property="og:url" content="https://www.laithyousif.com/press/">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --paper:  #f5f3ee;
+  --ink:    #1b1e20;
+  --petrol: #22333b;   /* headings */
+  --brass:  #8c6412;   /* single accent, matches the printed one-sheet */
+  --quiet:  #6d6a63;   /* secondary text */
+  --hair:   #d9d3c6;   /* rules */
+
+  --serif: "Newsreader", Georgia, "Times New Roman", serif;
+  --sans:  "IBM Plex Sans", system-ui, -apple-system, sans-serif;
+
+  --measure: 64ch;     /* keeps body lines readable */
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--petrol); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { color: var(--brass); }
+:focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; }
+
+.page {
+  max-width: 76rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 5rem;
+}
+
+/* ---------- Hero: the compression line is the pitch, so it leads ---------- */
+.hero { padding: 1rem 0 2.5rem; border-bottom: 1px solid var(--hair); }
+
+.hero .book {
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  letter-spacing: 0.01em;
+  color: var(--quiet);
+  margin: 0 0 1.75rem;
+}
+.hero .book strong { color: var(--petrol); font-weight: 600; }
+
+.line {
+  font-size: clamp(1.6rem, 4.4vw, 2.9rem);
+  line-height: 1.18;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  margin: 0;
+  max-width: 34ch;
+  text-wrap: balance;
+}
+.line-attr {
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  color: var(--quiet);
+  margin: 1rem 0 0;
+}
+
+.actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 2rem; }
+
+.btn {
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: 0.6rem 1.1rem;
+  border: 1px solid var(--petrol);
+  background: var(--petrol);
+  color: var(--paper);
+  text-decoration: none;
+  border-radius: 2px;
+  transition: background 0.15s ease;
+}
+.btn:hover { background: #2e454f; color: var(--paper); }
+.btn.secondary { background: transparent; color: var(--petrol); }
+.btn.secondary:hover { background: rgba(34,51,59,0.06); color: var(--petrol); }
+
+/* ---------- Two-column body with a facts rail ---------- */
+.body { display: grid; gap: 3rem; padding-top: 2.5rem; }
+
+@media (min-width: 62rem) {
+  .body { grid-template-columns: 1fr 17rem; gap: 4rem; }
+  .rail { position: sticky; top: 2.5rem; align-self: start; }
+}
+
+section { margin-bottom: 3rem; }
+section:last-child { margin-bottom: 0; }
+
+h2 {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--petrol);
+  letter-spacing: -0.01em;
+  margin: 0 0 1rem;
+}
+
+p { max-width: var(--measure); }
+
+/* Story angles are alternatives, not steps, so no numbering */
+.angle { padding: 1.25rem 0; border-top: 1px solid var(--hair); }
+.angle:first-of-type { border-top: none; padding-top: 0.25rem; }
+.angle h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin: 0 0 0.4rem;
+}
+.angle p { margin: 0 0 0.6rem; }
+.desk {
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  color: var(--quiet);
+}
+
+/* Copy buttons: journalists are here to lift text, so make that the affordance */
+.copy {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--brass);
+  background: none;
+  border: 1px solid var(--hair);
+  border-radius: 2px;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease;
+}
+.copy:hover { border-color: var(--brass); }
+.copy[data-copied="true"] { color: var(--petrol); border-color: var(--petrol); }
+
+/* Rail */
+.rail-block { border-top: 2px solid var(--petrol); padding-top: 1rem; margin-bottom: 2rem; }
+.rail h2 { font-size: 1.0625rem; margin-bottom: 0.75rem; }
+.rail dl { margin: 0; font-family: var(--sans); font-size: 0.8125rem; line-height: 1.55; }
+.rail dt { color: var(--quiet); }
+.rail dd { margin: 0 0 0.7rem; color: var(--ink); }
+.rail ul { margin: 0; padding-left: 1.1rem; font-size: 0.9375rem; }
+.rail li { margin-bottom: 0.5rem; }
+
+footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--hair);
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  color: var(--quiet);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+</style>
+</head>
+
+<body>
+<main class="page">
+
+  <header class="hero">
+    <p class="book">
+      <strong>Baghdad to Brooklyn</strong> — a memoir by Laith Yousif.
+      MindStir Media, published August 25, 2026.
+    </p>
+
+    <blockquote class="line">
+      “I left Baghdad to get away from buildings getting blown up, moved to New York,
+      first job was the World Trade Center — then 9/11 happened.”
+    </blockquote>
+    <p class="line-attr">Press resources for the 25th anniversary of September 11.</p>
+
+    <div class="actions">
+      <a class="btn" href="https://a.co/d/01NEp0rj">Buy the book on Amazon</a>
+      <a class="btn secondary" href="/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf">
+        Download the one-sheet (PDF)
+      </a>
+      <a class="btn secondary" href="https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/">Read the Kirkus review</a>
+      <a class="btn secondary" href="mailto:Dina@LaithYousif.com">Request an interview</a>
+    </div>
+  </header>
+
+  <div class="body">
+
+    <div class="main">
+
+      <section>
+        <h2>Who he is</h2>
+        <p id="bio">
+          Laith Yousif is an Iraqi-born engineer who started work at the World Trade Center on
+          March 26, 2001 — one of the very few Iraqis inside those buildings on the morning of
+          September 11. He grew up in Baghdad under Saddam Hussein, through the Iran–Iraq war,
+          the 1991 bombardment and a decade of sanctions, and left in 1998 by way of Dubai.
+          Six months into the job he loved, in the city he had fallen for, the towers came down.
+          In the aftermath his visa was cancelled and his contract terminated; he filed for asylum
+          rather than be deported to Iraq — just as the United States prepared to invade it.
+          He waited years for an answer, did not see his brothers for a decade, and now lives in
+          Brooklyn with his wife, Dina, whom he met at a United Nations event on the Iraqi
+          refugee crisis. He also does stand-up.
+        </p>
+        <button class="copy" data-copy="#bio">Copy this paragraph</button>
+      </section>
+
+      <section>
+        <h2>Three story angles</h2>
+
+        <div class="angle">
+          <h3>The Iraqi inside the towers</h3>
+          <p>
+            Twenty-five years of first-person September 11 accounts, and almost none from an Arab
+            who was in the building. He describes the World Trade Center as the safest, most
+            indestructible place on earth — a boy from a bombed city who thought he had finally
+            reached somewhere that could not be hit.
+          </p>
+          <p class="desk">Best for anniversary first-person, radio, documentary.</p>
+        </div>
+
+        <div class="angle">
+          <h3>Asking America to keep him while America bombed his home</h3>
+          <p>
+            The double bind almost no September 11 story contains: he watched Shock and Awe on
+            television while his asylum application sat in a drawer, unanswered. Work permit in
+            September 2003, approval years later, green card in late 2007.
+          </p>
+          <p class="desk">Best for immigration policy, legal affairs, features.</p>
+        </div>
+
+        <div class="angle">
+          <h3>Neither side’s man</h3>
+          <p>
+            After the invasion he became a stand-in for a war he had fled — asked to explain why
+            Iraqis were shooting at American soldiers, and pushed into a “Middle Eastern” box he
+            never chose. Even when invited to speak at the UN on Iraqi refugees, he was coached to
+            use lighter language so as not to bruise the room.
+          </p>
+          <p class="desk">Best for identity, opinion, culture desks.</p>
+        </div>
+      </section>
+
+      <section>
+        <h2>Interviews</h2>
+        <p>
+          Based in Brooklyn. Available for phone, remote, studio and in-person interviews around
+          the anniversary and after. Comfortable live and unscripted.
+        </p>
+        <p>
+          Email <a href="mailto:Dina@LaithYousif.com">Dina@LaithYousif.com</a> for scheduling and
+          a direct phone number.
+        </p>
+      </section>
+
+    </div>
+
+    <aside class="rail">
+      <div class="rail-block">
+        <h2>Book details</h2>
+        <dl>
+          <dt>Title</dt><dd>Baghdad to Brooklyn</dd>
+          <dt>Author</dt><dd>Laith Yousif</dd>
+          <dt>Publisher</dt><dd>MindStir Media</dd>
+          <dt>Published</dt><dd>August 25, 2026</dd>
+          <dt>ISBN</dt><dd>979-8950391057</dd>
+          <dt>Buy</dt><dd><a href="https://a.co/d/01NEp0rj">Amazon</a></dd>
+          <dt>Contact</dt><dd><a href="mailto:Dina@LaithYousif.com">Dina@LaithYousif.com</a></dd>
+        </dl>
+      </div>
+
+      <div class="rail-block">
+        <h2>Previous coverage</h2>
+        <ul>
+          <li><a href="https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/"><em>Kirkus Reviews</em></a>, 2026 — a &ldquo;Get It&rdquo; pick</li>
+          <li><a href="https://time.com/archive/6942865/laith-yousif-iraqi-9-11-survivor/">TIME Magazine</a>, 2008</li>
+          <li><a href="https://unfoundation.org/blog/post/an-unexpected-u-n-love-story/">UN Foundation</a>, 2019</li>
+          <li><a href="https://www.dissentmagazine.org/article/no-refuge-here-iraqis-flee-but-where/">Dissent Magazine</a></li>
+          <li><a href="https://www.imdb.com/title/tt1826019/"><em>The Wind of Al-Amal</em></a>, 2013 — documentary</li>
+          <li>ABC News, 2006 — on the eve of Saddam Hussein’s execution</li>
+        </ul>
+      </div>
+    </aside>
+
+  </div>
+
+  <footer>
+    <p>Laith Yousif · <a href="/">laithyousif.com</a></p>
+  </footer>
+
+</main>
+
+<script>
+// Copy the text of the element named in data-copy, and confirm on the button itself.
+document.querySelectorAll(".copy").forEach(function (button) {
+  button.addEventListener("click", async function () {
+    const source = document.querySelector(button.dataset.copy);
+    const text = source.textContent.replace(/\s+/g, " ").trim();
+    const original = button.textContent;
+
+    try {
+      await navigator.clipboard.writeText(text);
+      button.textContent = "Copied";
+      button.dataset.copied = "true";
+    } catch {
+      button.textContent = "Select and copy manually";
+    }
+
+    setTimeout(function () {
+      button.textContent = original;
+      delete button.dataset.copied;
+    }, 2000);
+  });
+});
+</script>
+</body>
+</html>
