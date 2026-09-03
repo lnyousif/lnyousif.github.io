@@ -28,7 +28,7 @@ This isn't a hero's story. It's the story of an ordinary person facing a few lim
 
 If any of that sounds like your kind of book:
 
-- **It's published** — August 25, 2026, MindStir Media.
+- **It's published** — August 25, 2026, Manhattan Book Group.
 - **Buy it** — [Baghdad To Brooklyn on Amazon](https://a.co/d/01NEp0rj).
 - **Not sure yet?** *Kirkus Reviews* made it a “Get It” pick — [read the review](https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/).
 

@@ -42,7 +42,7 @@ Above all, it is a story about what it means to rebuild a life — brick by bric
 | | |
 |---|---|
 | **Status** | Available now |
-| **Publisher** | MindStir Media |
+| **Publisher** | Manhattan Book Group |
 | **Release Date** | August 25, 2026 |
 | **ISBN** | 979-8950391057 |
 | **Buy** | [Amazon](https://a.co/d/01NEp0rj) |
