@@ -8,6 +8,8 @@ tags: [ memoir, writing, iraq, brooklyn, release ]
 
 It's real, and it finally has a date.
 
+*Update: the book is out now — [buy it on Amazon](https://a.co/d/01NEp0rj).*
+
 **Baghdad To Brooklyn** — the memoir I've been writing, in one form or another, since 2002 — is coming out **late August 2026**.
 
 I've told this story in fragments for so long that it's strange to see it as a single thing with a spine and a cover. But that's what it is now.
@@ -22,12 +24,12 @@ This isn't a hero's story. It's the story of an ordinary person facing a few lim
 
 ---
 
-## How to stay close to it
+## Where to get it
 
-If any of that sounds like your kind of book, here's how to follow along:
+If any of that sounds like your kind of book:
 
-- **Launch is late August 2026** — I'll post the exact day here first.
-- **Pre-order details are coming soon** — I'll share the link the moment it's live, on the [Baghdad To Brooklyn page](/pages/baghdad-to-brooklyn/).
-- **Want a reminder?** Keep an eye on this page during launch week, or reach out and I'll make sure you know where to grab a copy.
+- **It's published** — August 25, 2026, MindStir Media.
+- **Buy it** — [Baghdad To Brooklyn on Amazon](https://a.co/d/01NEp0rj).
+- **Not sure yet?** *Kirkus Reviews* made it a “Get It” pick — [read the review](https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/).
 
 Thank you for being here early. It means a lot to share this one.
