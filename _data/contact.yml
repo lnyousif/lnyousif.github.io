@@ -29,7 +29,7 @@
   icon:
     "fab fa-stack-overflow"
     # Fill with your Bluesky profile link
-  url: "https://stackoverflow.com/users/12345678/laith-yousif" # Fill with your Stack Overflow profile link
+#  url: "https://stackoverflow.com/users/12345678/laith-yousif" # Fill with your Stack Overflow profile link
 
 - type: reddit
   icon: "fa-brands fa-reddit"
@@ -39,7 +39,7 @@
   icon:
     "fa-brands fa-threads"
     # Fill with your Threads profile link
-  url: "https://www.threads.net/@laithyousif" # Fill with your Threads profile link
+  url: "https://www.threads.net/@lnyousif" # Fill with your Threads profile link
 
 - type: facebook
   icon: "fab fa-facebook"
@@ -51,4 +51,4 @@
 
 - type: instagram
   icon: "fab fa-instagram"
-  url: "https://www.instagram.com/laithyousif/" # Fill with your
+  url: "https://www.instagram.com/laithnyousif/" # Fill with your
