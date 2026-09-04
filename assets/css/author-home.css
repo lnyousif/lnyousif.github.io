@@ -58,7 +58,7 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 /* ---------------- Hero ---------------- */
 .ly-hero {
   position: relative;
-  padding: clamp(2rem, 6vw, 4.5rem) 0 clamp(2.25rem, 5vw, 3.5rem);
+  padding: clamp(1.5rem, 4vw, 3rem) 0 clamp(1.5rem, 3vw, 2.25rem);
   overflow: hidden;
   animation: ly-fade-up 0.6s ease both;
 }
@@ -167,7 +167,7 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 }
 
 /* ---------------- Sections ---------------- */
-.ly-section { padding: clamp(2rem, 5vw, 3.5rem) 0; }
+.ly-section { padding: clamp(1.5rem, 3.5vw, 2.5rem) 0; }
 .ly-section__head {
   display: flex;
   align-items: baseline;
@@ -260,33 +260,6 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 .ly-proj .ly-pd { font-size: 0.84rem; color: var(--lyt-muted); line-height: 1.5; }
 .ly-proj .ly-arrow { color: var(--lyt-accent); }
 
-/* Media / press */
-.ly-media { display: flex; flex-direction: column; }
-.ly-media .ly-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem 1rem;
-  align-items: baseline;
-  padding: 1rem 0;
-  border-bottom: 1px solid var(--lyt-line);
-}
-.ly-media .ly-row:last-child { border-bottom: 0; }
-.ly-media .ly-who { font-weight: 700; min-width: 150px; }
-.ly-media .ly-what { color: var(--lyt-muted); }
-.ly-media .ly-what a { color: var(--lyt-accent-ink); text-decoration: none; }
-.ly-media .ly-what a:hover { text-decoration: underline; }
-
-/* Contact CTA */
-.ly-contact {
-  text-align: center;
-  border-top: 1px solid var(--lyt-line);
-  margin-top: 1.5rem;
-  padding: clamp(2.5rem, 6vw, 4rem) 0 1rem;
-}
-.ly-contact h2 { font-size: clamp(1.6rem, 5vw, 2.6rem); margin: 0 0 0.75rem; }
-.ly-contact p { color: var(--lyt-muted); max-width: 44ch; margin: 0 auto; }
-.ly-contact .ly-social { justify-content: center; margin-top: 1.5rem; }
-
 /* Motion preferences */
 @media (prefers-reduced-motion: reduce) {
   .ly-hero { animation: none; }
@@ -301,7 +274,8 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 
 /* Drop Chirpy's "Recently Updated" / "Trending Tags" side panel on the
    book pages only — it stays on posts, categories, tags and archives. */
-.row:has(.ly-home--page) #panel-wrapper { display: none; }
+.row:has(.ly-home--page) #panel-wrapper,
+.row:has(.ly-bookpage) #panel-wrapper { display: none; }
 
 .ly-eyebrow {
   display: inline-block;
@@ -558,8 +532,6 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
   max-width: 720px;
   margin: 2.5rem 0 0;
 }
-/* The homepage closing section is centred, so centre the card there too. */
-.ly-contact .ly-press { margin-inline: auto; }
 .ly-press h3 {
   font-size: 1.1rem;
   font-weight: 700;
@@ -587,3 +559,72 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 .ly-press__contact a { font-weight: 700; color: var(--lyt-accent-ink); text-decoration: none; }
 .ly-press__contact a:hover { text-decoration: underline; }
 .ly-press__links { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+
+/* ---------------- Closing / contact section ---------------- */
+.ly-close { border-top: 1px solid var(--lyt-line); }
+.ly-close__body {
+  color: var(--lyt-muted);
+  max-width: 58ch;
+  line-height: 1.65;
+  margin: 0 0 1.4rem;
+}
+
+/* Compact outlet strip — names only, write-ups live in the press kit. */
+.ly-seenin {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 1rem;
+  margin: 2rem 0 0;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--lyt-line);
+  font-size: 0.88rem;
+  color: var(--lyt-muted);
+}
+.ly-seenin__lbl {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.ly-seenin a { color: var(--lyt-accent-ink); text-decoration: none; font-weight: 600; }
+.ly-seenin a:hover { text-decoration: underline; }
+
+/* ---------------- Book detail page ---------------- */
+.ly-book__sub {
+  font-size: clamp(1rem, 2.2vw, 1.2rem);
+  color: var(--lyt-muted);
+  margin: -0.5rem 0 1.8rem;
+}
+.ly-book__top { display: grid; gap: clamp(1.2rem, 3vw, 2.5rem); }
+@media (min-width: 820px) {
+  .ly-book__top:has(.ly-cover) {
+    grid-template-columns: minmax(0, 1fr) minmax(200px, 260px);
+    align-items: start;
+  }
+}
+.ly-bookpage .ly-synopsis { margin-top: 1.8rem; }
+
+/* Definition list of publication facts — replaces the old markdown table. */
+.ly-facts { margin: 0; }
+.ly-facts > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1rem;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--lyt-line);
+}
+.ly-facts > div:last-child { border-bottom: 0; }
+.ly-facts dt {
+  flex: 0 0 9rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--lyt-muted);
+}
+.ly-facts dd { margin: 0; font-size: 0.95rem; }
+
+.ly-muted-note { color: var(--lyt-muted); font-size: 0.9rem; margin: 1.2rem 0 0; }
+.ly-muted-note a { color: var(--lyt-accent-ink); text-decoration: none; }
+.ly-muted-note a:hover { text-decoration: underline; }

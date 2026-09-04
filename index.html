@@ -84,12 +84,6 @@ image: /assets/img/avatar.png
           story of what happened next, and the ten years of waiting that
           followed.
         </p>
-
-        <p class="ly-hero__meta">
-          <!-- TODO (Laith): ISBN not yet confirmed by the publisher. -->
-          <!-- TODO (Laith): add eBook and audiobook links once released. -->
-          Print edition available now. eBook and audiobook to come.
-        </p>
       </div>
 
       {% if book_cover %}
@@ -138,89 +132,42 @@ image: /assets/img/avatar.png
   </section>
 
   <!-- ================================================
-       In the media
+       Press & contact
        ================================================ -->
-  <section class="ly-section">
+  <section class="ly-section ly-close">
     <div class="ly-section__head">
-      <h2>In the media</h2>
-      <span class="ly-lbl">Press</span>
+      <h2>Readings, talks &amp; press</h2>
+      <span class="ly-lbl">Contact</span>
     </div>
-    <div class="ly-media">
-      <div class="ly-row">
-        <span class="ly-who">Time Magazine</span>
-        <span class="ly-what">
-          <a href="https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html" target="_blank" rel="noopener noreferrer">
-            &ldquo;Laith Yousif: Iraqi 9/11 Survivor&rdquo;
-          </a> (2008)
-        </span>
-      </div>
-      <div class="ly-row">
-        <span class="ly-who">Dissent Magazine</span>
-        <span class="ly-what">No Refuge Here: Iraqis Flee</span>
-      </div>
-      <div class="ly-row">
-        <span class="ly-who">ABC News</span>
-        <span class="ly-what">Interview on the eve of Saddam Hussein's execution</span>
-      </div>
-      <div class="ly-row">
-        <span class="ly-who">The Wind of Amal</span>
-        <span class="ly-what">A 2012 documentary following three Iraqi refugees in the U.S., including Laith.</span>
-      </div>
-      <div class="ly-row">
-        <span class="ly-who">UN Foundation</span>
-        <span class="ly-what">
-          <a href="https://unfoundation.exposure.co/an-unexpected-un-love-story" target="_blank" rel="noopener noreferrer">
-            &ldquo;An Unexpected UN Love Story&rdquo;
-          </a> (2019)
-        </span>
-      </div>
-    </div>
-  </section>
 
-  <!-- ================================================
-       Readings, talks & press
-       ================================================ -->
-  <section class="ly-contact">
-    <h2>Readings, talks &amp; press</h2>
-    <p>
+    <p class="ly-close__body">
       Available for readings, panels, podcasts, and interviews &mdash; especially
       around the 25th anniversary of September 11, 2026. I also do stand-up about
       all of this, so I promise I'm a good listen.
     </p>
-    <div class="ly-social" aria-label="Contact and press links">
-      <a href="mailto:Laith@LaithYousif.com" rel="noopener noreferrer" aria-label="Email Laith Yousif">
-        <i class="fas fa-envelope" aria-hidden="true"></i> Email
-      </a>
-      <a href="{{ '/about/' | relative_url }}">
-        <i class="fas fa-info-circle" aria-hidden="true"></i> Full bio &amp; press
-      </a>
-      <a
-        href="https://www.youtube.com/watch?v=Dggo_fIWfAc"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Watch Laith Yousif perform stand-up comedy on YouTube"
-      >
-        <i class="fab fa-youtube" aria-hidden="true"></i> Watch the comedy
+
+    <dl class="ly-press__contact">
+      <dt>Press contact</dt>
+      <dd><a href="mailto:Laith@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn">Laith@LaithYousif.com</a></dd>
+    </dl>
+
+    <div class="ly-press__links">
+      <a class="ly-btn ly-btn--primary" href="{{ '/press/' | relative_url }}">Press kit &rarr;</a>
+      <a class="ly-btn ly-btn--ghost" href="{{ '/about/' | relative_url }}">Full bio</a>
+      <a class="ly-btn ly-btn--ghost" href="https://www.youtube.com/watch?v=Dggo_fIWfAc" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-youtube" aria-hidden="true"></i> The comedy
       </a>
     </div>
 
-    <div class="ly-press">
-      <h3>For press &amp; media</h3>
-      <p>
-        Journalists, producers and booking editors: the press kit has the bio,
-        three story angles, book details, interview availability and a
-        downloadable one-sheet. No gatekeeper &mdash; email goes straight to me.
-      </p>
-      <dl class="ly-press__contact">
-        <dt>Press contact</dt>
-        <dd><a href="mailto:Laith@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn">Laith@LaithYousif.com</a></dd>
-      </dl>
-      <div class="ly-press__links">
-        <a class="ly-btn ly-btn--primary" href="{{ '/press/' | relative_url }}">Open the press kit &rarr;</a>
-        <a class="ly-btn ly-btn--ghost" href="{{ '/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf' | relative_url }}">
-          <i class="fas fa-file-pdf" aria-hidden="true"></i> One-sheet (PDF)
-        </a>
-      </div>
-    </div>
+    <!-- Outlet names only; the write-ups live in the press kit. -->
+    <p class="ly-seenin">
+      <span class="ly-seenin__lbl">As seen in</span>
+      <a href="https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html" target="_blank" rel="noopener noreferrer">Time</a>
+      <a href="https://unfoundation.exposure.co/an-unexpected-un-love-story" target="_blank" rel="noopener noreferrer">UN Foundation</a>
+      <span>Dissent</span>
+      <span>ABC News</span>
+      <span>The Wind of Amal</span>
+      <a href="{{ '/press/' | relative_url }}">Full coverage &rarr;</a>
+    </p>
   </section>
 </div>
