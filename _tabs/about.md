@@ -29,7 +29,7 @@ In 2002, Laith launched a blog called *From Baghdad to New York*, where he share
 
 Laith is available for readings, panels, podcasts, and interviews — especially around the 25th anniversary of September 11, 2026.
 
-- **Press contact:** [Laith@LaithYousif.com](mailto:Laith@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn)
+- **Press contact:** [Dina@LaithYousif.com](mailto:Dina@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn)
 - **[Press kit](/press/)** — bio, three story angles, book details, interview availability.
 - **[One-sheet (PDF)](/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf)** — downloadable.
 
@@ -40,7 +40,7 @@ Laith's story has been featured in numerous publications and media outlets:
 - **Time Magazine** (2008) — [*Laith Yousif: Iraqi 9/11 Survivor*](https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html)
 - **Dissent Magazine** — *No Refuge Here: Iraqis Flee*
 - **ABC News** — Interview on the eve of Saddam Hussein's execution
-- **The Wind of Amal** (2012) — A documentary following the lives of three Iraqi refugees in the U.S., including Laith.
+- **[Iraq: The Wind of Hope](https://www.amazon.com/gp/video/detail/B0FY9GMSWT)** (2013) — A documentary following the lives of three Iraqi refugees in the U.S., including Laith.
 - **UN Foundation** (2019) — [*An Unexpected UN Love Story*](https://unfoundation.exposure.co/an-unexpected-un-love-story)
 
 ## Stand-Up Comedy

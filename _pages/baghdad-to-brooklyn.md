@@ -128,7 +128,7 @@ image: /assets/img/book-cover.jpg
     </p>
     <dl class="ly-press__contact">
       <dt>Press contact</dt>
-      <dd><a href="mailto:Laith@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn">Laith@LaithYousif.com</a></dd>
+      <dd><a href="mailto:Dina@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn">Dina@LaithYousif.com</a></dd>
     </dl>
     <div class="ly-press__links">
       <a class="ly-btn ly-btn--primary" href="{{ '/press/' | relative_url }}">Press kit &rarr;</a>
