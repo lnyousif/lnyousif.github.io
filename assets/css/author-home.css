@@ -95,8 +95,8 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 }
 
 .ly-hero h1 {
-  font-size: clamp(2.4rem, 7vw, 4.4rem);
-  line-height: 0.98;
+  font-size: clamp(1.5rem, 7.6vw, 3rem);
+  line-height: 1.05;
   font-weight: 700;
   margin: 0 0 1rem;
   text-wrap: balance;
@@ -294,7 +294,7 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
   max-width: none;
 }
 /* Cover sits beside the text only when there's room for both. */
-@media (min-width: 860px) {
+@media (min-width: 1200px) {
   .ly-hero__in--book:has(.ly-cover) {
     grid-template-columns: minmax(0, 1fr) minmax(200px, 260px);
     align-items: start;
@@ -338,8 +338,8 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 
 /* aspect-ratio + width/height keep the cover from shifting layout on load */
 .ly-cover { margin: 0; }
-/* Stacked above the fold on phones, so keep it from eating the whole screen. */
-@media (max-width: 859px) {
+/* Stacked above the fold, so keep it from eating the whole screen. */
+@media (max-width: 1199px) {
   .ly-cover { max-width: 240px; margin-inline: auto; }
 }
 .ly-cover img {
