@@ -632,3 +632,81 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 .ly-muted-note { color: var(--lyt-muted); font-size: 0.9rem; margin: 1.2rem 0 0; }
 .ly-muted-note a { color: var(--lyt-accent-ink); text-decoration: none; }
 .ly-muted-note a:hover { text-decoration: underline; }
+
+/* ---------------- Excerpt page ---------------- */
+.ly-excerpt__credit { color: var(--lyt-muted); font-size: 0.95rem; margin: 0 0 2rem; }
+.ly-excerpt__credit a { color: var(--lyt-accent-ink); text-decoration: none; }
+.ly-excerpt__credit a:hover { text-decoration: underline; }
+
+/* Scene-setter above the prose. */
+.ly-excerpt__setup {
+  font-style: italic;
+  color: var(--lyt-muted);
+  font-size: 1.02rem;
+  line-height: 1.6;
+  max-width: 62ch;
+  margin: 0 0 2rem;
+  padding-bottom: 1.6rem;
+  border-bottom: 1px solid var(--lyt-line);
+}
+
+/* Long-form prose: a narrower measure and looser leading than the rest. */
+.ly-excerpt__body {
+  max-width: 34em;
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+.ly-excerpt__body p { margin: 0 0 1.25em; }
+.ly-excerpt__body p:last-child { margin-bottom: 0; }
+
+/* ---------------- Excerpt teaser card ---------------- */
+.ly-teaser {
+  display: block;
+  max-width: 620px;
+  background: var(--lyt-surface);
+  border: 1px solid var(--lyt-line);
+  border-left: 3px solid var(--lyt-accent);
+  border-radius: 0 var(--lyt-radius) var(--lyt-radius) 0;
+  padding: 1.5rem 1.6rem;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.25s ease, border-color 0.2s ease;
+}
+.ly-teaser:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--lyt-shadow);
+  border-color: var(--lyt-accent);
+  text-decoration: none;
+}
+.ly-teaser__title {
+  display: block;
+  font-family: "Clash Display", "Hanken Grotesk", system-ui, sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.ly-teaser__meta {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--lyt-accent-ink);
+  margin-bottom: 0.8rem;
+}
+.ly-teaser p { margin: 0; color: var(--lyt-muted); font-size: 0.95rem; line-height: 1.6; }
+.ly-teaser__go {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 1rem;
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--lyt-accent-ink);
+  transition: gap 0.2s ease;
+}
+.ly-teaser:hover .ly-teaser__go { gap: 0.7rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ly-teaser, .ly-teaser__go { transition: none; }
+}

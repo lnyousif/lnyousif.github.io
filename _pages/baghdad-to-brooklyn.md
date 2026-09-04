@@ -85,9 +85,18 @@ image: /assets/img/book-cover.jpg
   <section class="ly-section" id="excerpt">
     <div class="ly-section__head">
       <h2>Excerpt</h2>
+      <span class="ly-lbl">Read</span>
     </div>
-    <!-- TODO (Laith): paste an excerpt here; the homepage links straight to it. -->
-    <p class="ly-muted-note">Coming soon.</p>
+    <a class="ly-teaser" href="{{ '/excerpt/' | relative_url }}">
+      <span class="ly-teaser__title">The FBI Comes to Weehawken</span>
+      <span class="ly-teaser__meta">New Jersey, 2003</span>
+      <p>
+        His contract gone, his visa expired, his asylum application sitting in a
+        drawer somewhere in the Department of Homeland Security &mdash; and then
+        the phone rings with what sounds like a job.
+      </p>
+      <span class="ly-teaser__go">Read the excerpt &rarr;</span>
+    </a>
   </section>
 
   <section class="ly-section">
@@ -97,7 +106,7 @@ image: /assets/img/book-cover.jpg
     </div>
     <dl class="ly-facts">
       <div><dt>Publisher</dt><dd>Manhattan Book Group</dd></div>
-      <div><dt>Published</dt><dd>August 25, 2026</dd></div>
+      <div><dt>Published</dt><dd>September 2026</dd></div>
       <div><dt>ISBN</dt><dd>979-8950391057</dd></div>
       <div><dt>ASIN</dt><dd>B0HHG9M6J1</dd></div>
       <div><dt>Editions</dt><dd>Print now &middot; eBook and audiobook to come</dd></div>
