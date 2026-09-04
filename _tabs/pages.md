@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: far fa-copy
-order: 4
+order: 7
 description: Browse the pages and sections of Laith Yousif's website.
 image: /assets/img/avatar.png
 # All the Pages of the website

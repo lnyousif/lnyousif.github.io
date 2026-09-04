@@ -25,18 +25,11 @@
     "Segoe UI", Roboto, sans-serif;
 }
 
-/* Dark mode — follow Chirpy's toggle (data-mode) and the system default */
-@media (prefers-color-scheme: dark) {
-  html:not([data-mode="light"]) .ly-home {
-    --lyt-ink: #f4f3ef;
-    --lyt-surface: #17171c;
-    --lyt-line: #29292f;
-    --lyt-muted: #a6a4ae;
-    --lyt-shadow: 22px 60px -34px rgba(0, 0, 0, 0.7);
-    --lyt-accent-soft: rgba(255, 90, 60, 0.16);
-  }
-}
-html[data-mode="dark"] .ly-home {
+/* Dark mode — Chirpy resolves all three states (light / dark / follow system)
+   onto :root[data-bs-theme], so keying off that one attribute is enough.
+   Don't add a prefers-color-scheme block: it would override the user's
+   explicit choice in the sidebar toggle. */
+:root[data-bs-theme="dark"] .ly-home {
   --lyt-ink: #f4f3ef;
   --lyt-surface: #17171c;
   --lyt-line: #29292f;
@@ -46,7 +39,7 @@ html[data-mode="dark"] .ly-home {
 }
 
 /* Hide Chirpy's default page-title heading on the homepage (the hero replaces it) */
-article:has(.ly-home) > .dynamic-title { display: none; }
+article:has(.ly-home--page) > .dynamic-title { display: none; }
 
 .ly-home h1,
 .ly-home h2,
@@ -298,4 +291,228 @@ article:has(.ly-home) > .dynamic-title { display: none; }
 @media (prefers-reduced-motion: reduce) {
   .ly-hero { animation: none; }
   .ly-world, .ly-btn, .ly-world__go, .ly-proj a { transition: none; }
+}
+
+/* ============================================================
+   Book-first homepage & the three city hubs
+   Everything below reuses the .ly-home token set above, so the
+   hubs and the home page share one palette and one dark mode.
+   ============================================================ */
+
+/* Drop Chirpy's "Recently Updated" / "Trending Tags" side panel on the
+   book pages only — it stays on posts, categories, tags and archives. */
+.row:has(.ly-home--page) #panel-wrapper { display: none; }
+
+.ly-eyebrow {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--lyt-accent-ink);
+  margin-bottom: 1rem;
+}
+
+/* ---------------- Book hero ---------------- */
+.ly-hero__in--book {
+  display: grid;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  max-width: none;
+}
+/* Cover sits beside the text only when there's room for both. */
+@media (min-width: 860px) {
+  .ly-hero__in--book:has(.ly-cover) {
+    grid-template-columns: minmax(0, 1fr) minmax(220px, 300px);
+    align-items: start;
+  }
+}
+.ly-hero__text { max-width: 760px; }
+
+.ly-hero__subtitle {
+  font-size: clamp(1.05rem, 2.6vw, 1.5rem);
+  font-weight: 500;
+  color: var(--lyt-muted);
+  margin: 0 0 1.6rem;
+  text-wrap: balance;
+}
+
+/* The hook is the loudest thing on the page after the title. */
+.ly-hook {
+  font-size: clamp(1.2rem, 3vw, 1.75rem);
+  line-height: 1.4;
+  font-weight: 500;
+  max-width: 30ch;
+  margin: 0 0 2rem;
+  padding-left: 1.1rem;
+  border-left: 3px solid var(--lyt-accent);
+  text-wrap: balance;
+}
+
+.ly-synopsis {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--lyt-muted);
+  max-width: 62ch;
+  margin: 0 0 1rem;
+}
+
+.ly-hero__meta {
+  font-size: 0.84rem;
+  color: var(--lyt-muted);
+  margin: 0;
+}
+
+/* aspect-ratio + width/height keep the cover from shifting layout on load */
+.ly-cover { margin: 0; }
+.ly-cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: var(--lyt-shadow);
+}
+
+/* ---------------- The three doors ---------------- */
+.ly-doors {
+  display: grid;
+  grid-template-columns: 1fr; /* stacked on phones */
+  gap: 1rem;
+}
+@media (min-width: 900px) {
+  .ly-doors { grid-template-columns: repeat(3, 1fr); }
+}
+.ly-door {
+  display: flex;
+  flex-direction: column;
+  background: var(--lyt-surface);
+  border: 1px solid var(--lyt-line);
+  border-radius: var(--lyt-radius);
+  padding: 1.7rem 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.25s ease, border-color 0.2s ease;
+}
+.ly-door:hover,
+.ly-door:focus-visible {
+  transform: translateY(-4px);
+  box-shadow: var(--lyt-shadow);
+  border-color: var(--lyt-accent);
+  text-decoration: none;
+}
+.ly-door__city {
+  font-family: "Clash Display", "Hanken Grotesk", system-ui, sans-serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+.ly-door__years {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--lyt-accent-ink);
+  margin-bottom: 0.9rem;
+}
+.ly-door p {
+  margin: 0;
+  color: var(--lyt-muted);
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+.ly-door__go {
+  margin-top: auto;
+  padding-top: 1.2rem;
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--lyt-accent-ink);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: gap 0.2s ease;
+}
+.ly-door:hover .ly-door__go { gap: 0.7rem; }
+
+/* ---------------- City hub pages ---------------- */
+.ly-city__head { padding: clamp(1rem, 4vw, 2.5rem) 0 0; }
+.ly-city__head h1 {
+  font-size: clamp(2.4rem, 8vw, 4rem);
+  font-weight: 700;
+  line-height: 1;
+  margin: 0 0 0.4rem;
+}
+.ly-city__years {
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  color: var(--lyt-accent-ink);
+  margin: 0 0 2rem;
+}
+.ly-city__intro {
+  font-size: clamp(1.02rem, 2.2vw, 1.2rem);
+  line-height: 1.7;
+  max-width: 62ch;
+  margin: 0 0 2.2rem;
+}
+
+.ly-pull {
+  margin: 0 0 2.2rem;
+  padding: 1.5rem 1.6rem;
+  background: var(--lyt-accent-soft);
+  border-left: 3px solid var(--lyt-accent);
+  border-radius: 0 var(--lyt-radius) var(--lyt-radius) 0;
+}
+.ly-pull p {
+  margin: 0;
+  font-size: clamp(1.05rem, 2.4vw, 1.3rem);
+  line-height: 1.55;
+  font-style: italic;
+  max-width: 52ch;
+}
+
+.ly-city__more { margin: 0 0 3rem; }
+
+.ly-also {
+  border-top: 1px solid var(--lyt-line);
+  padding-top: 1.8rem;
+}
+.ly-also h2 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 1rem;
+}
+.ly-also ul { list-style: none; margin: 0; padding: 0; }
+.ly-also li {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.6rem;
+  align-items: baseline;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--lyt-line);
+}
+.ly-also li:last-child { border-bottom: 0; }
+.ly-also li a { font-weight: 600; color: var(--lyt-accent-ink); text-decoration: none; }
+.ly-also li a:hover { text-decoration: underline; }
+.ly-also li span { color: var(--lyt-muted); font-size: 0.9rem; }
+
+.ly-cities-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem;
+  border-top: 1px solid var(--lyt-line);
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+}
+.ly-cities-nav a {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--lyt-muted);
+  text-decoration: none;
+}
+.ly-cities-nav a:hover { color: var(--lyt-accent-ink); text-decoration: underline; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ly-door, .ly-door__go { transition: none; }
 }
