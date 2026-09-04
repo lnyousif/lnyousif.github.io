@@ -97,6 +97,7 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 .ly-hero h1 {
   font-size: clamp(1.5rem, 7.6vw, 3rem);
   line-height: 1.05;
+  text-wrap: balance;
   font-weight: 700;
   margin: 0 0 1rem;
   text-wrap: balance;
@@ -288,19 +289,25 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 }
 
 /* ---------------- Book hero ---------------- */
-.ly-hero__in--book {
-  display: grid;
-  gap: clamp(1.5rem, 4vw, 3rem);
-  max-width: none;
-}
-/* Cover sits beside the text only when there's room for both. */
-@media (min-width: 1200px) {
-  .ly-hero__in--book:has(.ly-cover) {
-    grid-template-columns: minmax(0, 1fr) minmax(200px, 260px);
-    align-items: start;
+.ly-hero__in--book { max-width: none; }
+.ly-hero__body { display: grid; gap: clamp(1.25rem, 3vw, 2.5rem); }
+.ly-hero__text { max-width: 760px; }
+
+/* The sidebar makes the hero far narrower than the viewport, so the split and
+   the title size are driven by the hero's own width, not the window's.
+   Without container-query support the cover simply stacks, which is fine. */
+@supports (container-type: inline-size) {
+  .ly-hero { container-type: inline-size; }
+  /* 7.8cqw keeps "Baghdad to Brooklyn" on one line with a little slack. */
+  .ly-hero h1 { font-size: clamp(1.4rem, 7.8cqw, 3rem); }
+
+  @container (min-width: 620px) {
+    .ly-hero__body:has(.ly-cover) {
+      grid-template-columns: minmax(0, 1fr) minmax(170px, 230px);
+      align-items: start;
+    }
   }
 }
-.ly-hero__text { max-width: 760px; }
 
 .ly-hero__subtitle {
   font-size: clamp(1.05rem, 2.6vw, 1.5rem);
@@ -338,9 +345,12 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 
 /* aspect-ratio + width/height keep the cover from shifting layout on load */
 .ly-cover { margin: 0; }
-/* Stacked above the fold, so keep it from eating the whole screen. */
-@media (max-width: 1199px) {
-  .ly-cover { max-width: 240px; margin-inline: auto; }
+/* When stacked, keep the cover from eating the whole screen. */
+.ly-cover { max-width: 240px; }
+@supports (container-type: inline-size) {
+  @container (min-width: 620px) {
+    .ly-cover { max-width: none; }
+  }
 }
 .ly-cover img {
   display: block;
@@ -601,10 +611,14 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
   margin: -0.5rem 0 1.8rem;
 }
 .ly-book__top { display: grid; gap: clamp(1.2rem, 3vw, 2.5rem); }
-@media (min-width: 820px) {
-  .ly-book__top:has(.ly-cover) {
-    grid-template-columns: minmax(0, 1fr) minmax(200px, 260px);
-    align-items: start;
+/* Same reasoning as the hero: split on the column's own width, not the window's. */
+@supports (container-type: inline-size) {
+  .ly-bookpage { container-type: inline-size; }
+  @container (min-width: 620px) {
+    .ly-book__top:has(.ly-cover) {
+      grid-template-columns: minmax(0, 1fr) minmax(170px, 230px);
+      align-items: start;
+    }
   }
 }
 .ly-bookpage .ly-synopsis { margin-top: 1.8rem; }

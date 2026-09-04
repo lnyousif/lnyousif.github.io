@@ -33,12 +33,14 @@ image: /assets/img/book-cover.jpg
   <header class="ly-hero">
     <div class="ly-hero__glow" aria-hidden="true"></div>
     <div class="ly-hero__in ly-hero__in--book">
-      <div class="ly-hero__text">
+      <div class="ly-hero__head">
         <span class="ly-eyebrow">Out now &mdash; the memoir</span>
-
         <h1>Baghdad to Brooklyn</h1>
         <p class="ly-hero__subtitle">An Ordinary Journey Through Extraordinary Times</p>
+      </div>
 
+      <div class="ly-hero__body">
+       <div class="ly-hero__text">
         <p class="ly-hook">
           I left Baghdad to get away from buildings getting blown up. I moved to
           New York. My first job was in the World Trade Center. Then 9/11
@@ -78,9 +80,9 @@ image: /assets/img/book-cover.jpg
           story of what happened next, and the ten years of waiting that
           followed.
         </p>
-      </div>
+       </div>
 
-      {% if book_cover %}
+       {% if book_cover %}
         <div class="ly-cover">
           <img
             src="{{ '/assets/img/book-cover.jpg' | relative_url }}"
@@ -89,7 +91,8 @@ image: /assets/img/book-cover.jpg
             height="600"
           />
         </div>
-      {% endif %}
+       {% endif %}
+      </div>
     </div>
   </header>
 
