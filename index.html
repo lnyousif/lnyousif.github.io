@@ -2,8 +2,7 @@
 layout: page
 title: Baghdad to Brooklyn — a memoir by Laith Yousif
 description: Baghdad to Brooklyn — An Ordinary Journey Through Extraordinary Times. The memoir by Laith Yousif, out now. Baghdad, Dubai, New York — three cities, one story.
-# TODO: swap to /assets/img/book-cover.jpg once the cover art is added.
-image: /assets/img/avatar.png
+image: /assets/img/book-cover.jpg
 ---
 
 <!-- Fonts for the homepage redesign -->
@@ -22,11 +21,6 @@ image: /assets/img/avatar.png
   href="{{ '/assets/css/author-home.css' | relative_url }}"
 />
 
-{% comment %}
-  TODO (Laith): drop the cover art at assets/img/book-cover.jpg and it appears
-  automatically in the hero below — no code change needed. Until then the hero
-  renders text-only rather than a broken image.
-{% endcomment %}
 {% assign book_cover = site.static_files | where: 'path', '/assets/img/book-cover.jpg' | first %}
 
 {% comment %} TODO (Laith): swap for the canonical Amazon link when you have it. {% endcomment %}

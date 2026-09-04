@@ -296,7 +296,7 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 /* Cover sits beside the text only when there's room for both. */
 @media (min-width: 860px) {
   .ly-hero__in--book:has(.ly-cover) {
-    grid-template-columns: minmax(0, 1fr) minmax(220px, 300px);
+    grid-template-columns: minmax(0, 1fr) minmax(200px, 260px);
     align-items: start;
   }
 }
@@ -338,6 +338,10 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 
 /* aspect-ratio + width/height keep the cover from shifting layout on load */
 .ly-cover { margin: 0; }
+/* Stacked above the fold on phones, so keep it from eating the whole screen. */
+@media (max-width: 859px) {
+  .ly-cover { max-width: 240px; margin-inline: auto; }
+}
 .ly-cover img {
   display: block;
   width: 100%;

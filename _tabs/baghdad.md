@@ -5,8 +5,7 @@ icon: fas fa-landmark
 order: 1
 title: Baghdad
 description: Baghdad, 1972–1998 — the first city of the memoir Baghdad to Brooklyn. A childhood in Al-Dora, two wars, and a decade of sanctions.
-# TODO: swap to /assets/img/book-cover.jpg once the cover art is added.
-image: /assets/img/avatar.png
+image: /assets/img/book-cover.jpg
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/author-home.css' | relative_url }}" />

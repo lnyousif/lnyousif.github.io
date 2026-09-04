@@ -3,16 +3,13 @@ title: Baghdad to Brooklyn
 icon: fas fa-book
 order: 4
 description: Baghdad to Brooklyn — An Ordinary Journey Through Extraordinary Times. Laith Yousif's memoir of Baghdad, Dubai and New York. Out now, a Kirkus Reviews "Get It" pick.
-# TODO: swap to /assets/img/book-cover.jpg once the cover art is added.
-image: /assets/img/avatar.png
+image: /assets/img/book-cover.jpg
 ---
 
 <!-- TODO (Laith): swap for the canonical Amazon link when you have it.
      Built from ASIN B0HHG9M6J1. -->
 {% assign amazon_url = 'https://www.amazon.com/dp/B0HHG9M6J1' %}
 
-<!-- TODO (Laith): drop the cover art at assets/img/book-cover.jpg and it
-     appears here automatically — no code change needed. -->
 {% assign book_cover = site.static_files | where: 'path', '/assets/img/book-cover.jpg' | first %}
 
 <link rel="stylesheet" href="{{ '/assets/css/author-home.css' | relative_url }}" />

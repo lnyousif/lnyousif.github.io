@@ -5,8 +5,7 @@ icon: fas fa-plane-departure
 order: 2
 title: Dubai
 description: Dubai, 1998–2001 — the second city of the memoir Baghdad to Brooklyn. The first exit from Iraq, a held passport, and a life assembled from nothing.
-# TODO: swap to /assets/img/book-cover.jpg once the cover art is added.
-image: /assets/img/avatar.png
+image: /assets/img/book-cover.jpg
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/author-home.css' | relative_url }}" />

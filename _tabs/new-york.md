@@ -5,8 +5,7 @@ icon: fas fa-city
 order: 3
 title: New York
 description: New York, 2001–present — the third city of the memoir Baghdad to Brooklyn. The World Trade Center, September 11, ten years of asylum limbo, and becoming a New Yorker.
-# TODO: swap to /assets/img/book-cover.jpg once the cover art is added.
-image: /assets/img/avatar.png
+image: /assets/img/book-cover.jpg
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/author-home.css' | relative_url }}" />
