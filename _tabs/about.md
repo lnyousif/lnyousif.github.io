@@ -40,7 +40,7 @@ Laith's story has been featured in numerous publications and media outlets:
 - **Time Magazine** (2008) — [*Laith Yousif: Iraqi 9/11 Survivor*](https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html)
 - **Dissent Magazine** — *No Refuge Here: Iraqis Flee*
 - **ABC News** — Interview on the eve of Saddam Hussein's execution
-- **[Iraq: The Wind of Hope](https://www.amazon.com/gp/video/detail/B0FY9GMSWT)** (2013) — A documentary following the lives of three Iraqi refugees in the U.S., including Laith.
+- **[Iraq: The Wind of Hope](https://www.imdb.com/title/tt1826019/)** (2013) — A documentary following the lives of three Iraqi refugees in the U.S., including Laith. [Watch on Prime Video](https://www.amazon.com/gp/video/detail/B0FY9GMSWT).
 - **UN Foundation** (2019) — [*An Unexpected UN Love Story*](https://unfoundation.exposure.co/an-unexpected-un-love-story)
 
 ## Stand-Up Comedy
