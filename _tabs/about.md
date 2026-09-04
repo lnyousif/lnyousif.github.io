@@ -21,9 +21,17 @@ In 2002, Laith launched a blog called *From Baghdad to New York*, where he share
 
 *Baghdad to Brooklyn: An Ordinary Journey Through Extraordinary Times* is out now in print. It traces his journey from the banks of the Tigris to the streets of Brooklyn through three cities — [Baghdad](/baghdad/) (1972–1998), [Dubai](/dubai/) (1998–2001), and [New York](/new-york/) (2001–present) — a story of displacement, resilience, and finding home.
 
+***Kirkus Reviews*** made it a **"Get It"** pick — [read the review](https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/).
+
 [Read more about the book →](/pages/baghdad-to-brooklyn/) · [Buy the print edition →](https://www.amazon.com/dp/B0HHG9M6J1)
 
-Laith is available for readings, panels, podcasts, and interviews — especially around the 25th anniversary of September 11, 2026. Journalists and producers: see the [press kit](/press/) or [email him](mailto:Laith@LaithYousif.com?subject=Invitation%20to%20speak).
+## For press &amp; media
+
+Laith is available for readings, panels, podcasts, and interviews — especially around the 25th anniversary of September 11, 2026.
+
+- **Press contact:** [Laith@LaithYousif.com](mailto:Laith@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn) — email goes straight to him, no gatekeeper.
+- **[Press kit](/press/)** — bio, three story angles, book details, interview availability.
+- **[One-sheet (PDF)](/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf)** — downloadable.
 
 ## Media Features and Advocacy
 

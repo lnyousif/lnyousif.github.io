@@ -516,3 +516,74 @@ article:has(.ly-home--page) > .dynamic-title { display: none; }
 @media (prefers-reduced-motion: reduce) {
   .ly-door, .ly-door__go { transition: none; }
 }
+
+/* ---------------- Kirkus badge ---------------- */
+.ly-kirkus {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 0 0 1.8rem;
+  padding: 0.6rem 1rem 0.6rem 0.85rem;
+  background: var(--lyt-surface);
+  border: 1px solid var(--lyt-line);
+  border-left: 3px solid var(--lyt-accent);
+  border-radius: 0 12px 12px 0;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+.ly-kirkus:hover { background: var(--lyt-accent-soft); border-color: var(--lyt-accent); text-decoration: none; }
+.ly-kirkus__stamp {
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #fff;
+  background: var(--lyt-accent);
+  padding: 0.22rem 0.6rem;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+.ly-kirkus__who { font-weight: 700; font-size: 0.95rem; }
+.ly-kirkus__what { color: var(--lyt-muted); font-size: 0.9rem; }
+
+/* ---------------- Press kit block ---------------- */
+.ly-press {
+  border: 1px solid var(--lyt-line);
+  border-radius: var(--lyt-radius);
+  background: var(--lyt-surface);
+  padding: clamp(1.4rem, 4vw, 2rem);
+  text-align: left;
+  max-width: 720px;
+  margin: 2.5rem 0 0;
+}
+/* The homepage closing section is centred, so centre the card there too. */
+.ly-contact .ly-press { margin-inline: auto; }
+.ly-press h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+}
+.ly-press p { color: var(--lyt-muted); font-size: 0.94rem; line-height: 1.6; margin: 0 0 1.2rem; }
+.ly-press__contact {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 0.75rem;
+  font-size: 0.95rem;
+  margin-bottom: 1.2rem;
+}
+.ly-press__contact dt {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--lyt-muted);
+  margin: 0;
+  flex: 0 0 100%;
+}
+.ly-press__contact dd { margin: 0; }
+.ly-press__contact a { font-weight: 700; color: var(--lyt-accent-ink); text-decoration: none; }
+.ly-press__contact a:hover { text-decoration: underline; }
+.ly-press__links { display: flex; flex-wrap: wrap; gap: 0.6rem; }

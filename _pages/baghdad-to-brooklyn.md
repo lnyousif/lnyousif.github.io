@@ -1,5 +1,5 @@
 ---
-title: Baghdad To Brooklyn
+title: Baghdad to Brooklyn
 icon: fas fa-book
 order: 4
 description: Baghdad to Brooklyn — An Ordinary Journey Through Extraordinary Times. Laith Yousif's memoir of Baghdad, Dubai and New York. Out now, reviewed by Kirkus.
@@ -14,8 +14,6 @@ image: /assets/img/avatar.png
 <!-- TODO (Laith): drop the cover art at assets/img/book-cover.jpg and it
      appears here automatically — no code change needed. -->
 {% assign book_cover = site.static_files | where: 'path', '/assets/img/book-cover.jpg' | first %}
-
-# Baghdad to Brooklyn
 
 *An Ordinary Journey Through Extraordinary Times — a memoir by Laith Yousif*
 
@@ -35,6 +33,17 @@ image: /assets/img/avatar.png
 >
 > <!-- TODO (Laith): add eBook and audiobook links here once they are released. -->
 > eBook and audiobook editions are not out yet.
+
+<link rel="stylesheet" href="{{ '/assets/css/author-home.css' | relative_url }}" />
+<div class="ly-home">
+  <a class="ly-kirkus"
+     href="https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/"
+     target="_blank" rel="noopener noreferrer">
+    <span class="ly-kirkus__stamp">Get It</span>
+    <span class="ly-kirkus__who">Kirkus Reviews</span>
+    <span class="ly-kirkus__what">Read the review &rarr;</span>
+  </a>
+</div>
 
 ---
 
@@ -71,7 +80,7 @@ The book moves through three cities, and so does this site:
 | **Status** | Print edition available now |
 | **Publisher** | Manhattan Book Group |
 | **Release Date** | August 25, 2026 |
-| **ISBN** | 979-8950391057 — **TODO:** unconfirmed, awaiting the publisher |
+| **ISBN** | 979-8950391057 |
 | **ASIN** | B0HHG9M6J1 |
 | **Buy** | [Amazon]({{ amazon_url }}) |
 
@@ -84,13 +93,35 @@ The book moves through three cities, and so does this site:
 
 ---
 
-## Press &amp; Reviews
+## Reviews
 
-***Kirkus Reviews*** has reviewed the book and made it a "Get It" pick — [read the review](https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/).
+***Kirkus Reviews*** made *Baghdad to Brooklyn* a **"Get It"** pick — [read the full review](https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/).
 
-Journalists and producers: the [press kit](/press/) has the bio, three story angles, book details, interview availability, and a downloadable [one-sheet (PDF)](/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf).
+## For press &amp; media
+{: #press }
 
-Available for readings, panels, podcasts, and interviews — especially around the 25th anniversary of September 11, 2026. [Email me](mailto:Laith@LaithYousif.com?subject=Invitation%20to%20speak).
+<div class="ly-home">
+  <div class="ly-press">
+    <h3>Journalists, producers &amp; booking editors</h3>
+    <p>
+      The press kit has the bio, three story angles, book details, interview
+      availability and a downloadable one-sheet. Laith is available for
+      readings, panels, podcasts and interviews — especially around the 25th
+      anniversary of September 11, 2026. No gatekeeper — email goes straight
+      to him.
+    </p>
+    <dl class="ly-press__contact">
+      <dt>Press contact</dt>
+      <dd><a href="mailto:Laith@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn">Laith@LaithYousif.com</a></dd>
+    </dl>
+    <div class="ly-press__links">
+      <a class="ly-btn ly-btn--primary" href="{{ '/press/' | relative_url }}">Open the press kit &rarr;</a>
+      <a class="ly-btn ly-btn--ghost" href="{{ '/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf' | relative_url }}">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> One-sheet (PDF)
+      </a>
+    </div>
+  </div>
+</div>
 
 ---
 
