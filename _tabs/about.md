@@ -29,7 +29,7 @@ In 2002, Laith launched a blog called *From Baghdad to New York*, where he share
 
 Laith is available for readings, panels, podcasts, and interviews — especially around the 25th anniversary of September 11, 2026.
 
-- **Press contact:** [Laith@LaithYousif.com](mailto:Laith@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn) — email goes straight to him, no gatekeeper.
+- **Press contact:** [Laith@LaithYousif.com](mailto:Laith@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn)
 - **[Press kit](/press/)** — bio, three story angles, book details, interview availability.
 - **[One-sheet (PDF)](/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf)** — downloadable.
 

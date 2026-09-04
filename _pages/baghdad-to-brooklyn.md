@@ -124,8 +124,7 @@ image: /assets/img/book-cover.jpg
     </div>
     <p class="ly-close__body">
       The press kit has the bio, three story angles, book details, interview
-      availability and a downloadable one-sheet. No gatekeeper &mdash; email
-      goes straight to me.
+      availability and a downloadable one-sheet.
     </p>
     <dl class="ly-press__contact">
       <dt>Press contact</dt>
