@@ -1,9 +1,9 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 8
 title: About Laith Yousif
-description: Learn about Laith Yousif — Baghdad-born engineer, writer, stand-up comedian, Iraqi 9/11 survivor, and refugee advocate. Featured in Time Magazine and ABC News.
+description: Learn about Laith Yousif — author of the memoir Baghdad to Brooklyn, Baghdad-born engineer, stand-up comedian, Iraqi 9/11 survivor, and refugee advocate. Featured in Time Magazine and ABC News.
 image: /assets/img/avatar.png
 ---
 
@@ -17,9 +17,21 @@ Now a U.S. citizen, Laith works in technology and lives in Brooklyn with his wif
 
 In 2002, Laith launched a blog called *From Baghdad to New York*, where he shared articles and perspectives on the needs of everyday Iraqis. This blog was later renamed *Better Iraq* and continues to serve as a platform for his reflections and advocacy.
 
-## Baghdad To Brooklyn — The Book
+## Baghdad to Brooklyn — The Book
 
-Laith is currently working on a memoir, *Baghdad To Brooklyn*, which traces his journey from the banks of the Tigris River to the streets of Brooklyn — a story of displacement, resilience, and finding home. [Learn more →](/pages/baghdad-to-brooklyn/)
+*Baghdad to Brooklyn: An Ordinary Journey Through Extraordinary Times* is out now in print. It traces his journey from the banks of the Tigris to the streets of Brooklyn through three cities — [Baghdad](/baghdad/) (1972–1998), [Dubai](/dubai/) (1998–2001), and [New York](/new-york/) (2001–present) — a story of displacement, resilience, and finding home.
+
+***Kirkus Reviews*** made it a **"Get It"** pick — [read the review](https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/).
+
+[Read more about the book →](/pages/baghdad-to-brooklyn/) · [Buy the print edition →](https://www.amazon.com/dp/B0HHG9M6J1)
+
+## For press &amp; media
+
+Laith is available for readings, panels, podcasts, and interviews — especially around the 25th anniversary of September 11, 2026.
+
+- **Press contact:** [Dina@LaithYousif.com](mailto:Dina@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn)
+- **[Press kit](/press/)** — bio, three story angles, book details, interview availability.
+- **[One-sheet (PDF)](/press/Baghdad_to_Brooklyn_Anniversary_One_Sheet.pdf)** — downloadable.
 
 ## Media Features and Advocacy
 
@@ -28,7 +40,8 @@ Laith's story has been featured in numerous publications and media outlets:
 - **Time Magazine** (2008) — [*Laith Yousif: Iraqi 9/11 Survivor*](https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html)
 - **Dissent Magazine** — *No Refuge Here: Iraqis Flee*
 - **ABC News** — Interview on the eve of Saddam Hussein's execution
-- **The Wind of Amal** (2012) — A documentary following the lives of three Iraqi refugees in the U.S., including Laith.
+- **[Iraq: The Wind of Hope](https://www.imdb.com/title/tt1826019/)** (2013) — A documentary following the lives of three Iraqi refugees in the U.S., including Laith. [Watch on Prime Video](https://www.amazon.com/gp/video/detail/B0FY9GMSWT).
+- **UN Foundation** (2019) — [*An Unexpected UN Love Story*](https://unfoundation.exposure.co/an-unexpected-un-love-story)
 
 ## Stand-Up Comedy
 

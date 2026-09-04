@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Laith Yousif
-description: Baghdad-born engineer, writer, and stand-up comedian living in Brooklyn. Iraqi 9/11 survivor and refugee advocate featured in Time Magazine.
-image: /assets/img/avatar.png
+title: Baghdad to Brooklyn — a memoir by Laith Yousif
+description: Baghdad to Brooklyn — An Ordinary Journey Through Extraordinary Times. The memoir by Laith Yousif, out now. Baghdad, Dubai, New York — three cities, one story.
+image: /assets/img/book-cover.jpg
 ---
 
 <!-- Fonts for the homepage redesign -->
@@ -21,184 +21,147 @@ image: /assets/img/avatar.png
   href="{{ '/assets/css/author-home.css' | relative_url }}"
 />
 
-<div class="ly-home">
+{% assign book_cover = site.static_files | where: 'path', '/assets/img/book-cover.jpg' | first %}
+
+{% comment %} TODO (Laith): swap for the canonical Amazon link when you have it. {% endcomment %}
+{% assign amazon_url = 'https://www.amazon.com/dp/B0HHG9M6J1' %}
+
+<div class="ly-home ly-home--page">
   <!-- ================================================
-       Hero
+       Hero — the book
        ================================================ -->
   <header class="ly-hero">
     <div class="ly-hero__glow" aria-hidden="true"></div>
-    <div class="ly-hero__in">
-      <span class="ly-badge">
-        <i aria-hidden="true"></i> Brooklyn, NY &middot; open to talks &amp; readings
-      </span>
+    <div class="ly-hero__in ly-hero__in--book">
+      <div class="ly-hero__text">
+        <span class="ly-eyebrow">Out now &mdash; the memoir</span>
 
-      <h1>Engineer by day.<br />Poet &amp; <em>comic</em> by night.</h1>
+        <h1>Baghdad to Brooklyn</h1>
+        <p class="ly-hero__subtitle">An Ordinary Journey Through Extraordinary Times</p>
 
-      <p class="ly-hero__lead">
-        I'm <b>Laith Yousif</b> &mdash; Baghdad-born, Brooklyn-based. I build
-        software, write the memoir <b>Baghdad&nbsp;to&nbsp;Brooklyn</b>, spin
-        Arabic poetry, and do stand-up about all of it.
-      </p>
+        <p class="ly-hook">
+          I left Baghdad to get away from buildings getting blown up. I moved to
+          New York. My first job was in the World Trade Center. Then 9/11
+          happened.
+        </p>
 
-      <div class="ly-cta">
-        <a class="ly-btn ly-btn--primary" href="#worlds">Explore my work &rarr;</a>
-        <a
-          class="ly-btn ly-btn--ghost"
-          href="https://www.youtube.com/watch?v=Dggo_fIWfAc"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Watch Laith Yousif perform stand-up comedy on YouTube"
-        >
-          <i class="fab fa-youtube" aria-hidden="true"></i> Watch my comedy
+        <div class="ly-cta">
+          <a
+            class="ly-btn ly-btn--primary"
+            href="{{ amazon_url }}"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Buy the print edition &rarr;
+          </a>
+          <a class="ly-btn ly-btn--ghost" href="{{ '/excerpt/' | relative_url }}">
+            Read an excerpt
+          </a>
+          <a class="ly-btn ly-btn--ghost" href="mailto:Dina@LaithYousif.com?subject=Invitation%20to%20speak">
+            Invite me to speak
+          </a>
+        </div>
+
+        <a class="ly-kirkus"
+           href="https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/"
+           target="_blank" rel="noopener noreferrer">
+          <span class="ly-kirkus__stamp">Get It</span>
+          <span class="ly-kirkus__who">Kirkus Reviews</span>
+          <span class="ly-kirkus__what">Read the review &rarr;</span>
         </a>
+
+        <p class="ly-synopsis">
+          A boy grows up in Al-Dora, in a house his father built by working for
+          free. A young engineer leaves Iraq in 1998 with a borrowed $700 and a
+          passport someone else is holding. A new New Yorker walks into the
+          World Trade Center on March 26, 2001. <i>Baghdad to Brooklyn</i> is the
+          story of what happened next, and the ten years of waiting that
+          followed.
+        </p>
       </div>
 
-      <div class="ly-social" aria-label="Contact and social links">
-        <a href="mailto:Laith@LaithYousif.com" rel="noopener noreferrer" aria-label="Email Laith Yousif">
-          <i class="fas fa-envelope" aria-hidden="true"></i> Email
-        </a>
-        <a href="https://github.com/lnyousif" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on GitHub">
-          <i class="fab fa-github" aria-hidden="true"></i> GitHub
-        </a>
-        <a href="https://www.linkedin.com/in/laithyousif/" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on LinkedIn">
-          <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
-        </a>
-        <a href="https://bsky.app/profile/lnyousif.bsky.social" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on Bluesky">
-          <i class="fas fa-cloud" aria-hidden="true"></i> Bluesky
-        </a>
-        <a href="https://www.instagram.com/lnyousif" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on Instagram">
-          <i class="fab fa-instagram" aria-hidden="true"></i> Instagram
-        </a>
-        <a href="https://x.com/lnyousif" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on X (Twitter)">
-          <i class="fab fa-x-twitter" aria-hidden="true"></i> X
-        </a>
-      </div>
+      {% if book_cover %}
+        <div class="ly-cover">
+          <img
+            src="{{ '/assets/img/book-cover.jpg' | relative_url }}"
+            alt="Cover of Baghdad to Brooklyn, a memoir by Laith Yousif"
+            width="400"
+            height="600"
+          />
+        </div>
+      {% endif %}
     </div>
   </header>
 
   <!-- ================================================
-       Four worlds
+       Three cities
        ================================================ -->
-  <section class="ly-section" id="worlds">
+  <section class="ly-section" id="cities">
     <div class="ly-section__head">
-      <h2>Four worlds I live in</h2>
-      <span class="ly-lbl">Explore</span>
+      <h2>Three cities, one story</h2>
+      <span class="ly-lbl">The book</span>
     </div>
-    <div class="ly-worlds">
-      <a class="ly-world" href="{{ '/pages/blabbing' | relative_url }}">
-        <div class="ly-world__ico">💻</div>
-        <h3>Tech &amp; Tinkering</h3>
-        <p>Engineering notes, productivity, dev tools and dotfiles — the original blog.</p>
-        <span class="ly-world__go">Blabby Me &rarr;</span>
+    <div class="ly-doors">
+      <a class="ly-door" href="{{ '/baghdad/' | relative_url }}">
+        <span class="ly-door__city">Baghdad</span>
+        <span class="ly-door__years">1972&ndash;1998</span>
+        <p>Family, war, sanctions, and a childhood spent dreaming of somewhere else.</p>
+        <span class="ly-door__go">Enter Baghdad &rarr;</span>
       </a>
 
-      <a class="ly-world" href="{{ '/pages/shahrazad' | relative_url }}">
-        <div class="ly-world__ico">🪶</div>
-        <h3>Shahrazad</h3>
-        <p>Arabic poetry woven during a period of creative inspiration.</p>
-        <span class="ly-world__go">Read the verse &rarr;</span>
+      <a class="ly-door" href="{{ '/dubai/' | relative_url }}">
+        <span class="ly-door__city">Dubai</span>
+        <span class="ly-door__years">1998&ndash;2001</span>
+        <p>The first exit. A stolen passport, a shared taxi to Al-Ain, and the slow assembly of a life from nothing.</p>
+        <span class="ly-door__go">Enter Dubai &rarr;</span>
       </a>
 
-      <a class="ly-world" href="{{ '/pages/baghdad-to-brooklyn' | relative_url }}">
-        <div class="ly-world__ico">📖</div>
-        <h3>Baghdad to Brooklyn</h3>
-        <p>The memoir, out now — from the banks of the Tigris to the streets of Brooklyn.</p>
-        <span class="ly-world__go">The memoir &rarr;</span>
-      </a>
-
-      <a class="ly-world" href="{{ '/pages/fbtny' | relative_url }}">
-        <div class="ly-world__ico">🌍</div>
-        <h3>Baghdad to New York</h3>
-        <p>Dispatches from the Iraq war years, written by an Iraqi in New York.</p>
-        <span class="ly-world__go">Read the dispatches &rarr;</span>
+      <a class="ly-door" href="{{ '/new-york/' | relative_url }}">
+        <span class="ly-door__city">New York</span>
+        <span class="ly-door__years">2001&ndash;present</span>
+        <p>The Twin Towers, September 11, ten years of asylum limbo, and a citizenship that arrived one document at a time.</p>
+        <span class="ly-door__go">Enter New York &rarr;</span>
       </a>
     </div>
   </section>
 
   <!-- ================================================
-       Projects
+       Press & contact
        ================================================ -->
-  <section class="ly-section">
+  <section class="ly-section ly-close">
     <div class="ly-section__head">
-      <h2>Building in public</h2>
-      <span class="ly-lbl">Projects</span>
+      <h2>Readings, talks &amp; press</h2>
+      <span class="ly-lbl">Contact</span>
     </div>
-    <div class="ly-proj">
-      <a href="https://github.com/lnyousif/earn-deal" target="_blank" rel="noopener noreferrer">
-        <div class="ly-pn">earn-deal</div>
-        <div class="ly-pd">Surfacing earning opportunities and deal flows. <span class="ly-arrow">↗</span></div>
-      </a>
-      <a href="https://github.com/lnyousif/dotfiles" target="_blank" rel="noopener noreferrer">
-        <div class="ly-pn">dotfiles</div>
-        <div class="ly-pd">Chezmoi-managed dotfiles &amp; bootstrap scripts for a consistent setup. <span class="ly-arrow">↗</span></div>
-      </a>
-      <a href="https://github.com/lnyousif/plantuml-devcontainer" target="_blank" rel="noopener noreferrer">
-        <div class="ly-pn">plantuml-devcontainer</div>
-        <div class="ly-pd">A Dev Container template that runs PlantUML Server locally. <span class="ly-arrow">↗</span></div>
-      </a>
-    </div>
-  </section>
 
-  <!-- ================================================
-       In the media
-       ================================================ -->
-  <section class="ly-section">
-    <div class="ly-section__head">
-      <h2>In the media</h2>
-      <span class="ly-lbl">Press</span>
-    </div>
-    <div class="ly-media">
-      <div class="ly-row">
-        <span class="ly-who">Time Magazine</span>
-        <span class="ly-what">
-          <a href="https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html" target="_blank" rel="noopener noreferrer">
-            “Laith Yousif: Iraqi 9/11 Survivor”
-          </a> (2008)
-        </span>
-      </div>
-      <div class="ly-row">
-        <span class="ly-who">Dissent Magazine</span>
-        <span class="ly-what">No Refuge Here: Iraqis Flee</span>
-      </div>
-      <div class="ly-row">
-        <span class="ly-who">ABC News</span>
-        <span class="ly-what">Interview on the eve of Saddam Hussein's execution</span>
-      </div>
-      <div class="ly-row">
-        <span class="ly-who">The Wind of Amal</span>
-        <span class="ly-what">A 2012 documentary following three Iraqi refugees in the U.S., including Laith.</span>
-      </div>
-    </div>
-  </section>
+    <p class="ly-close__body">
+      Available for readings, panels, podcasts, and interviews &mdash; especially
+      around the 25th anniversary of September 11, 2026. I also do stand-up about
+      all of this, so I promise I'm a good listen.
+    </p>
 
-  <!-- ================================================
-       About + Contact
-       ================================================ -->
-  <section class="ly-contact">
-    <h2>Let's stay in touch.</h2>
-    <p>Reach out for talks, readings, refugee advocacy, or just to say hi.</p>
-    <div class="ly-social" aria-label="Contact and social links">
-      <a href="mailto:Laith@LaithYousif.com" rel="noopener noreferrer" aria-label="Email Laith Yousif">
-        <i class="fas fa-envelope" aria-hidden="true"></i> Email
-      </a>
-      <a href="{{ '/about' | relative_url }}">
-        <i class="fas fa-info-circle" aria-hidden="true"></i> Full bio &amp; press
-      </a>
-      <a href="https://github.com/lnyousif" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on GitHub">
-        <i class="fab fa-github" aria-hidden="true"></i> GitHub
-      </a>
-      <a href="https://bsky.app/profile/lnyousif.bsky.social" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on Bluesky">
-        <i class="fas fa-cloud" aria-hidden="true"></i> Bluesky
-      </a>
-      <a href="https://www.tiktok.com/@lnyousif" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on TikTok">
-        <i class="fab fa-tiktok" aria-hidden="true"></i> TikTok
-      </a>
-      <a href="https://www.threads.net/@lnyousif" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on Threads">
-        <i class="fab fa-threads" aria-hidden="true"></i> Threads
-      </a>
-      <a href="https://www.facebook.com/lnyousif" target="_blank" rel="noopener noreferrer me" aria-label="Laith Yousif on Facebook">
-        <i class="fab fa-facebook" aria-hidden="true"></i> Facebook
+    <dl class="ly-press__contact">
+      <dt>Press contact</dt>
+      <dd><a href="mailto:Dina@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn">Dina@LaithYousif.com</a></dd>
+    </dl>
+
+    <div class="ly-press__links">
+      <a class="ly-btn ly-btn--primary" href="{{ '/press/' | relative_url }}">Press kit &rarr;</a>
+      <a class="ly-btn ly-btn--ghost" href="{{ '/about/' | relative_url }}">Full bio</a>
+      <a class="ly-btn ly-btn--ghost" href="https://www.youtube.com/watch?v=Dggo_fIWfAc" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-youtube" aria-hidden="true"></i> The comedy
       </a>
     </div>
+
+    <!-- Outlet names only; the write-ups live in the press kit. -->
+    <p class="ly-seenin">
+      <span class="ly-seenin__lbl">As seen in</span>
+      <a href="https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html" target="_blank" rel="noopener noreferrer">Time</a>
+      <a href="https://unfoundation.exposure.co/an-unexpected-un-love-story" target="_blank" rel="noopener noreferrer">UN Foundation</a>
+      <span>Dissent</span>
+      <span>ABC News</span>
+      <a href="https://www.imdb.com/title/tt1826019/" target="_blank" rel="noopener noreferrer">Iraq: The Wind of Hope</a>
+      <a href="{{ '/press/' | relative_url }}">Full coverage &rarr;</a>
+    </p>
   </section>
 </div>
