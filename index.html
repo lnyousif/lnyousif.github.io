@@ -21,10 +21,10 @@ image: /assets/img/book-cover.jpg
   href="{{ '/assets/css/author-home.css' | relative_url }}"
 />
 
-{% assign book_cover = site.static_files | where: 'path', '/assets/img/book-cover.jpg' | first %}
-
-{% comment %} TODO (Laith): swap for the canonical Amazon link when you have it. {% endcomment %}
-{% assign amazon_url = 'https://www.amazon.com/dp/B0HHG9M6J1' %}
+{% assign book_cover = site.static_files | where: 'path',
+'/assets/img/book-cover.jpg' | first %} {% comment %} TODO (Laith): swap for the
+canonical Amazon link when you have it. {% endcomment %} {% assign amazon_url =
+'https://www.amazon.com/dp/B0HHG9M6J1' %}
 
 <div class="ly-home ly-home--page">
   <!-- ================================================
@@ -37,7 +37,9 @@ image: /assets/img/book-cover.jpg
         <span class="ly-eyebrow">Out now &mdash; the memoir</span>
 
         <h1>Baghdad to Brooklyn</h1>
-        <p class="ly-hero__subtitle">An Ordinary Journey Through Extraordinary Times</p>
+        <p class="ly-hero__subtitle">
+          An Ordinary Journey Through Extraordinary Times
+        </p>
 
         <p class="ly-hook">
           I left Baghdad to get away from buildings getting blown up. I moved to
@@ -54,17 +56,26 @@ image: /assets/img/book-cover.jpg
           >
             Buy the print edition &rarr;
           </a>
-          <a class="ly-btn ly-btn--ghost" href="{{ '/excerpt/' | relative_url }}">
+          <a
+            class="ly-btn ly-btn--ghost"
+            href="{{ '/excerpt/' | relative_url }}"
+          >
             Read an excerpt
           </a>
-          <a class="ly-btn ly-btn--ghost" href="mailto:Dina@LaithYousif.com?subject=Invitation%20to%20speak">
+          <a
+            class="ly-btn ly-btn--ghost"
+            href="mailto:Dina@LaithYousif.com?subject=Invitation%20to%20speak"
+          >
             Invite me to speak
           </a>
         </div>
 
-        <a class="ly-kirkus"
-           href="https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/"
-           target="_blank" rel="noopener noreferrer">
+        <a
+          class="ly-kirkus"
+          href="https://www.kirkusreviews.com/book-reviews/laith-yousif/baghdad-to-brooklyn/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <span class="ly-kirkus__stamp">Get It</span>
           <span class="ly-kirkus__who">Kirkus Reviews</span>
           <span class="ly-kirkus__what">Read the review &rarr;</span>
@@ -74,21 +85,21 @@ image: /assets/img/book-cover.jpg
           A boy grows up in Al-Dora, in a house his father built by working for
           free. A young engineer leaves Iraq in 1998 with a borrowed $700 and a
           passport someone else is holding. A new New Yorker walks into the
-          World Trade Center on March 26, 2001. <i>Baghdad to Brooklyn</i> is the
-          story of what happened next, and the ten years of waiting that
+          World Trade Center on March 26, 2001. <i>Baghdad to Brooklyn</i> is
+          the story of what happened next, and the ten years of waiting that
           followed.
         </p>
       </div>
 
       {% if book_cover %}
-        <div class="ly-cover">
-          <img
-            src="{{ '/assets/img/book-cover.jpg' | relative_url }}"
-            alt="Cover of Baghdad to Brooklyn, a memoir by Laith Yousif"
-            width="400"
-            height="600"
-          />
-        </div>
+      <div class="ly-cover">
+        <img
+          src="{{ '/assets/img/book-cover.jpg' | relative_url }}"
+          alt="Cover of Baghdad to Brooklyn, a memoir by Laith Yousif"
+          width="400"
+          height="600"
+        />
+      </div>
       {% endif %}
     </div>
   </header>
@@ -105,21 +116,30 @@ image: /assets/img/book-cover.jpg
       <a class="ly-door" href="{{ '/baghdad/' | relative_url }}">
         <span class="ly-door__city">Baghdad</span>
         <span class="ly-door__years">1972&ndash;1998</span>
-        <p>Family, war, sanctions, and a childhood spent dreaming of somewhere else.</p>
+        <p>
+          Family, war, sanctions, and a childhood spent dreaming of somewhere
+          else.
+        </p>
         <span class="ly-door__go">Enter Baghdad &rarr;</span>
       </a>
 
       <a class="ly-door" href="{{ '/dubai/' | relative_url }}">
         <span class="ly-door__city">Dubai</span>
         <span class="ly-door__years">1998&ndash;2001</span>
-        <p>The first exit. A stolen passport, a shared taxi to Al-Ain, and the slow assembly of a life from nothing.</p>
+        <p>
+          The first exit. A stolen passport, a shared taxi to Al-Ain, and the
+          slow assembly of a life from nothing.
+        </p>
         <span class="ly-door__go">Enter Dubai &rarr;</span>
       </a>
 
       <a class="ly-door" href="{{ '/new-york/' | relative_url }}">
         <span class="ly-door__city">New York</span>
         <span class="ly-door__years">2001&ndash;present</span>
-        <p>The Twin Towers, September 11, ten years of asylum limbo, and a citizenship that arrived one document at a time.</p>
+        <p>
+          The Twin Towers, September 11, ten years of asylum limbo, and a
+          citizenship that arrived one document at a time.
+        </p>
         <span class="ly-door__go">Enter New York &rarr;</span>
       </a>
     </div>
@@ -135,20 +155,34 @@ image: /assets/img/book-cover.jpg
     </div>
 
     <p class="ly-close__body">
-      Available for readings, panels, podcasts, and interviews &mdash; especially
-      around the 25th anniversary of September 11, 2026. I also do stand-up about
-      all of this, so I promise I'm a good listen.
+      Available for readings, panels, podcasts, and interviews &mdash;
+      especially around the 25th anniversary of September 11, 2026. I also do
+      stand-up about all of this, so I promise I'm a good listen.
     </p>
 
     <dl class="ly-press__contact">
       <dt>Press contact</dt>
-      <dd><a href="mailto:Dina@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn">Dina@LaithYousif.com</a></dd>
+      <dd>
+        <a
+          href="mailto:Dina@LaithYousif.com?subject=Press%20enquiry%20%E2%80%94%20Baghdad%20to%20Brooklyn"
+          >Dina@LaithYousif.com</a
+        >
+      </dd>
     </dl>
 
     <div class="ly-press__links">
-      <a class="ly-btn ly-btn--primary" href="{{ '/press/' | relative_url }}">Press kit &rarr;</a>
-      <a class="ly-btn ly-btn--ghost" href="{{ '/about/' | relative_url }}">Full bio</a>
-      <a class="ly-btn ly-btn--ghost" href="https://www.youtube.com/watch?v=Dggo_fIWfAc" target="_blank" rel="noopener noreferrer">
+      <a class="ly-btn ly-btn--primary" href="{{ '/press/' | relative_url }}"
+        >Press kit &rarr;</a
+      >
+      <a class="ly-btn ly-btn--ghost" href="{{ '/about/' | relative_url }}"
+        >Full bio</a
+      >
+      <a
+        class="ly-btn ly-btn--ghost"
+        href="https://www.youtube.com/watch?v=Dggo_fIWfAc"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <i class="fab fa-youtube" aria-hidden="true"></i> The comedy
       </a>
     </div>
@@ -156,11 +190,26 @@ image: /assets/img/book-cover.jpg
     <!-- Outlet names only; the write-ups live in the press kit. -->
     <p class="ly-seenin">
       <span class="ly-seenin__lbl">As seen in</span>
-      <a href="https://content.time.com/time/specials/2007/article/0,28804,1740588_1740592_1741003,00.html" target="_blank" rel="noopener noreferrer">Time</a>
-      <a href="https://unfoundation.exposure.co/an-unexpected-un-love-story" target="_blank" rel="noopener noreferrer">UN Foundation</a>
+      <a
+        href="https://time.com/archive/6942865/laith-yousif-iraqi-9-11-survivor/"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Time</a
+      >
+      <a
+        href="https://unfoundation.exposure.co/an-unexpected-un-love-story"
+        target="_blank"
+        rel="noopener noreferrer"
+        >UN Foundation</a
+      >
       <span>Dissent</span>
       <span>ABC News</span>
-      <a href="https://www.imdb.com/title/tt1826019/" target="_blank" rel="noopener noreferrer">Iraq: The Wind of Hope</a>
+      <a
+        href="https://www.imdb.com/title/tt1826019/"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Iraq: The Wind of Hope</a
+      >
       <a href="{{ '/press/' | relative_url }}">Full coverage &rarr;</a>
     </p>
   </section>
