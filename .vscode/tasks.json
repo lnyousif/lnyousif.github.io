@@ -4,7 +4,7 @@
     {
       "label": "Run Jekyll Server",
       "type": "shell",
-      "command": "./apps/app-ops/src/run.sh",
+      "command": "./tools/run.sh",
       "group": {
         "kind": "build",
         "isDefault": true
@@ -15,7 +15,7 @@
     {
       "label": "Build Jekyll Site",
       "type": "shell",
-      "command": "./apps/app-ops/src/test.sh",
+      "command": "./tools/test.sh",
       "group": {
         "kind": "build"
       },

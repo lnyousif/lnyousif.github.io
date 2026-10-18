@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-set -euo pipefail
-root=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)
-export FORGELET_BIN=${FORGELET_BIN:-"${FORGELET_DIR:-$root/../Tools/forgelet-upstream}/bin/forgelet"}
-tool=${GROMA_DIR:-"$root/../Tools/groma"}
-if [[ ! -f "$tool/build/cli.js" ]]; then
-  echo 'Build the local Groma checkout first: make tools' >&2; exit 1
-fi
-exec node "$tool/build/cli.js" "$@"

@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-set -euo pipefail
-root=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)
-tool=${FORGELET_DIR:-"$root/../Tools/forgelet-upstream"}
-if [[ ! -x "$tool/bin/forgelet" ]]; then
-  echo 'Build ../Tools/forgelet-upstream first: make build' >&2; exit 1
-fi
-exec "$tool/bin/forgelet" "$@"

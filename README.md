@@ -11,7 +11,3 @@ Here, you'll find a collection of my past projects and writings, including:
 - **Arabic Poetry** — poems written during a period when I was inspired to create in Arabic.
 
 This site is a blend of these experiences—and more. Enjoy exploring!
-
-## App operations
-
-See [app-ops](apps/app-ops/README.md) for native jobs through the shared Forgelet/Groma runner.
