@@ -235,6 +235,10 @@ compress_html:
     envs: [development]
 
 exclude:
+  - apps
+  - scripts
+  - app-ops.json
+  - toolchain.json
   - "*.gem"
   - "*.gemspec"
   - docs

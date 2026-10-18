@@ -1,0 +1,12 @@
+{
+  "forgelet": {
+    "repository": "https://github.com/lnyousif/forgelet",
+    "revision": "4170fbb9a38d51df73ca65684f73632593bcd4fc",
+    "directory": "../Tools/forgelet-upstream"
+  },
+  "groma": {
+    "repository": "https://github.com/lnyousif/groma",
+    "revision": "a221eb7958b10de505ddc39378fcd89cf1732c90",
+    "directory": "../Tools/groma"
+  }
+}

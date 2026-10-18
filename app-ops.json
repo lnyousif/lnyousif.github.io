@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "jobs": {
+    "validate": {
+      "command": [
+        "bash",
+        "apps/app-ops/src/test.sh"
+      ],
+      "timeout": "20m"
+    },
+    "build": {
+      "command": [
+        "bundle",
+        "exec",
+        "jekyll",
+        "build"
+      ],
+      "timeout": "20m"
+    },
+    "serve": {
+      "command": [
+        "bash",
+        "apps/app-ops/src/run.sh"
+      ],
+      "timeout": "24h"
+    }
+  }
+}
