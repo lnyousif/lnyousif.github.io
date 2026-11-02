@@ -21,10 +21,7 @@ image: /assets/img/book-cover.jpg
   href="{{ '/assets/css/author-home.css' | relative_url }}"
 />
 
-{% assign book_cover = site.static_files | where: 'path',
-'/assets/img/book-cover.jpg' | first %} {% comment %} TODO (Laith): swap for the
-canonical Amazon link when you have it. {% endcomment %} {% assign amazon_url =
-'https://www.amazon.com/dp/B0HHG9M6J1' %}
+{% assign book_cover = site.static_files | where: 'path', '/assets/img/book-cover.jpg' | first %}
 
 <div class="ly-home ly-home--page">
   <!-- ================================================
@@ -50,11 +47,9 @@ canonical Amazon link when you have it. {% endcomment %} {% assign amazon_url =
         <div class="ly-cta">
           <a
             class="ly-btn ly-btn--primary"
-            href="{{ amazon_url }}"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="{{ '/buy/' | relative_url }}"
           >
-            Buy the print edition &rarr;
+            Choose where to buy &rarr;
           </a>
           <a
             class="ly-btn ly-btn--ghost"
@@ -155,8 +150,7 @@ canonical Amazon link when you have it. {% endcomment %} {% assign amazon_url =
     </div>
 
     <p class="ly-close__body">
-      Available for readings, panels, podcasts, and interviews &mdash;
-      especially around the 25th anniversary of September 11, 2026. I also do
+      Available for readings, panels, podcasts, and interviews. I also do
       stand-up about all of this, so I promise I'm a good listen.
     </p>
 
