@@ -1,0 +1,29 @@
+name: Book pages check
+on:
+  pull_request:
+    paths:
+      - 'buy/**'
+      - 'assets/css/book-buy.css'
+      - 'index.html'
+      - 'press/index.html'
+      - 'tests/test_book_buy.py'
+      - '.github/workflows/book-pages-check.yml'
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python -m unittest discover -s tests -v
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Build site (no deploy)
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production

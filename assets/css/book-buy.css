@@ -1,0 +1,27 @@
+/* A compact, script-free companion to the author homepage and press kit. */
+:root { color-scheme: light; --paper: #f5f3ee; --ink: #1b1e20; --quiet: #55554f; --line: #d9d3c6; --accent: #8c6412; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 1.0625rem/1.65 system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: #22333b; text-underline-offset: .2em; }
+a:hover { color: var(--accent); }
+a:focus-visible { outline: 3px solid var(--accent); outline-offset: 5px; }
+.page { max-width: 64rem; margin: auto; padding: 1.5rem clamp(1rem, 4vw, 3rem) 3rem; }
+nav { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; padding-bottom: 2rem; }
+.book { display: grid; grid-template-columns: minmax(0, 220px) minmax(0, 1fr); align-items: center; gap: clamp(1.5rem, 4vw, 3rem); }
+.book img { display: block; max-width: 100%; height: auto; box-shadow: 0 12px 25px #1b1e2020; }
+h1, h2 { font-family: Georgia, "Times New Roman", serif; line-height: 1.15; }
+h1 { font-size: clamp(2.2rem, 6vw, 3.7rem); letter-spacing: -.04em; margin: .3rem 0 .75rem; }
+h2 { font-size: 1.8rem; }
+.eyebrow { font-size: .85rem; letter-spacing: .06em; text-transform: uppercase; }
+.subtitle { font-family: Georgia, serif; font-size: 1.4rem; line-height: 1.4; }
+.details, .note { color: var(--quiet); font-size: .95rem; }
+.isbn { white-space: nowrap; }
+section { margin-top: 2.5rem; border-top: 1px solid var(--line); padding-top: .75rem; }
+.retailers { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; list-style: none; padding: 0; }
+.retailers a { display: flex; flex-direction: column; gap: .4rem; padding: 1.2rem; height: 100%; border: 1px solid var(--line); border-radius: .75rem; background: #fff; text-decoration: none; }
+.retailers a:hover { border-color: var(--accent); }
+.retailers span { font-size: .9rem; text-decoration: underline; }
+footer { margin-top: 2.5rem; font-size: .9rem; }
+.skip-link { position: absolute; top: -100px; left: 1rem; background: #fff; padding: .75rem; z-index: 2; }
+.skip-link:focus { top: 1rem; }
+@media (max-width: 600px) { .book { grid-template-columns: 1fr; } .book img { width: 150px; } .retailers { grid-template-columns: 1fr; } }
