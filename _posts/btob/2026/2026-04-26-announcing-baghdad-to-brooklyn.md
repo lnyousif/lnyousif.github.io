@@ -20,7 +20,7 @@ Now, all these years later, I am turning those fragments into something more coh
 
 At its heart, *Baghdad To Brooklyn* is a displacement story — but displacement is never just about geography. It is about identity, language, belonging, and the question of what you carry with you and what you leave behind.
 
-The book traces my journey from childhood in Baghdad, through university and early career, to the decision to leave Iraq in 2001. It follows me to New York, to the World Trade Center, to 9/11, to asylum hearings, to UNHCR advocacy trips, and eventually to citizenship — and to the Brooklyn apartment where my family finally joined me after years apart.
+The book traces my journey from childhood in Baghdad, through university and early career, to leaving Iraq in 1998 and arriving in America in 2001. It follows me to New York, to the World Trade Center, to 9/11, to asylum hearings, to UNHCR advocacy trips, and eventually to citizenship — and to the Brooklyn apartment where my family finally joined me after years apart.
 
 ---
 
